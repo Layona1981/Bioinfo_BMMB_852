@@ -1,0 +1,44 @@
+
+Organism name: Accipiter nisus. 
+
+1- Tell us a bit about the organism.
+Accipiter nisus is the scientific name of (Northern Goshawk) bird. Lives in forests across Europe, Asia, and North America.  It is an agile top predator that plays an important role in its ecosystem. 
+
+2- How many features does the file contain?
+  466403
+
+
+3-How many sequence regions (chromosomes) does the file contain? 
+ 44975
+
+
+4-How many genes are listed for this organism?
+0
+
+
+5-What are the top-ten most annotated feature types (column 3) across the genome?
+356964 exon
+64464 mRNA
+44975 region
+
+6-Having analyzed this GFF file, does it seem like a complete and well-annotated organism?
+
+The high number of features (466403) indicates a rich annotation,  multiple sequence regions also suggests a more complete genome. In addition to that, the diverse types of feature (like 356964 exon, 64464 mRNA, and 44975 region) implies a well-annotated genome. However, 0 gens  raised a read flag because some features like mRNA and exon are related to transcriptions, with 0 genes  it means that the gene annotation is not complete or the assembly might be in progress.
+
+Here are the command I used to generate my answers: 
+
+First, to  download the file I used:  wget https://ftp.ensembl.org/pub/current_gff3/accipiter_nisus/Accipiter_nisus.Accipiter_nisus_ver1.0.112.abinitio.gff3.gz
+
+To extract the GFF file I used: gunzip Accipiter_nisus.Accipiter_nisus_ver1.0.112.abinitio.gff3.gz
+
+To answer Q2- I used: grep -v '^#' Accipiter_nisus.Accipiter_nisus_ver1.0.112.abinitio.gff3 | wc -l
+
+For Q3- I used: grep -v '^#' Accipiter_nisus.Accipiter_nisus_ver1.0.112.abinitio.gff3 | cut -f1 | sort | uniq | wc -l
+
+For Q4- I used: grep -v '^#' Accipiter_nisus.Accipiter_nisus_ver1.0.112.abinitio.gff3 | grep -c 'gene'
+
+For Q5- I used: grep -v '^#' Accipiter_nisus.Accipiter_nisus_ver1.0.112.abinitio.gff3 | cut -f3 | sort | uniq -c | sort -nr | head -n 10
+
+
+
+
