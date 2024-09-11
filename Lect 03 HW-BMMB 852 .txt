@@ -7,15 +7,11 @@ Accipiter nisus is the scientific name of (Northern Goshawk) bird. Lives in fore
 2- How many features does the file contain?
   867929
 
-
-
 3-How many sequence regions (chromosomes) does the file contain? 
- 
  44975
 
 4-How many genes are listed for this organism?
 45991
-
 
 5-What are the top-ten most annotated feature types (column 3) across the genome?
 309995 exon
@@ -29,27 +25,22 @@ Accipiter nisus is the scientific name of (Northern Goshawk) bird. Lives in fore
  754 ncRNA_gene
  433 lnc_RNA
 
-
-
 6-Having analyzed this GFF file, does it seem like a complete and well-annotated organism?
 
-The high number of features indicates a rich annotation, multiple sequence regions also suggests   complete genome. In addition to that, the diverse types of feature implies a well-annotated genome. 
+The high number of features indicates a rich annotation. Multiple sequence regions also suggest a complete genome. In addition, the diverse types of features imply a well-annotated genome. 
 
 Here are the commands I used to generate my answers: 
 
 First, to  download the file I used:   curl -O https://ftp.ensembl.org/pub/current_gff3/accipiter_nisus/Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3.gz
 
-To extract the GFF file I used:
+To extract the GFF file I used: gunzip Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3.gz
 
 To answer Q2- I used: $ grep -v '^#' Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3 | wc -l
 
 For Q3- I used: $ grep -v '^#' Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3 | cut -f1 | sort | uniq | wc -l 
 
-
 For Q4- I used: grep -v '^#' Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3 | grep -c 'gene'
 
 For Q5- I used: grep -v '^#' Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3 | cut -f3 | sort | uniq -c | sort -nr | head -n 10
-
-
 
 
