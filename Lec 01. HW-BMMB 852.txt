@@ -1,0 +1,19 @@
+
+
+	1.	Set up your computer.
+		    Done 
+	
+	2- Follow the installation instructions.
+	   Done 
+		
+	3- How can you tell that you were successful?
+	When there are no error messages or warning during the sep up process that indicates the successful set up!  
+
+	4- Can you run the samtools program?
+            Yes 
+	
+        5-What version is your samtools program?
+           samtools 1.20
+	
+       6- Share the link to your GitHub repository that you have set up. 
+        https://github.com/Layona1981/Lina-Sallam-     
