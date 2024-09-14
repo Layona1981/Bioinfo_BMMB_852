@@ -1,7 +1,6 @@
 # Gene Intervals Report
 
-[
-](https://github.com/Layona1981/Bioinfo_BMMB_852/blob/main/Gene%20intervals%20Pic%202024-09-14.png) ## Input Data
+[](https://github.com/Layona1981/Bioinfo_BMMB_852/blob/main/Gene%20intervals%20Pic%202024-09-14.png) ## Input Data
 
 Below is the input data from the `genes_only.gff3` :
 
