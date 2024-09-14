@@ -3,7 +3,7 @@
 
 ## Input Data
 
-Below is the input data from the `genes_only.gff3` file:
+Below is the input data from the `genes_only.gff3` :
 
 ```
 GeneScaffold_1	ensembl	gene	403	2242	.	-	.	ID=gene:ENSCHOG00000007933;biotype=protein_coding;gene_id=ENSCHOG00000007933;logic_name=ensembl_projection;version=1
@@ -18,9 +18,6 @@ GeneScaffold_1003	ensembl	gene	4	14249	.	+	.	ID=gene:ENSCHOG00000001476;Name=SF3
 GeneScaffold_1004	ensembl	gene	3704	26505	.	+	.	ID=gene:ENSCHOG00000000841;biotype=protein_coding;gene_id=ENSCHOG00000000841;logic_name=ensembl_projection;version=1
 ```
 
-## Output
-
-The output of the analysis based on the input data is as follows:
 
 - **Total Genes Identified**: 10
 
@@ -39,11 +36,6 @@ GeneScaffold_1003: ID=gene:ENSCHOG00000001476; Name=SF3B2; biotype=protein_codin
 GeneScaffold_1004: ID=gene:ENSCHOG00000000841; biotype=protein_coding
 ```
 
-## Discussion
 
-The provided gene intervals represent various genes found within the dataset. Each entry includes details such as ID, biotype, and additional annotations.
 
-## Conclusion
-
-This report provides the foundation for further analysis of the gene intervals and their biological significance.
 
