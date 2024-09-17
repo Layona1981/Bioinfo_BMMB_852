@@ -9,7 +9,6 @@
 - 📫 How to reach me las7033@psu.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I deeply love cats, plants, and all things food-related!
-
 <!---
 Layona1981/👀 I'm passionate about the fascinating world of microbiomes.
 
