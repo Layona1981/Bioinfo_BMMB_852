@@ -2,7 +2,7 @@
 
 ````cd Choloepus_hoffmanni````
 
-````curl-l https://useast.ensembl.org/Choloepus_hoffmanni/Transcript/Summary?db=core;g=ENSCHOG00000015578;r=scaffold_95728:2238-2320;t=ENSCHOT00000014379````
+````curl-l https://useast.ensembl.org/Choloepus_hoffmanni/Transcript/Summary?db=core;g=ENSCHOG00000015578;r=scaffold_95728:2238-2320;t=ENSCHOT00000014379```` 
 
 ````gunzip ENSCHOT00000014379.1_genomic.fna.gz```
 
@@ -11,7 +11,7 @@
 
 ````cat ENSCHOT00000014379.1_genomic.gff | awk '$3 == "gene"' > Choloepus_hoffmanni_genes.gff cat ENSCHOT00000014379.1_genomic.gff | awk '$3 == "CDS"' > Choloepus_hoffmanni_CDS.gff````
 
-````head Choloepus_hoffmanni_genes.gff``` 
+````head Choloepus_hoffmanni_genes.gff````
 ````head Choloepus_hoffmanni_CDC.gff````
 
 # interegenic_region 
@@ -50,6 +50,4 @@ ENSCHOG00000001476    RefSeq  gene    9923    11251   .       +       .       ID
 
 ENSCHOG00000001476    RefSeq  gene    11251   12039   .       +       .       ID=gene-MG_RS00045;Dbxref=GeneID:88282124;Name=MG_RS00045;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MG_RS00045;old_locus_tag=MG_009
 
-ENSCHOG00000000841    RefSeq  gene    12068   12724   .       +       .       ID=gene-MG_RS00050;Dbxref=GeneID:88282125;Name=MG_RS00050;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MG_RS00050;old_locus_tag=MG_010````
-
-`` 
+ENSCHOG00000000841    RefSeq  gene    12068   12724   .       +       .       ID=gene-MG_RS00050;Dbxref=GeneID:88282125;Name=MG_RS00050;gbkey=Gene;gene_biotype=protein_coding;locus_tag=MG_RS00050;old_locus_tag=MG_010
