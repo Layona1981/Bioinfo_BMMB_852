@@ -1,4 +1,4 @@
-# Gene Intervals Report
+Gene Intervals Report
 
 
 ## Input Data
