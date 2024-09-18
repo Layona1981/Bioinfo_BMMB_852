@@ -18,7 +18,7 @@ gunzip ENSCHOT00000014379.1_genomic.fna.gz
 ````
 gunzip ENSCHOT00000014379.1_genomic.gff
 ````
-# Command used for getting gene.gff and cds.gff
+## Command used for getting gene.gff and cds.gff
 
 ````
 cat ENSCHOT00000014379.1_genomic.gff | awk '$3 == "gene"' > Choloepus_hoffmanni_genes.gff cat ENSCHOT00000014379.1_genomic.gff | awk '$3 == "CDS"' > Choloepus_hoffmanni_CDS.gff
@@ -31,7 +31,7 @@ head Choloepus_hoffmanni_genes.gff
 head Choloepus_hoffmanni_CDC.gff
 ````
 
-# Interegenic_region 
+## Interegenic_region 
 
 
 ENSCHOG00000007557     .       intergenic_region       2760    2845    .       .       .       ID=intergenic_2;Name=intergenic_region_2
@@ -48,7 +48,8 @@ ENSCHOG00000013325    .       intergenic_region       12039   12068   .       . 
 ## Genes only 
 
 ````
-awk '$3 == "gene" Choloepus_hoffmanni_genes.gff3 | head -n 20```` 
+awk '$3 == "gene" Choloepus_hoffmanni_genes.gff3 | head -n 20
+```` 
 
 ENSCHOG00000006326     RefSeq  gene    686     1828    .       +       .       ID=gene-MG_RS00005;Dbxref=GeneID:88282116;Name=dnaN;gbkey=Gene;gene=dnaN;gene_biotype=protein_coding;locus_tag=MG_RS00005;old_locus_tag=MG_001
 
