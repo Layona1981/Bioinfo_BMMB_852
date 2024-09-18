@@ -2,6 +2,10 @@
 !Gene Image
 (https://github.com/Layona1981/Bioinfo_BMMB_852/blob/main/Gene_image.png) 
 
+``` gunzip -d Danio_rerio.GRCz11.112.chromosome.1.gff3.gz ```
+```grep -v '^#' Danio_rerio.GRCz11.112.chromosome.1.gff3 | sort -k1,1 -k4,4n > Danio_rerio.GRCz11.112.chromosome.1.sorted.gff3```
+```` 
+
 Below is the input data from the `genes_only.gff3` :
 
 ```
