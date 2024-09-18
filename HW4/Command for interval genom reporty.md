@@ -3,21 +3,35 @@
 mkdir Choloepus_hoffmanni
 ```` 
 
-````cd Choloepus_hoffmanni````
+````
+cd Choloepus_hoffmanni
+````
 
-````curl-l https://useast.ensembl.org/Choloepus_hoffmanni/Transcript/Summary?db=core;g=ENSCHOG00000015578;r=scaffold_95728:2238-2320;t=ENSCHOT00000014379```` 
+````
+curl-l https://useast.ensembl.org/Choloepus_hoffmanni/Transcript/Summary?db=core;g=ENSCHOG00000015578;r=scaffold_95728:2238-2320;t=ENSCHOT00000014379
+```` 
 
-````gunzip ENSCHOT00000014379.1_genomic.fna.gz````
+````
+gunzip ENSCHOT00000014379.1_genomic.fna.gz
+````
 
-````gunzip ENSCHOT00000014379.1_genomic.gff````
+````
+gunzip ENSCHOT00000014379.1_genomic.gff
+````
 # Command used for getting gene.gff and cds.gff
 
-````cat ENSCHOT00000014379.1_genomic.gff | awk '$3 == "gene"' > Choloepus_hoffmanni_genes.gff cat ENSCHOT00000014379.1_genomic.gff | awk '$3 == "CDS"' > Choloepus_hoffmanni_CDS.gff````
+````
+cat ENSCHOT00000014379.1_genomic.gff | awk '$3 == "gene"' > Choloepus_hoffmanni_genes.gff cat ENSCHOT00000014379.1_genomic.gff | awk '$3 == "CDS"' > Choloepus_hoffmanni_CDS.gff
+````
 
-````head Choloepus_hoffmanni_genes.gff````
-````head Choloepus_hoffmanni_CDC.gff````
+````
+head Choloepus_hoffmanni_genes.gff
+````
+````
+head Choloepus_hoffmanni_CDC.gff
+````
 
-# interegenic_region 
+# Interegenic_region 
 
 
 ENSCHOG00000007557     .       intergenic_region       2760    2845    .       .       .       ID=intergenic_2;Name=intergenic_region_2
@@ -31,9 +45,10 @@ ENSCHOG00000006326     .       intergenic_region       9920    9923    .       .
 ENSCHOG00000013325    .       intergenic_region       12039   12068   .       .       .       ID=intergenic_6;Name=intergenic_region_6````
 
 
-# genes only 
+## Genes only 
 
-````awk '$3 == "gene" Choloepus_hoffmanni_genes.gff3 | head -n 20```` 
+````
+awk '$3 == "gene" Choloepus_hoffmanni_genes.gff3 | head -n 20```` 
 
 ENSCHOG00000006326     RefSeq  gene    686     1828    .       +       .       ID=gene-MG_RS00005;Dbxref=GeneID:88282116;Name=dnaN;gbkey=Gene;gene=dnaN;gene_biotype=protein_coding;locus_tag=MG_RS00005;old_locus_tag=MG_001
 
