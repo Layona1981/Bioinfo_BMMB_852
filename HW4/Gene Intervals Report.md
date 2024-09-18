@@ -1,7 +1,6 @@
 Gene Intervals Report
 
-
-## Input Data
+!Gene Image (https://github.com/Layona1981/Bioinfo_BMMB_852/blob/main/Gene_image.png) ## Input Data 
 
 Below is the input data from the `genes_only.gff3` file:
 
