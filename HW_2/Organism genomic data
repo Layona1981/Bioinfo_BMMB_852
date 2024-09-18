@@ -85,7 +85,7 @@ Here are the commands I used to generate my answers:
 - To answer Q2:  
   ```bash
   grep -v '^#' Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3 | wc -l
-  ```
+  ``` 
 
 - For Q3:  
   ```bash
