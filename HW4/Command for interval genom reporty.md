@@ -1,12 +1,13 @@
+
 ````mkdir Choloepus_hoffmanni```` 
 
 ````cd Choloepus_hoffmanni````
 
 ````curl-l https://useast.ensembl.org/Choloepus_hoffmanni/Transcript/Summary?db=core;g=ENSCHOG00000015578;r=scaffold_95728:2238-2320;t=ENSCHOT00000014379```` 
 
-````gunzip ENSCHOT00000014379.1_genomic.fna.gz```
+````gunzip ENSCHOT00000014379.1_genomic.fna.gz````
 
-````gunzip ENSCHOT00000014379.1_genomic.gff```
+````gunzip ENSCHOT00000014379.1_genomic.gff````
 # Command used for getting gene.gff and cds.gff
 
 ````cat ENSCHOT00000014379.1_genomic.gff | awk '$3 == "gene"' > Choloepus_hoffmanni_genes.gff cat ENSCHOT00000014379.1_genomic.gff | awk '$3 == "CDS"' > Choloepus_hoffmanni_CDS.gff````
