@@ -1,0 +1,60 @@
+1- Describe a Unix command not discussed in the class or the book. Try to find something that might be useful. When would you use that command?
+
+htop is a process viewer for Unix systems, htop provides a user-friendly interface with color coding to visualize system resources and manage processes. 
+
+
+2-Describe a customization for the command you chose above (describe the effect of a flag/parameter).
+
+ -u <username>. -u flag allows us to filter  the prosses by showing only what's belong to a specific user. 
+
+3- What flags will make the ls command write out the files sizes in “human-friendly” mode?
+
+ls -lh
+
+
+4- What flag will make the rm command ask for permission when removing a file?
+
+rm -i 
+
+
+5- Create a nested directory structure. Make files in the various directories.
+
+mkdir -p ~/projects/{project1/{src,bin},project2/{docs,tests}}
+touch ~/projects/project1/src/main.c
+touch ~/projects/project1/bin/executable
+touch ~/projects/project2/docs/readme.txt
+touch ~/projects/project2/tests/test_main.c
+
+projects/
+├── project1/
+│   ├── src/
+│   │   └── main.c
+│   └── bin/
+│       └── executable
+└── project2/
+    ├── docs/
+    │   └── readme.txt
+    └── tests/
+        └── test_main.c
+
+
+
+6- List the absolute and relative path to a file.
+
+Absolute Path:
+/home/username/projects/project1/src/main.c
+
+Relative Path:
+projects/project1/src/main.c (from the home directory)
+
+
+7- List a valid path with shortcuts: home directory, current directory, parent directory. 
+
+Home Directory:
+~/documents/report.txt
+
+Current Directory:
+./projects/project1/src/main.c
+
+Parent Directory:
+../backup/old_files/
