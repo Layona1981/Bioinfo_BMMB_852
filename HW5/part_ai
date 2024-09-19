@@ -1,0 +1,1000 @@
+GeneScaffold_7217: ID=ID=gene:ENSCHOG00000013981;biotype=protein_coding;gene_id=ENSCHOG00000013981;logic_name=ensembl_projection;version=1
+GeneScaffold_7218: ID=ID=gene:ENSCHOG00000000511;Name=XKR5;biotype=protein_coding;description=XK related 5 [Source:HGNC Symbol%3BAcc:HGNC:20782];gene_id=ENSCHOG00000000511;logic_name=ensembl_projection;version=1
+GeneScaffold_7219: ID=ID=gene:ENSCHOG00000000407;Name=NF2;biotype=protein_coding;description=neurofibromin 2 [Source:HGNC Symbol%3BAcc:HGNC:7773];gene_id=ENSCHOG00000000407;logic_name=ensembl_projection;version=1
+GeneScaffold_722: ID=ID=gene:ENSCHOG00000012764;Name=NTN4;biotype=protein_coding;description=netrin 4 [Source:HGNC Symbol%3BAcc:HGNC:13658];gene_id=ENSCHOG00000012764;logic_name=ensembl_projection;version=1
+GeneScaffold_7220: ID=ID=gene:ENSCHOG00000003605;Name=UBE2H;biotype=protein_coding;description=ubiquitin conjugating enzyme E2 H [Source:HGNC Symbol%3BAcc:HGNC:12484];gene_id=ENSCHOG00000003605;logic_name=ensembl_projection;version=1
+GeneScaffold_7221: ID=ID=gene:ENSCHOG00000012047;biotype=protein_coding;gene_id=ENSCHOG00000012047;logic_name=ensembl_projection;version=1
+GeneScaffold_7222: ID=ID=gene:ENSCHOG00000012469;Name=FSD2;biotype=protein_coding;description=fibronectin type III and SPRY domain containing 2 [Source:HGNC Symbol%3BAcc:HGNC:18024];gene_id=ENSCHOG00000012469;logic_name=ensembl_projection;version=1
+GeneScaffold_7223: ID=ID=gene:ENSCHOG00000013089;biotype=protein_coding;gene_id=ENSCHOG00000013089;logic_name=ensembl_projection;version=1
+GeneScaffold_7224: ID=ID=gene:ENSCHOG00000005674;Name=ZFP91;biotype=protein_coding;description=ZFP91 zinc finger protein%2C atypical E3 ubiquitin ligase [Source:HGNC Symbol%3BAcc:HGNC:14983];gene_id=ENSCHOG00000005674;logic_name=ensembl_projection;version=1
+GeneScaffold_7225: ID=ID=gene:ENSCHOG00000007852;biotype=protein_coding;gene_id=ENSCHOG00000007852;logic_name=ensembl_projection;version=1
+GeneScaffold_7226: ID=ID=gene:ENSCHOG00000006766;Name=LYRM7;biotype=protein_coding;description=LYR motif containing 7 [Source:HGNC Symbol%3BAcc:HGNC:28072];gene_id=ENSCHOG00000006766;logic_name=ensembl_projection;version=1
+GeneScaffold_7227: ID=ID=gene:ENSCHOG00000009517;biotype=protein_coding;gene_id=ENSCHOG00000009517;logic_name=ensembl_projection;version=1
+GeneScaffold_7228: ID=ID=gene:ENSCHOG00000001143;biotype=protein_coding;gene_id=ENSCHOG00000001143;logic_name=ensembl_projection;version=1
+GeneScaffold_7229: ID=ID=gene:ENSCHOG00000007067;Name=TPCN1;biotype=protein_coding;description=two pore segment channel 1 [Source:HGNC Symbol%3BAcc:HGNC:18182];gene_id=ENSCHOG00000007067;logic_name=ensembl_projection;version=1
+GeneScaffold_7229: ID=ID=gene:ENSCHOG00000007097;biotype=protein_coding;gene_id=ENSCHOG00000007097;logic_name=ensembl_projection;version=1
+GeneScaffold_723: ID=ID=gene:ENSCHOG00000012542;Name=NUAK1;biotype=protein_coding;description=NUAK family kinase 1 [Source:HGNC Symbol%3BAcc:HGNC:14311];gene_id=ENSCHOG00000012542;logic_name=ensembl_projection;version=1
+GeneScaffold_7230: ID=ID=gene:ENSCHOG00000006380;biotype=protein_coding;gene_id=ENSCHOG00000006380;logic_name=ensembl_projection;version=1
+GeneScaffold_7231: ID=ID=gene:ENSCHOG00000002819;biotype=protein_coding;gene_id=ENSCHOG00000002819;logic_name=ensembl_projection;version=1
+GeneScaffold_7232: ID=ID=gene:ENSCHOG00000000412;biotype=protein_coding;gene_id=ENSCHOG00000000412;logic_name=ensembl_projection;version=1
+GeneScaffold_7233: ID=ID=gene:ENSCHOG00000002815;Name=QRFPR;biotype=protein_coding;description=pyroglutamylated RFamide peptide receptor [Source:HGNC Symbol%3BAcc:HGNC:15565];gene_id=ENSCHOG00000002815;logic_name=ensembl_projection;version=1
+GeneScaffold_7234: ID=ID=gene:ENSCHOG00000010964;biotype=protein_coding;gene_id=ENSCHOG00000010964;logic_name=ensembl_projection;version=1
+GeneScaffold_7235: ID=ID=gene:ENSCHOG00000003015;Name=ZDHHC17;biotype=protein_coding;description=zinc finger DHHC-type containing 17 [Source:HGNC Symbol%3BAcc:HGNC:18412];gene_id=ENSCHOG00000003015;logic_name=ensembl_projection;version=1
+GeneScaffold_7236: ID=ID=gene:ENSCHOG00000003990;Name=SERPINA11;biotype=protein_coding;description=serpin family A member 11 [Source:HGNC Symbol%3BAcc:HGNC:19193];gene_id=ENSCHOG00000003990;logic_name=ensembl_projection;version=1
+GeneScaffold_7237: ID=ID=gene:ENSCHOG00000003604;Name=PPARA;biotype=protein_coding;description=peroxisome proliferator activated receptor alpha [Source:HGNC Symbol%3BAcc:HGNC:9232];gene_id=ENSCHOG00000003604;logic_name=ensembl_projection;version=1
+GeneScaffold_7238: ID=ID=gene:ENSCHOG00000011222;biotype=protein_coding;gene_id=ENSCHOG00000011222;logic_name=ensembl_projection;version=1
+GeneScaffold_7239: ID=ID=gene:ENSCHOG00000010206;Name=EFCAB6;biotype=protein_coding;description=EF-hand calcium binding domain 6 [Source:HGNC Symbol%3BAcc:HGNC:24204];gene_id=ENSCHOG00000010206;logic_name=ensembl_projection;version=1
+GeneScaffold_724: ID=ID=gene:ENSCHOG00000013267;Name=DPP8;biotype=protein_coding;description=dipeptidyl peptidase 8 [Source:HGNC Symbol%3BAcc:HGNC:16490];gene_id=ENSCHOG00000013267;logic_name=ensembl_projection;version=1
+GeneScaffold_7240: ID=ID=gene:ENSCHOG00000000151;biotype=protein_coding;gene_id=ENSCHOG00000000151;logic_name=ensembl_projection;version=1
+GeneScaffold_7241: ID=ID=gene:ENSCHOG00000009972;Name=ACTL7A;biotype=protein_coding;description=actin like 7A [Source:HGNC Symbol%3BAcc:HGNC:161];gene_id=ENSCHOG00000009972;logic_name=ensembl_projection;version=1
+GeneScaffold_7241: ID=ID=gene:ENSCHOG00000009974;Name=ELP1;biotype=protein_coding;description=elongator complex protein 1 [Source:HGNC Symbol%3BAcc:HGNC:5959];gene_id=ENSCHOG00000009974;logic_name=ensembl_projection;version=1
+GeneScaffold_7242: ID=ID=gene:ENSCHOG00000006303;Name=PNLIPRP1;biotype=protein_coding;description=pancreatic lipase related protein 1 [Source:HGNC Symbol%3BAcc:HGNC:9156];gene_id=ENSCHOG00000006303;logic_name=ensembl_projection;version=1
+GeneScaffold_7243: ID=ID=gene:ENSCHOG00000012943;Name=SAMD7;biotype=protein_coding;description=sterile alpha motif domain containing 7 [Source:HGNC Symbol%3BAcc:HGNC:25394];gene_id=ENSCHOG00000012943;logic_name=ensembl_projection;version=1
+GeneScaffold_7244: ID=ID=gene:ENSCHOG00000005199;Name=TMEM216;biotype=protein_coding;description=transmembrane protein 216 [Source:HGNC Symbol%3BAcc:HGNC:25018];gene_id=ENSCHOG00000005199;logic_name=ensembl_projection;version=1
+GeneScaffold_7244: ID=ID=gene:ENSCHOG00000005200;Name=CPSF7;biotype=protein_coding;description=cleavage and polyadenylation specific factor 7 [Source:HGNC Symbol%3BAcc:HGNC:30098];gene_id=ENSCHOG00000005200;logic_name=ensembl_projection;version=1
+GeneScaffold_7244: ID=ID=gene:ENSCHOG00000005213;Name=SDHAF2;biotype=protein_coding;description=succinate dehydrogenase complex assembly factor 2 [Source:HGNC Symbol%3BAcc:HGNC:26034];gene_id=ENSCHOG00000005213;logic_name=ensembl_projection;version=1
+GeneScaffold_7245: ID=ID=gene:ENSCHOG00000010416;Name=TMPRSS11A;biotype=protein_coding;description=transmembrane serine protease 11A [Source:HGNC Symbol%3BAcc:HGNC:27954];gene_id=ENSCHOG00000010416;logic_name=ensembl_projection;version=1
+GeneScaffold_7246: ID=ID=gene:ENSCHOG00000001087;Name=TEAD1;biotype=protein_coding;description=TEA domain transcription factor 1 [Source:HGNC Symbol%3BAcc:HGNC:11714];gene_id=ENSCHOG00000001087;logic_name=ensembl_projection;version=1
+GeneScaffold_7247: ID=ID=gene:ENSCHOG00000011315;Name=ENTPD5;biotype=protein_coding;description=ectonucleoside triphosphate diphosphohydrolase 5 (inactive) [Source:HGNC Symbol%3BAcc:HGNC:3367];gene_id=ENSCHOG00000011315;logic_name=ensembl_projection;version=1
+GeneScaffold_7248: ID=ID=gene:ENSCHOG00000011031;Name=MITF;biotype=protein_coding;description=melanocyte inducing transcription factor [Source:HGNC Symbol%3BAcc:HGNC:7105];gene_id=ENSCHOG00000011031;logic_name=ensembl_projection;version=1
+GeneScaffold_7249: ID=ID=gene:ENSCHOG00000012023;Name=HEATR4;biotype=protein_coding;description=HEAT repeat containing 4 [Source:HGNC Symbol%3BAcc:HGNC:16761];gene_id=ENSCHOG00000012023;logic_name=ensembl_projection;version=1
+GeneScaffold_725: ID=ID=gene:ENSCHOG00000008581;biotype=protein_coding;gene_id=ENSCHOG00000008581;logic_name=ensembl_projection;version=1
+GeneScaffold_725: ID=ID=gene:ENSCHOG00000008593;Name=DENND4A;biotype=protein_coding;description=DENN domain containing 4A [Source:HGNC Symbol%3BAcc:HGNC:24321];gene_id=ENSCHOG00000008593;logic_name=ensembl_projection;version=1
+GeneScaffold_7250: ID=ID=gene:ENSCHOG00000003210;Name=NAP1L1;biotype=protein_coding;description=nucleosome assembly protein 1 like 1 [Source:HGNC Symbol%3BAcc:HGNC:7637];gene_id=ENSCHOG00000003210;logic_name=ensembl_projection;version=1
+GeneScaffold_7251: ID=ID=gene:ENSCHOG00000010427;Name=CMC1;biotype=protein_coding;description=C-X9-C motif containing 1 [Source:HGNC Symbol%3BAcc:HGNC:28783];gene_id=ENSCHOG00000010427;logic_name=ensembl_projection;version=1
+GeneScaffold_7251: ID=ID=gene:ENSCHOG00000010432;Name=AZI2;biotype=protein_coding;description=5-azacytidine induced 2 [Source:HGNC Symbol%3BAcc:HGNC:24002];gene_id=ENSCHOG00000010432;logic_name=ensembl_projection;version=1
+GeneScaffold_7252: ID=ID=gene:ENSCHOG00000001488;biotype=protein_coding;gene_id=ENSCHOG00000001488;logic_name=ensembl_projection;version=1
+GeneScaffold_7253: ID=ID=gene:ENSCHOG00000005180;Name=LYPD6;biotype=protein_coding;description=LY6/PLAUR domain containing 6 [Source:HGNC Symbol%3BAcc:HGNC:28751];gene_id=ENSCHOG00000005180;logic_name=ensembl_projection;version=1
+GeneScaffold_7254: ID=ID=gene:ENSCHOG00000009853;biotype=protein_coding;gene_id=ENSCHOG00000009853;logic_name=ensembl_projection;version=1
+GeneScaffold_7255: ID=ID=gene:ENSCHOG00000008668;biotype=protein_coding;gene_id=ENSCHOG00000008668;logic_name=ensembl_projection;version=1
+GeneScaffold_7256: ID=ID=gene:ENSCHOG00000001189;Name=RNF220;biotype=protein_coding;description=ring finger protein 220 [Source:HGNC Symbol%3BAcc:HGNC:25552];gene_id=ENSCHOG00000001189;logic_name=ensembl_projection;version=1
+GeneScaffold_7257: ID=ID=gene:ENSCHOG00000002920;Name=ANGPTL5;biotype=protein_coding;description=angiopoietin like 5 [Source:HGNC Symbol%3BAcc:HGNC:19705];gene_id=ENSCHOG00000002920;logic_name=ensembl_projection;version=1
+GeneScaffold_7258: ID=ID=gene:ENSCHOG00000004427;Name=SHTN1;biotype=protein_coding;description=shootin 1 [Source:HGNC Symbol%3BAcc:HGNC:29319];gene_id=ENSCHOG00000004427;logic_name=ensembl_projection;version=1
+GeneScaffold_7259: ID=ID=gene:ENSCHOG00000011007;biotype=protein_coding;gene_id=ENSCHOG00000011007;logic_name=ensembl_projection;version=1
+GeneScaffold_726: ID=ID=gene:ENSCHOG00000005816;Name=ZNF532;biotype=protein_coding;description=zinc finger protein 532 [Source:HGNC Symbol%3BAcc:HGNC:30940];gene_id=ENSCHOG00000005816;logic_name=ensembl_projection;version=1
+GeneScaffold_7260: ID=ID=gene:ENSCHOG00000010003;biotype=protein_coding;gene_id=ENSCHOG00000010003;logic_name=ensembl_projection;version=1
+GeneScaffold_7261: ID=ID=gene:ENSCHOG00000003038;biotype=protein_coding;gene_id=ENSCHOG00000003038;logic_name=ensembl_projection;version=1
+GeneScaffold_7262: ID=ID=gene:ENSCHOG00000012611;biotype=protein_coding;gene_id=ENSCHOG00000012611;logic_name=ensembl_projection;version=1
+GeneScaffold_7263: ID=ID=gene:ENSCHOG00000013607;biotype=protein_coding;gene_id=ENSCHOG00000013607;logic_name=ensembl_projection;version=1
+GeneScaffold_7264: ID=ID=gene:ENSCHOG00000007575;Name=KRT12;biotype=protein_coding;description=keratin 12 [Source:HGNC Symbol%3BAcc:HGNC:6414];gene_id=ENSCHOG00000007575;logic_name=ensembl_projection;version=1
+GeneScaffold_7264: ID=ID=gene:ENSCHOG00000007590;Name=KRT20;biotype=protein_coding;description=keratin 20 [Source:HGNC Symbol%3BAcc:HGNC:20412];gene_id=ENSCHOG00000007590;logic_name=ensembl_projection;version=1
+GeneScaffold_7265: ID=ID=gene:ENSCHOG00000001468;Name=RSBN1L;biotype=protein_coding;description=round spermatid basic protein 1 like [Source:HGNC Symbol%3BAcc:HGNC:24765];gene_id=ENSCHOG00000001468;logic_name=ensembl_projection;version=1
+GeneScaffold_7266: ID=ID=gene:ENSCHOG00000000771;biotype=protein_coding;gene_id=ENSCHOG00000000771;logic_name=ensembl_projection;version=1
+GeneScaffold_7267: ID=ID=gene:ENSCHOG00000008701;biotype=protein_coding;gene_id=ENSCHOG00000008701;logic_name=ensembl_projection;version=1
+GeneScaffold_7268: ID=ID=gene:ENSCHOG00000003385;Name=DCC;biotype=protein_coding;description=DCC netrin 1 receptor [Source:HGNC Symbol%3BAcc:HGNC:2701];gene_id=ENSCHOG00000003385;logic_name=ensembl_projection;version=1
+GeneScaffold_7269: ID=ID=gene:ENSCHOG00000013429;Name=MAGI2;biotype=protein_coding;description=membrane associated guanylate kinase%2C WW and PDZ domain containing 2 [Source:HGNC Symbol%3BAcc:HGNC:18957];gene_id=ENSCHOG00000013429;logic_name=ensembl_projection;version=1
+GeneScaffold_727: ID=ID=gene:ENSCHOG00000013222;Name=LMAN1;biotype=protein_coding;description=lectin%2C mannose binding 1 [Source:HGNC Symbol%3BAcc:HGNC:6631];gene_id=ENSCHOG00000013222;logic_name=ensembl_projection;version=1
+GeneScaffold_7270: ID=ID=gene:ENSCHOG00000000802;Name=LUZP2;biotype=protein_coding;description=leucine zipper protein 2 [Source:HGNC Symbol%3BAcc:HGNC:23206];gene_id=ENSCHOG00000000802;logic_name=ensembl_projection;version=1
+GeneScaffold_7271: ID=ID=gene:ENSCHOG00000002392;Name=LHFPL3;biotype=protein_coding;description=LHFPL tetraspan subfamily member 3 [Source:HGNC Symbol%3BAcc:HGNC:6589];gene_id=ENSCHOG00000002392;logic_name=ensembl_projection;version=1
+GeneScaffold_7272: ID=ID=gene:ENSCHOG00000010041;Name=RDM1;biotype=protein_coding;description=RAD52 motif containing 1 [Source:HGNC Symbol%3BAcc:HGNC:19950];gene_id=ENSCHOG00000010041;logic_name=ensembl_projection;version=1
+GeneScaffold_7273: ID=ID=gene:ENSCHOG00000001200;biotype=protein_coding;gene_id=ENSCHOG00000001200;logic_name=ensembl_projection;version=1
+GeneScaffold_7273: ID=ID=gene:ENSCHOG00000001215;Name=COL4A2;biotype=protein_coding;description=collagen type IV alpha 2 chain [Source:HGNC Symbol%3BAcc:HGNC:2203];gene_id=ENSCHOG00000001215;logic_name=ensembl_projection;version=1
+GeneScaffold_7274: ID=ID=gene:ENSCHOG00000000078;biotype=protein_coding;description=pleckstrin homology and RhoGEF domain containing G7 [Source:HGNC Symbol%3BAcc:HGNC:33829];gene_id=ENSCHOG00000000078;logic_name=ensembl_projection;version=1
+GeneScaffold_7274: ID=ID=gene:ENSCHOG00000000081;Name=EEA1;biotype=protein_coding;description=early endosome antigen 1 [Source:HGNC Symbol%3BAcc:HGNC:3185];gene_id=ENSCHOG00000000081;logic_name=ensembl_projection;version=1
+GeneScaffold_7275: ID=ID=gene:ENSCHOG00000012485;Name=HSPA14;biotype=protein_coding;description=heat shock protein family A (Hsp70) member 14 [Source:HGNC Symbol%3BAcc:HGNC:29526];gene_id=ENSCHOG00000012485;logic_name=ensembl_projection;version=1
+GeneScaffold_7275: ID=ID=gene:ENSCHOG00000012519;Name=SUV39H2;biotype=protein_coding;description=suppressor of variegation 3-9 homolog 2 [Source:HGNC Symbol%3BAcc:HGNC:17287];gene_id=ENSCHOG00000012519;logic_name=ensembl_projection;version=1
+GeneScaffold_7276: ID=ID=gene:ENSCHOG00000008029;biotype=protein_coding;gene_id=ENSCHOG00000008029;logic_name=ensembl_projection;version=1
+GeneScaffold_7277: ID=ID=gene:ENSCHOG00000005373;Name=USP7;biotype=protein_coding;description=ubiquitin specific peptidase 7 [Source:HGNC Symbol%3BAcc:HGNC:12630];gene_id=ENSCHOG00000005373;logic_name=ensembl_projection;version=1
+GeneScaffold_7278: ID=ID=gene:ENSCHOG00000006693;biotype=protein_coding;gene_id=ENSCHOG00000006693;logic_name=ensembl_projection;version=1
+GeneScaffold_7279: ID=ID=gene:ENSCHOG00000002823;Name=ERC2;biotype=protein_coding;description=ELKS/RAB6-interacting/CAST family member 2 [Source:HGNC Symbol%3BAcc:HGNC:31922];gene_id=ENSCHOG00000002823;logic_name=ensembl_projection;version=1
+GeneScaffold_728: ID=ID=gene:ENSCHOG00000009948;Name=HACD3;biotype=protein_coding;description=3-hydroxyacyl-CoA dehydratase 3 [Source:HGNC Symbol%3BAcc:HGNC:24175];gene_id=ENSCHOG00000009948;logic_name=ensembl_projection;version=1
+GeneScaffold_728: ID=ID=gene:ENSCHOG00000009962;Name=INTS14;biotype=protein_coding;description=integrator complex subunit 14 [Source:HGNC Symbol%3BAcc:HGNC:25372];gene_id=ENSCHOG00000009962;logic_name=ensembl_projection;version=1
+GeneScaffold_7280: ID=ID=gene:ENSCHOG00000012191;Name=B3GLCT;biotype=protein_coding;description=beta 3-glucosyltransferase [Source:HGNC Symbol%3BAcc:HGNC:20207];gene_id=ENSCHOG00000012191;logic_name=ensembl_projection;version=1
+GeneScaffold_7281: ID=ID=gene:ENSCHOG00000005001;biotype=protein_coding;gene_id=ENSCHOG00000005001;logic_name=ensembl_projection;version=1
+GeneScaffold_7281: ID=ID=gene:ENSCHOG00000005025;biotype=protein_coding;gene_id=ENSCHOG00000005025;logic_name=ensembl_projection;version=1
+GeneScaffold_7282: ID=ID=gene:ENSCHOG00000000676;biotype=protein_coding;gene_id=ENSCHOG00000000676;logic_name=ensembl_projection;version=1
+GeneScaffold_7283: ID=ID=gene:ENSCHOG00000000411;biotype=protein_coding;gene_id=ENSCHOG00000000411;logic_name=ensembl_projection;version=1
+GeneScaffold_7284: ID=ID=gene:ENSCHOG00000013623;biotype=protein_coding;gene_id=ENSCHOG00000013623;logic_name=ensembl_projection;version=1
+GeneScaffold_7285: ID=ID=gene:ENSCHOG00000011152;Name=KBTBD12;biotype=protein_coding;description=kelch repeat and BTB domain containing 12 [Source:HGNC Symbol%3BAcc:HGNC:25731];gene_id=ENSCHOG00000011152;logic_name=ensembl_projection;version=1
+GeneScaffold_7286: ID=ID=gene:ENSCHOG00000008975;Name=THSD4;biotype=protein_coding;description=thrombospondin type 1 domain containing 4 [Source:HGNC Symbol%3BAcc:HGNC:25835];gene_id=ENSCHOG00000008975;logic_name=ensembl_projection;version=1
+GeneScaffold_7287: ID=ID=gene:ENSCHOG00000010635;Name=DNAJB13;biotype=protein_coding;description=DnaJ heat shock protein family (Hsp40) member B13 [Source:HGNC Symbol%3BAcc:HGNC:30718];gene_id=ENSCHOG00000010635;logic_name=ensembl_projection;version=1
+GeneScaffold_7287: ID=ID=gene:ENSCHOG00000010643;Name=UCP2;biotype=protein_coding;description=uncoupling protein 2 [Source:HGNC Symbol%3BAcc:HGNC:12518];gene_id=ENSCHOG00000010643;logic_name=ensembl_projection;version=1
+GeneScaffold_7288: ID=ID=gene:ENSCHOG00000001247;Name=TCEA1;biotype=protein_coding;description=transcription elongation factor A1 [Source:HGNC Symbol%3BAcc:HGNC:11612];gene_id=ENSCHOG00000001247;logic_name=ensembl_projection;version=1
+GeneScaffold_7289: ID=ID=gene:ENSCHOG00000012898;biotype=protein_coding;gene_id=ENSCHOG00000012898;logic_name=ensembl_projection;version=1
+GeneScaffold_729: ID=ID=gene:ENSCHOG00000003221;Name=IPCEF1;biotype=protein_coding;description=interaction protein for cytohesin exchange factors 1 [Source:HGNC Symbol%3BAcc:HGNC:21204];gene_id=ENSCHOG00000003221;logic_name=ensembl_projection;version=1
+GeneScaffold_7290: ID=ID=gene:ENSCHOG00000008738;biotype=protein_coding;gene_id=ENSCHOG00000008738;logic_name=ensembl_projection;version=1
+GeneScaffold_7291: ID=ID=gene:ENSCHOG00000007489;biotype=protein_coding;gene_id=ENSCHOG00000007489;logic_name=ensembl_projection;version=1
+GeneScaffold_7292: ID=ID=gene:ENSCHOG00000009615;biotype=protein_coding;gene_id=ENSCHOG00000009615;logic_name=ensembl_projection;version=1
+GeneScaffold_7293: ID=ID=gene:ENSCHOG00000001682;Name=LIN28B;biotype=protein_coding;description=lin-28 homolog B [Source:HGNC Symbol%3BAcc:HGNC:32207];gene_id=ENSCHOG00000001682;logic_name=ensembl_projection;version=1
+GeneScaffold_7294: ID=ID=gene:ENSCHOG00000008043;biotype=protein_coding;description=family with sequence similarity 205 member C [Source:HGNC Symbol%3BAcc:HGNC:42673];gene_id=ENSCHOG00000008043;logic_name=ensembl_projection;version=1
+GeneScaffold_7295: ID=ID=gene:ENSCHOG00000000222;biotype=protein_coding;gene_id=ENSCHOG00000000222;logic_name=ensembl_projection;version=1
+GeneScaffold_7296: ID=ID=gene:ENSCHOG00000011761;biotype=protein_coding;gene_id=ENSCHOG00000011761;logic_name=ensembl_projection;version=1
+GeneScaffold_7297: ID=ID=gene:ENSCHOG00000009413;Name=ZFP69;biotype=protein_coding;description=ZFP69 zinc finger protein [Source:HGNC Symbol%3BAcc:HGNC:24708];gene_id=ENSCHOG00000009413;logic_name=ensembl_projection;version=1
+GeneScaffold_7298: ID=ID=gene:ENSCHOG00000006351;Name=TMEM220;biotype=protein_coding;description=transmembrane protein 220 [Source:HGNC Symbol%3BAcc:HGNC:33757];gene_id=ENSCHOG00000006351;logic_name=ensembl_projection;version=1
+GeneScaffold_7299: ID=ID=gene:ENSCHOG00000013106;biotype=protein_coding;gene_id=ENSCHOG00000013106;logic_name=ensembl_projection;version=1
+GeneScaffold_7299: ID=ID=gene:ENSCHOG00000013122;biotype=protein_coding;gene_id=ENSCHOG00000013122;logic_name=ensembl_projection;version=1
+GeneScaffold_73: ID=ID=gene:ENSCHOG00000002424;Name=AGK;biotype=protein_coding;description=acylglycerol kinase [Source:HGNC Symbol%3BAcc:HGNC:21869];gene_id=ENSCHOG00000002424;logic_name=ensembl_projection;version=1
+GeneScaffold_730: ID=ID=gene:ENSCHOG00000009592;Name=ZZEF1;biotype=protein_coding;description=zinc finger ZZ-type and EF-hand domain containing 1 [Source:HGNC Symbol%3BAcc:HGNC:29027];gene_id=ENSCHOG00000009592;logic_name=ensembl_projection;version=1
+GeneScaffold_730: ID=ID=gene:ENSCHOG00000009682;Name=CYB5D2;biotype=protein_coding;description=cytochrome b5 domain containing 2 [Source:HGNC Symbol%3BAcc:HGNC:28471];gene_id=ENSCHOG00000009682;logic_name=ensembl_projection;version=1
+GeneScaffold_7300: ID=ID=gene:ENSCHOG00000009925;Name=GFRAL;biotype=protein_coding;description=GDNF family receptor alpha like [Source:HGNC Symbol%3BAcc:HGNC:32789];gene_id=ENSCHOG00000009925;logic_name=ensembl_projection;version=1
+GeneScaffold_7301: ID=ID=gene:ENSCHOG00000005844;Name=FYB2;biotype=protein_coding;description=FYN binding protein 2 [Source:HGNC Symbol%3BAcc:HGNC:27295];gene_id=ENSCHOG00000005844;logic_name=ensembl_projection;version=1
+GeneScaffold_7302: ID=ID=gene:ENSCHOG00000012705;biotype=protein_coding;gene_id=ENSCHOG00000012705;logic_name=ensembl_projection;version=1
+GeneScaffold_7303: ID=ID=gene:ENSCHOG00000001399;biotype=protein_coding;gene_id=ENSCHOG00000001399;logic_name=ensembl_projection;version=1
+GeneScaffold_7304: ID=ID=gene:ENSCHOG00000003905;Name=DOC2B;biotype=protein_coding;description=double C2 domain beta [Source:HGNC Symbol%3BAcc:HGNC:2986];gene_id=ENSCHOG00000003905;logic_name=ensembl_projection;version=1
+GeneScaffold_7305: ID=ID=gene:ENSCHOG00000008260;biotype=protein_coding;gene_id=ENSCHOG00000008260;logic_name=ensembl_projection;version=1
+GeneScaffold_7306: ID=ID=gene:ENSCHOG00000007820;Name=COL14A1;biotype=protein_coding;description=collagen type XIV alpha 1 chain [Source:HGNC Symbol%3BAcc:HGNC:2191];gene_id=ENSCHOG00000007820;logic_name=ensembl_projection;version=1
+GeneScaffold_7307: ID=ID=gene:ENSCHOG00000012241;Name=DNER;biotype=protein_coding;description=delta/notch like EGF repeat containing [Source:HGNC Symbol%3BAcc:HGNC:24456];gene_id=ENSCHOG00000012241;logic_name=ensembl_projection;version=1
+GeneScaffold_7308: ID=ID=gene:ENSCHOG00000000764;Name=PLA2G2C;biotype=protein_coding;description=phospholipase A2 group IIC [Source:HGNC Symbol%3BAcc:HGNC:9032];gene_id=ENSCHOG00000000764;logic_name=ensembl_projection;version=1
+GeneScaffold_7309: ID=ID=gene:ENSCHOG00000003856;Name=TPRG1;biotype=protein_coding;description=tumor protein p63 regulated 1 [Source:HGNC Symbol%3BAcc:HGNC:24759];gene_id=ENSCHOG00000003856;logic_name=ensembl_projection;version=1
+GeneScaffold_731: ID=ID=gene:ENSCHOG00000000370;Name=NOX3;biotype=protein_coding;description=NADPH oxidase 3 [Source:HGNC Symbol%3BAcc:HGNC:7890];gene_id=ENSCHOG00000000370;logic_name=ensembl_projection;version=1
+GeneScaffold_7310: ID=ID=gene:ENSCHOG00000003422;biotype=protein_coding;gene_id=ENSCHOG00000003422;logic_name=ensembl_projection;version=1
+GeneScaffold_7311: ID=ID=gene:ENSCHOG00000006572;biotype=protein_coding;description=MORN repeat containing 2 [Source:HGNC Symbol%3BAcc:HGNC:30166];gene_id=ENSCHOG00000006572;logic_name=ensembl_projection;version=1
+GeneScaffold_7312: ID=ID=gene:ENSCHOG00000008935;biotype=protein_coding;gene_id=ENSCHOG00000008935;logic_name=ensembl_projection;version=1
+GeneScaffold_7312: ID=ID=gene:ENSCHOG00000008951;biotype=protein_coding;gene_id=ENSCHOG00000008951;logic_name=ensembl_projection;version=1
+GeneScaffold_7312: ID=ID=gene:ENSCHOG00000008967;biotype=protein_coding;gene_id=ENSCHOG00000008967;logic_name=ensembl_projection;version=1
+GeneScaffold_7313: ID=ID=gene:ENSCHOG00000001860;biotype=protein_coding;gene_id=ENSCHOG00000001860;logic_name=ensembl_projection;version=1
+GeneScaffold_7314: ID=ID=gene:ENSCHOG00000005459;Name=CLCN1;biotype=protein_coding;description=chloride voltage-gated channel 1 [Source:HGNC Symbol%3BAcc:HGNC:2019];gene_id=ENSCHOG00000005459;logic_name=ensembl_projection;version=1
+GeneScaffold_7315: ID=ID=gene:ENSCHOG00000012799;biotype=protein_coding;gene_id=ENSCHOG00000012799;logic_name=ensembl_projection;version=1
+GeneScaffold_7316: ID=ID=gene:ENSCHOG00000010450;biotype=protein_coding;description=serine protease 45%2C pseudogene [Source:HGNC Symbol%3BAcc:HGNC:30717];gene_id=ENSCHOG00000010450;logic_name=ensembl_projection;version=1
+GeneScaffold_7317: ID=ID=gene:ENSCHOG00000001857;biotype=protein_coding;gene_id=ENSCHOG00000001857;logic_name=ensembl_projection;version=1
+GeneScaffold_7318: ID=ID=gene:ENSCHOG00000007571;Name=HEPACAM2;biotype=protein_coding;description=HEPACAM family member 2 [Source:HGNC Symbol%3BAcc:HGNC:27364];gene_id=ENSCHOG00000007571;logic_name=ensembl_projection;version=1
+GeneScaffold_7319: ID=ID=gene:ENSCHOG00000005971;Name=ZC3H6;biotype=protein_coding;description=zinc finger CCCH-type containing 6 [Source:HGNC Symbol%3BAcc:HGNC:24762];gene_id=ENSCHOG00000005971;logic_name=ensembl_projection;version=1
+GeneScaffold_732: ID=ID=gene:ENSCHOG00000003483;Name=ENO1;biotype=protein_coding;description=enolase 1 [Source:HGNC Symbol%3BAcc:HGNC:3350];gene_id=ENSCHOG00000003483;logic_name=ensembl_projection;version=1
+GeneScaffold_7320: ID=ID=gene:ENSCHOG00000003923;Name=ZNF793;biotype=protein_coding;description=zinc finger protein 793 [Source:HGNC Symbol%3BAcc:HGNC:33115];gene_id=ENSCHOG00000003923;logic_name=ensembl_projection;version=1
+GeneScaffold_7321: ID=ID=gene:ENSCHOG00000003142;Name=HYKK;biotype=protein_coding;description=hydroxylysine kinase [Source:HGNC Symbol%3BAcc:HGNC:34403];gene_id=ENSCHOG00000003142;logic_name=ensembl_projection;version=1
+GeneScaffold_7322: ID=ID=gene:ENSCHOG00000004239;Name=LRRIQ4;biotype=protein_coding;description=leucine rich repeats and IQ motif containing 4 [Source:HGNC Symbol%3BAcc:HGNC:34298];gene_id=ENSCHOG00000004239;logic_name=ensembl_projection;version=1
+GeneScaffold_7323: ID=ID=gene:ENSCHOG00000001751;Name=ENO4;biotype=protein_coding;description=enolase 4 [Source:HGNC Symbol%3BAcc:HGNC:31670];gene_id=ENSCHOG00000001751;logic_name=ensembl_projection;version=1
+GeneScaffold_7324: ID=ID=gene:ENSCHOG00000006222;Name=BSPH1;biotype=protein_coding;description=binder of sperm protein homolog 1 [Source:HGNC Symbol%3BAcc:HGNC:33906];gene_id=ENSCHOG00000006222;logic_name=ensembl_projection;version=1
+GeneScaffold_7325: ID=ID=gene:ENSCHOG00000007391;Name=GTF2F2;biotype=protein_coding;description=general transcription factor IIF subunit 2 [Source:HGNC Symbol%3BAcc:HGNC:4653];gene_id=ENSCHOG00000007391;logic_name=ensembl_projection;version=1
+GeneScaffold_7326: ID=ID=gene:ENSCHOG00000009787;biotype=protein_coding;gene_id=ENSCHOG00000009787;logic_name=ensembl_projection;version=1
+GeneScaffold_7327: ID=ID=gene:ENSCHOG00000004443;Name=SELL;biotype=protein_coding;description=selectin L [Source:HGNC Symbol%3BAcc:HGNC:10720];gene_id=ENSCHOG00000004443;logic_name=ensembl_projection;version=1
+GeneScaffold_7328: ID=ID=gene:ENSCHOG00000012580;biotype=protein_coding;gene_id=ENSCHOG00000012580;logic_name=ensembl_projection;version=1
+GeneScaffold_7329: ID=ID=gene:ENSCHOG00000011323;Name=SLC24A5;biotype=protein_coding;description=solute carrier family 24 member 5 [Source:HGNC Symbol%3BAcc:HGNC:20611];gene_id=ENSCHOG00000011323;logic_name=ensembl_projection;version=1
+GeneScaffold_7329: ID=ID=gene:ENSCHOG00000011348;biotype=protein_coding;gene_id=ENSCHOG00000011348;logic_name=ensembl_projection;version=1
+GeneScaffold_7329: ID=ID=gene:ENSCHOG00000011372;Name=SLC12A1;biotype=protein_coding;description=solute carrier family 12 member 1 [Source:HGNC Symbol%3BAcc:HGNC:10910];gene_id=ENSCHOG00000011372;logic_name=ensembl_projection;version=1
+GeneScaffold_733: ID=ID=gene:ENSCHOG00000013231;Name=TUBE1;biotype=protein_coding;description=tubulin epsilon 1 [Source:HGNC Symbol%3BAcc:HGNC:20775];gene_id=ENSCHOG00000013231;logic_name=ensembl_projection;version=1
+GeneScaffold_7330: ID=ID=gene:ENSCHOG00000009223;Name=CLEC19A;biotype=protein_coding;description=C-type lectin domain containing 19A [Source:HGNC Symbol%3BAcc:HGNC:34522];gene_id=ENSCHOG00000009223;logic_name=ensembl_projection;version=1
+GeneScaffold_7331: ID=ID=gene:ENSCHOG00000013692;Name=INSC;biotype=protein_coding;description=INSC spindle orientation adaptor protein [Source:HGNC Symbol%3BAcc:HGNC:33116];gene_id=ENSCHOG00000013692;logic_name=ensembl_projection;version=1
+GeneScaffold_7332: ID=ID=gene:ENSCHOG00000008636;biotype=protein_coding;gene_id=ENSCHOG00000008636;logic_name=ensembl_projection;version=1
+GeneScaffold_7333: ID=ID=gene:ENSCHOG00000010112;biotype=protein_coding;gene_id=ENSCHOG00000010112;logic_name=ensembl_projection;version=1
+GeneScaffold_7334: ID=ID=gene:ENSCHOG00000009842;Name=COL25A1;biotype=protein_coding;description=collagen type XXV alpha 1 chain [Source:HGNC Symbol%3BAcc:HGNC:18603];gene_id=ENSCHOG00000009842;logic_name=ensembl_projection;version=1
+GeneScaffold_7335: ID=ID=gene:ENSCHOG00000005309;biotype=protein_coding;gene_id=ENSCHOG00000005309;logic_name=ensembl_projection;version=1
+GeneScaffold_7336: ID=ID=gene:ENSCHOG00000004059;Name=RALGAPA2;biotype=protein_coding;description=Ral GTPase activating protein catalytic alpha subunit 2 [Source:HGNC Symbol%3BAcc:HGNC:16207];gene_id=ENSCHOG00000004059;logic_name=ensembl_projection;version=1
+GeneScaffold_7337: ID=ID=gene:ENSCHOG00000011463;Name=NKAIN2;biotype=protein_coding;description=sodium/potassium transporting ATPase interacting 2 [Source:HGNC Symbol%3BAcc:HGNC:16443];gene_id=ENSCHOG00000011463;logic_name=ensembl_projection;version=1
+GeneScaffold_7338: ID=ID=gene:ENSCHOG00000010376;biotype=protein_coding;gene_id=ENSCHOG00000010376;logic_name=ensembl_projection;version=1
+GeneScaffold_7339: ID=ID=gene:ENSCHOG00000009475;Name=CLN3;biotype=protein_coding;description=CLN3 lysosomal/endosomal transmembrane protein%2C battenin [Source:HGNC Symbol%3BAcc:HGNC:2074];gene_id=ENSCHOG00000009475;logic_name=ensembl_projection;version=1
+GeneScaffold_734: ID=ID=gene:ENSCHOG00000008362;Name=TXK;biotype=protein_coding;description=TXK tyrosine kinase [Source:HGNC Symbol%3BAcc:HGNC:12434];gene_id=ENSCHOG00000008362;logic_name=ensembl_projection;version=1
+GeneScaffold_734: ID=ID=gene:ENSCHOG00000008374;Name=TEC;biotype=protein_coding;description=tec protein tyrosine kinase [Source:HGNC Symbol%3BAcc:HGNC:11719];gene_id=ENSCHOG00000008374;logic_name=ensembl_projection;version=1
+GeneScaffold_7340: ID=ID=gene:ENSCHOG00000003291;biotype=protein_coding;gene_id=ENSCHOG00000003291;logic_name=ensembl_projection;version=1
+GeneScaffold_7341: ID=ID=gene:ENSCHOG00000010739;Name=DPYD;biotype=protein_coding;description=dihydropyrimidine dehydrogenase [Source:HGNC Symbol%3BAcc:HGNC:3012];gene_id=ENSCHOG00000010739;logic_name=ensembl_projection;version=1
+GeneScaffold_7342: ID=ID=gene:ENSCHOG00000007123;Name=PTAR1;biotype=protein_coding;description=protein prenyltransferase alpha subunit repeat containing 1 [Source:HGNC Symbol%3BAcc:HGNC:30449];gene_id=ENSCHOG00000007123;logic_name=ensembl_projection;version=1
+GeneScaffold_7343: ID=ID=gene:ENSCHOG00000007940;biotype=protein_coding;description=coiled-coil and C2 domain containing 2B [Source:HGNC Symbol%3BAcc:HGNC:31666];gene_id=ENSCHOG00000007940;logic_name=ensembl_projection;version=1
+GeneScaffold_7343: ID=ID=gene:ENSCHOG00000007958;Name=CCNJ;biotype=protein_coding;description=cyclin J [Source:HGNC Symbol%3BAcc:HGNC:23434];gene_id=ENSCHOG00000007958;logic_name=ensembl_projection;version=1
+GeneScaffold_7344: ID=ID=gene:ENSCHOG00000000945;Name=C2orf80;biotype=protein_coding;description=chromosome 2 open reading frame 80 [Source:HGNC Symbol%3BAcc:HGNC:34352];gene_id=ENSCHOG00000000945;logic_name=ensembl_projection;version=1
+GeneScaffold_7345: ID=ID=gene:ENSCHOG00000000839;Name=IDO2;biotype=protein_coding;description=indoleamine 2%2C3-dioxygenase 2 [Source:HGNC Symbol%3BAcc:HGNC:27269];gene_id=ENSCHOG00000000839;logic_name=ensembl_projection;version=1
+GeneScaffold_7346: ID=ID=gene:ENSCHOG00000002748;biotype=protein_coding;gene_id=ENSCHOG00000002748;logic_name=ensembl_projection;version=1
+GeneScaffold_7347: ID=ID=gene:ENSCHOG00000010942;Name=UROS;biotype=protein_coding;description=uroporphyrinogen III synthase [Source:HGNC Symbol%3BAcc:HGNC:12592];gene_id=ENSCHOG00000010942;logic_name=ensembl_projection;version=1
+GeneScaffold_7348: ID=ID=gene:ENSCHOG00000013249;biotype=protein_coding;gene_id=ENSCHOG00000013249;logic_name=ensembl_projection;version=1
+GeneScaffold_7349: ID=ID=gene:ENSCHOG00000005899;biotype=protein_coding;gene_id=ENSCHOG00000005899;logic_name=ensembl_projection;version=1
+GeneScaffold_735: ID=ID=gene:ENSCHOG00000006118;Name=EIF4G3;biotype=protein_coding;description=eukaryotic translation initiation factor 4 gamma 3 [Source:HGNC Symbol%3BAcc:HGNC:3298];gene_id=ENSCHOG00000006118;logic_name=ensembl_projection;version=1
+GeneScaffold_7350: ID=ID=gene:ENSCHOG00000011776;Name=VWC2;biotype=protein_coding;description=von Willebrand factor C domain containing 2 [Source:HGNC Symbol%3BAcc:HGNC:30200];gene_id=ENSCHOG00000011776;logic_name=ensembl_projection;version=1
+GeneScaffold_7351: ID=ID=gene:ENSCHOG00000001645;Name=FAM221A;biotype=protein_coding;description=family with sequence similarity 221 member A [Source:HGNC Symbol%3BAcc:HGNC:27977];gene_id=ENSCHOG00000001645;logic_name=ensembl_projection;version=1
+GeneScaffold_7351: ID=ID=gene:ENSCHOG00000001647;Name=STK31;biotype=protein_coding;description=serine/threonine kinase 31 [Source:HGNC Symbol%3BAcc:HGNC:11407];gene_id=ENSCHOG00000001647;logic_name=ensembl_projection;version=1
+GeneScaffold_7352: ID=ID=gene:ENSCHOG00000008354;Name=TMEM120B;biotype=protein_coding;description=transmembrane protein 120B [Source:HGNC Symbol%3BAcc:HGNC:32008];gene_id=ENSCHOG00000008354;logic_name=ensembl_projection;version=1
+GeneScaffold_7353: ID=ID=gene:ENSCHOG00000001136;biotype=protein_coding;gene_id=ENSCHOG00000001136;logic_name=ensembl_projection;version=1
+GeneScaffold_7353: ID=ID=gene:ENSCHOG00000001152;Name=ARID4B;biotype=protein_coding;description=AT-rich interaction domain 4B [Source:HGNC Symbol%3BAcc:HGNC:15550];gene_id=ENSCHOG00000001152;logic_name=ensembl_projection;version=1
+GeneScaffold_7354: ID=ID=gene:ENSCHOG00000010148;biotype=protein_coding;gene_id=ENSCHOG00000010148;logic_name=ensembl_projection;version=1
+GeneScaffold_7355: ID=ID=gene:ENSCHOG00000005527;biotype=protein_coding;gene_id=ENSCHOG00000005527;logic_name=ensembl_projection;version=1
+GeneScaffold_7356: ID=ID=gene:ENSCHOG00000007517;Name=CATSPER4;biotype=protein_coding;description=cation channel sperm associated 4 [Source:HGNC Symbol%3BAcc:HGNC:23220];gene_id=ENSCHOG00000007517;logic_name=ensembl_projection;version=1
+GeneScaffold_7357: ID=ID=gene:ENSCHOG00000005616;biotype=protein_coding;gene_id=ENSCHOG00000005616;logic_name=ensembl_projection;version=1
+GeneScaffold_7358: ID=ID=gene:ENSCHOG00000004319;Name=BEND4;biotype=protein_coding;description=BEN domain containing 4 [Source:HGNC Symbol%3BAcc:HGNC:23815];gene_id=ENSCHOG00000004319;logic_name=ensembl_projection;version=1
+GeneScaffold_7359: ID=ID=gene:ENSCHOG00000007728;Name=TMC3;biotype=protein_coding;description=transmembrane channel like 3 [Source:HGNC Symbol%3BAcc:HGNC:22995];gene_id=ENSCHOG00000007728;logic_name=ensembl_projection;version=1
+GeneScaffold_736: ID=ID=gene:ENSCHOG00000008424;Name=NUP37;biotype=protein_coding;description=nucleoporin 37 [Source:HGNC Symbol%3BAcc:HGNC:29929];gene_id=ENSCHOG00000008424;logic_name=ensembl_projection;version=1
+GeneScaffold_7360: ID=ID=gene:ENSCHOG00000002549;biotype=protein_coding;gene_id=ENSCHOG00000002549;logic_name=ensembl_projection;version=1
+GeneScaffold_7361: ID=ID=gene:ENSCHOG00000012523;biotype=protein_coding;gene_id=ENSCHOG00000012523;logic_name=ensembl_projection;version=1
+GeneScaffold_7362: ID=ID=gene:ENSCHOG00000007803;biotype=protein_coding;gene_id=ENSCHOG00000007803;logic_name=ensembl_projection;version=1
+GeneScaffold_7363: ID=ID=gene:ENSCHOG00000010557;Name=LRRK2;biotype=protein_coding;description=leucine rich repeat kinase 2 [Source:HGNC Symbol%3BAcc:HGNC:18618];gene_id=ENSCHOG00000010557;logic_name=ensembl_projection;version=1
+GeneScaffold_7364: ID=ID=gene:ENSCHOG00000003439;Name=BSX;biotype=protein_coding;description=brain specific homeobox [Source:HGNC Symbol%3BAcc:HGNC:20450];gene_id=ENSCHOG00000003439;logic_name=ensembl_projection;version=1
+GeneScaffold_7365: ID=ID=gene:ENSCHOG00000002397;biotype=protein_coding;gene_id=ENSCHOG00000002397;logic_name=ensembl_projection;version=1
+GeneScaffold_7366: ID=ID=gene:ENSCHOG00000005608;Name=HACD4;biotype=protein_coding;description=3-hydroxyacyl-CoA dehydratase 4 [Source:HGNC Symbol%3BAcc:HGNC:20920];gene_id=ENSCHOG00000005608;logic_name=ensembl_projection;version=1
+GeneScaffold_7367: ID=ID=gene:ENSCHOG00000003473;Name=AADACL3;biotype=protein_coding;description=arylacetamide deacetylase like 3 [Source:HGNC Symbol%3BAcc:HGNC:32037];gene_id=ENSCHOG00000003473;logic_name=ensembl_projection;version=1
+GeneScaffold_7368: ID=ID=gene:ENSCHOG00000005450;biotype=protein_coding;gene_id=ENSCHOG00000005450;logic_name=ensembl_projection;version=1
+GeneScaffold_7369: ID=ID=gene:ENSCHOG00000003290;Name=SLC15A5;biotype=protein_coding;description=solute carrier family 15 member 5 [Source:HGNC Symbol%3BAcc:HGNC:33455];gene_id=ENSCHOG00000003290;logic_name=ensembl_projection;version=1
+GeneScaffold_737: ID=ID=gene:ENSCHOG00000011784;Name=SEMA3A;biotype=protein_coding;description=semaphorin 3A [Source:HGNC Symbol%3BAcc:HGNC:10723];gene_id=ENSCHOG00000011784;logic_name=ensembl_projection;version=1
+GeneScaffold_7370: ID=ID=gene:ENSCHOG00000013139;Name=LIPI;biotype=protein_coding;description=lipase I [Source:HGNC Symbol%3BAcc:HGNC:18821];gene_id=ENSCHOG00000013139;logic_name=ensembl_projection;version=1
+GeneScaffold_7371: ID=ID=gene:ENSCHOG00000002983;biotype=protein_coding;gene_id=ENSCHOG00000002983;logic_name=ensembl_projection;version=1
+GeneScaffold_7371: ID=ID=gene:ENSCHOG00000002992;Name=SGCB;biotype=protein_coding;description=sarcoglycan beta [Source:HGNC Symbol%3BAcc:HGNC:10806];gene_id=ENSCHOG00000002992;logic_name=ensembl_projection;version=1
+GeneScaffold_7372: ID=ID=gene:ENSCHOG00000003324;Name=ZNF292;biotype=protein_coding;description=zinc finger protein 292 [Source:HGNC Symbol%3BAcc:HGNC:18410];gene_id=ENSCHOG00000003324;logic_name=ensembl_projection;version=1
+GeneScaffold_7373: ID=ID=gene:ENSCHOG00000011809;biotype=protein_coding;gene_id=ENSCHOG00000011809;logic_name=ensembl_projection;version=1
+GeneScaffold_7374: ID=ID=gene:ENSCHOG00000008236;Name=ZNF567;biotype=protein_coding;description=zinc finger protein 567 [Source:HGNC Symbol%3BAcc:HGNC:28696];gene_id=ENSCHOG00000008236;logic_name=ensembl_projection;version=1
+GeneScaffold_7375: ID=ID=gene:ENSCHOG00000000588;biotype=protein_coding;gene_id=ENSCHOG00000000588;logic_name=ensembl_projection;version=1
+GeneScaffold_7376: ID=ID=gene:ENSCHOG00000008391;Name=RNFT1;biotype=protein_coding;description=ring finger protein%2C transmembrane 1 [Source:HGNC Symbol%3BAcc:HGNC:30206];gene_id=ENSCHOG00000008391;logic_name=ensembl_projection;version=1
+GeneScaffold_7377: ID=ID=gene:ENSCHOG00000006029;Name=RELN;biotype=protein_coding;description=reelin [Source:HGNC Symbol%3BAcc:HGNC:9957];gene_id=ENSCHOG00000006029;logic_name=ensembl_projection;version=1
+GeneScaffold_7378: ID=ID=gene:ENSCHOG00000011603;Name=APOD;biotype=protein_coding;description=apolipoprotein D [Source:HGNC Symbol%3BAcc:HGNC:612];gene_id=ENSCHOG00000011603;logic_name=ensembl_projection;version=1
+GeneScaffold_7379: ID=ID=gene:ENSCHOG00000009846;biotype=protein_coding;gene_id=ENSCHOG00000009846;logic_name=ensembl_projection;version=1
+GeneScaffold_738: ID=ID=gene:ENSCHOG00000009362;biotype=protein_coding;gene_id=ENSCHOG00000009362;logic_name=ensembl_projection;version=1
+GeneScaffold_7380: ID=ID=gene:ENSCHOG00000002580;biotype=protein_coding;gene_id=ENSCHOG00000002580;logic_name=ensembl_projection;version=1
+GeneScaffold_7381: ID=ID=gene:ENSCHOG00000013380;Name=ARID2;biotype=protein_coding;description=AT-rich interaction domain 2 [Source:HGNC Symbol%3BAcc:HGNC:18037];gene_id=ENSCHOG00000013380;logic_name=ensembl_projection;version=1
+GeneScaffold_7382: ID=ID=gene:ENSCHOG00000003827;biotype=protein_coding;gene_id=ENSCHOG00000003827;logic_name=ensembl_projection;version=1
+GeneScaffold_7383: ID=ID=gene:ENSCHOG00000001207;biotype=protein_coding;gene_id=ENSCHOG00000001207;logic_name=ensembl_projection;version=1
+GeneScaffold_7384: ID=ID=gene:ENSCHOG00000005214;biotype=protein_coding;gene_id=ENSCHOG00000005214;logic_name=ensembl_projection;version=1
+GeneScaffold_7385: ID=ID=gene:ENSCHOG00000005958;Name=ZNF527;biotype=protein_coding;description=zinc finger protein 527 [Source:HGNC Symbol%3BAcc:HGNC:29385];gene_id=ENSCHOG00000005958;logic_name=ensembl_projection;version=1
+GeneScaffold_7386: ID=ID=gene:ENSCHOG00000010296;biotype=protein_coding;gene_id=ENSCHOG00000010296;logic_name=ensembl_projection;version=1
+GeneScaffold_7387: ID=ID=gene:ENSCHOG00000006086;biotype=protein_coding;gene_id=ENSCHOG00000006086;logic_name=ensembl_projection;version=1
+GeneScaffold_7388: ID=ID=gene:ENSCHOG00000008278;Name=MAOA;biotype=protein_coding;description=monoamine oxidase A [Source:HGNC Symbol%3BAcc:HGNC:6833];gene_id=ENSCHOG00000008278;logic_name=ensembl_projection;version=1
+GeneScaffold_7389: ID=ID=gene:ENSCHOG00000012214;biotype=protein_coding;gene_id=ENSCHOG00000012214;logic_name=ensembl_projection;version=1
+GeneScaffold_739: ID=ID=gene:ENSCHOG00000006158;Name=SEMA3C;biotype=protein_coding;description=semaphorin 3C [Source:HGNC Symbol%3BAcc:HGNC:10725];gene_id=ENSCHOG00000006158;logic_name=ensembl_projection;version=1
+GeneScaffold_7390: ID=ID=gene:ENSCHOG00000000819;biotype=protein_coding;gene_id=ENSCHOG00000000819;logic_name=ensembl_projection;version=1
+GeneScaffold_7391: ID=ID=gene:ENSCHOG00000009837;biotype=protein_coding;gene_id=ENSCHOG00000009837;logic_name=ensembl_projection;version=1
+GeneScaffold_7392: ID=ID=gene:ENSCHOG00000004155;Name=FHIT;biotype=protein_coding;description=fragile histidine triad diadenosine triphosphatase [Source:HGNC Symbol%3BAcc:HGNC:3701];gene_id=ENSCHOG00000004155;logic_name=ensembl_projection;version=1
+GeneScaffold_7393: ID=ID=gene:ENSCHOG00000011580;Name=LIN54;biotype=protein_coding;description=lin-54 DREAM MuvB core complex component [Source:HGNC Symbol%3BAcc:HGNC:25397];gene_id=ENSCHOG00000011580;logic_name=ensembl_projection;version=1
+GeneScaffold_7394: ID=ID=gene:ENSCHOG00000007452;Name=FAM180A;biotype=protein_coding;description=family with sequence similarity 180 member A [Source:HGNC Symbol%3BAcc:HGNC:33773];gene_id=ENSCHOG00000007452;logic_name=ensembl_projection;version=1
+GeneScaffold_7395: ID=ID=gene:ENSCHOG00000009877;biotype=protein_coding;gene_id=ENSCHOG00000009877;logic_name=ensembl_projection;version=1
+GeneScaffold_7396: ID=ID=gene:ENSCHOG00000010610;biotype=protein_coding;gene_id=ENSCHOG00000010610;logic_name=ensembl_projection;version=1
+GeneScaffold_7397: ID=ID=gene:ENSCHOG00000011842;Name=KIAA0408;biotype=protein_coding;description=KIAA0408 [Source:HGNC Symbol%3BAcc:HGNC:21636];gene_id=ENSCHOG00000011842;logic_name=ensembl_projection;version=1
+GeneScaffold_7397: ID=ID=gene:ENSCHOG00000011852;Name=MTCL3;biotype=protein_coding;description=SOGA family member 3 [Source:HGNC Symbol%3BAcc:HGNC:21494];gene_id=ENSCHOG00000011852;logic_name=ensembl_projection;version=1
+GeneScaffold_7398: ID=ID=gene:ENSCHOG00000003930;Name=C8orf76;biotype=protein_coding;description=chromosome 8 open reading frame 76 [Source:HGNC Symbol%3BAcc:HGNC:25924];gene_id=ENSCHOG00000003930;logic_name=ensembl_projection;version=1
+GeneScaffold_7399: ID=ID=gene:ENSCHOG00000004528;Name=IL1RAP;biotype=protein_coding;description=interleukin 1 receptor accessory protein [Source:HGNC Symbol%3BAcc:HGNC:5995];gene_id=ENSCHOG00000004528;logic_name=ensembl_projection;version=1
+GeneScaffold_74: ID=ID=gene:ENSCHOG00000013330;Name=PHTF2;biotype=protein_coding;description=putative homeodomain transcription factor 2 [Source:HGNC Symbol%3BAcc:HGNC:13411];gene_id=ENSCHOG00000013330;logic_name=ensembl_projection;version=1
+GeneScaffold_740: ID=ID=gene:ENSCHOG00000008213;Name=ACAT1;biotype=protein_coding;description=acetyl-CoA acetyltransferase 1 [Source:HGNC Symbol%3BAcc:HGNC:93];gene_id=ENSCHOG00000008213;logic_name=ensembl_projection;version=1
+GeneScaffold_7400: ID=ID=gene:ENSCHOG00000004821;Name=PTPRT;biotype=protein_coding;description=protein tyrosine phosphatase receptor type T [Source:HGNC Symbol%3BAcc:HGNC:9682];gene_id=ENSCHOG00000004821;logic_name=ensembl_projection;version=1
+GeneScaffold_7401: ID=ID=gene:ENSCHOG00000002617;Name=MYBPC1;biotype=protein_coding;description=myosin binding protein C%2C slow type [Source:HGNC Symbol%3BAcc:HGNC:7549];gene_id=ENSCHOG00000002617;logic_name=ensembl_projection;version=1
+GeneScaffold_7402: ID=ID=gene:ENSCHOG00000003521;Name=PAX5;biotype=protein_coding;description=paired box 5 [Source:HGNC Symbol%3BAcc:HGNC:8619];gene_id=ENSCHOG00000003521;logic_name=ensembl_projection;version=1
+GeneScaffold_7403: ID=ID=gene:ENSCHOG00000005606;Name=SPOCK3;biotype=protein_coding;description=SPARC (osteonectin)%2C cwcv and kazal like domains proteoglycan 3 [Source:HGNC Symbol%3BAcc:HGNC:13565];gene_id=ENSCHOG00000005606;logic_name=ensembl_projection;version=1
+GeneScaffold_7404: ID=ID=gene:ENSCHOG00000004057;Name=ZNF699;biotype=protein_coding;description=zinc finger protein 699 [Source:HGNC Symbol%3BAcc:HGNC:24750];gene_id=ENSCHOG00000004057;logic_name=ensembl_projection;version=1
+GeneScaffold_7405: ID=ID=gene:ENSCHOG00000001747;biotype=protein_coding;gene_id=ENSCHOG00000001747;logic_name=ensembl_projection;version=1
+GeneScaffold_7406: ID=ID=gene:ENSCHOG00000001925;Name=TDRD7;biotype=protein_coding;description=tudor domain containing 7 [Source:HGNC Symbol%3BAcc:HGNC:30831];gene_id=ENSCHOG00000001925;logic_name=ensembl_projection;version=1
+GeneScaffold_7407: ID=ID=gene:ENSCHOG00000001201;biotype=protein_coding;gene_id=ENSCHOG00000001201;logic_name=ensembl_projection;version=1
+GeneScaffold_7407: ID=ID=gene:ENSCHOG00000001208;biotype=protein_coding;gene_id=ENSCHOG00000001208;logic_name=ensembl_projection;version=1
+GeneScaffold_7408: ID=ID=gene:ENSCHOG00000010641;Name=SPATS2L;biotype=protein_coding;description=spermatogenesis associated serine rich 2 like [Source:HGNC Symbol%3BAcc:HGNC:24574];gene_id=ENSCHOG00000010641;logic_name=ensembl_projection;version=1
+GeneScaffold_7409: ID=ID=gene:ENSCHOG00000002627;Name=FAT4;biotype=protein_coding;description=FAT atypical cadherin 4 [Source:HGNC Symbol%3BAcc:HGNC:23109];gene_id=ENSCHOG00000002627;logic_name=ensembl_projection;version=1
+GeneScaffold_741: ID=ID=gene:ENSCHOG00000013922;Name=ZNF638;biotype=protein_coding;description=zinc finger protein 638 [Source:HGNC Symbol%3BAcc:HGNC:17894];gene_id=ENSCHOG00000013922;logic_name=ensembl_projection;version=1
+GeneScaffold_7410: ID=ID=gene:ENSCHOG00000005493;Name=ACADSB;biotype=protein_coding;description=acyl-CoA dehydrogenase short/branched chain [Source:HGNC Symbol%3BAcc:HGNC:91];gene_id=ENSCHOG00000005493;logic_name=ensembl_projection;version=1
+GeneScaffold_7411: ID=ID=gene:ENSCHOG00000001096;biotype=protein_coding;gene_id=ENSCHOG00000001096;logic_name=ensembl_projection;version=1
+GeneScaffold_7412: ID=ID=gene:ENSCHOG00000007149;Name=MPHOSPH8;biotype=protein_coding;description=M-phase phosphoprotein 8 [Source:HGNC Symbol%3BAcc:HGNC:29810];gene_id=ENSCHOG00000007149;logic_name=ensembl_projection;version=1
+GeneScaffold_7413: ID=ID=gene:ENSCHOG00000011187;biotype=protein_coding;gene_id=ENSCHOG00000011187;logic_name=ensembl_projection;version=1
+GeneScaffold_7414: ID=ID=gene:ENSCHOG00000000198;biotype=protein_coding;gene_id=ENSCHOG00000000198;logic_name=ensembl_projection;version=1
+GeneScaffold_7415: ID=ID=gene:ENSCHOG00000004840;biotype=protein_coding;gene_id=ENSCHOG00000004840;logic_name=ensembl_projection;version=1
+GeneScaffold_7416: ID=ID=gene:ENSCHOG00000001981;biotype=protein_coding;gene_id=ENSCHOG00000001981;logic_name=ensembl_projection;version=1
+GeneScaffold_7417: ID=ID=gene:ENSCHOG00000006870;Name=XPNPEP3;biotype=protein_coding;description=X-prolyl aminopeptidase 3 [Source:HGNC Symbol%3BAcc:HGNC:28052];gene_id=ENSCHOG00000006870;logic_name=ensembl_projection;version=1
+GeneScaffold_7418: ID=ID=gene:ENSCHOG00000011897;Name=GRM7;biotype=protein_coding;description=glutamate metabotropic receptor 7 [Source:HGNC Symbol%3BAcc:HGNC:4599];gene_id=ENSCHOG00000011897;logic_name=ensembl_projection;version=1
+GeneScaffold_7419: ID=ID=gene:ENSCHOG00000008163;Name=SUPT3H;biotype=protein_coding;description=SPT3 homolog%2C SAGA and STAGA complex component [Source:HGNC Symbol%3BAcc:HGNC:11466];gene_id=ENSCHOG00000008163;logic_name=ensembl_projection;version=1
+GeneScaffold_742: ID=ID=gene:ENSCHOG00000007029;Name=ADD2;biotype=protein_coding;description=adducin 2 [Source:HGNC Symbol%3BAcc:HGNC:244];gene_id=ENSCHOG00000007029;logic_name=ensembl_projection;version=1
+GeneScaffold_7420: ID=ID=gene:ENSCHOG00000005662;biotype=protein_coding;gene_id=ENSCHOG00000005662;logic_name=ensembl_projection;version=1
+GeneScaffold_7421: ID=ID=gene:ENSCHOG00000008809;biotype=protein_coding;gene_id=ENSCHOG00000008809;logic_name=ensembl_projection;version=1
+GeneScaffold_7422: ID=ID=gene:ENSCHOG00000007264;Name=IARS1;biotype=protein_coding;description=isoleucyl-tRNA synthetase 1 [Source:HGNC Symbol%3BAcc:HGNC:5330];gene_id=ENSCHOG00000007264;logic_name=ensembl_projection;version=1
+GeneScaffold_7423: ID=ID=gene:ENSCHOG00000010069;Name=ZBTB44;biotype=protein_coding;description=zinc finger and BTB domain containing 44 [Source:HGNC Symbol%3BAcc:HGNC:25001];gene_id=ENSCHOG00000010069;logic_name=ensembl_projection;version=1
+GeneScaffold_7424: ID=ID=gene:ENSCHOG00000007987;biotype=protein_coding;gene_id=ENSCHOG00000007987;logic_name=ensembl_projection;version=1
+GeneScaffold_7425: ID=ID=gene:ENSCHOG00000013983;biotype=protein_coding;gene_id=ENSCHOG00000013983;logic_name=ensembl_projection;version=1
+GeneScaffold_7425: ID=ID=gene:ENSCHOG00000013984;Name=ZNF660;biotype=protein_coding;description=zinc finger protein 660 [Source:HGNC Symbol%3BAcc:HGNC:26720];gene_id=ENSCHOG00000013984;logic_name=ensembl_projection;version=1
+GeneScaffold_7425: ID=ID=gene:ENSCHOG00000013986;Name=ZNF197;biotype=protein_coding;description=zinc finger protein 197 [Source:HGNC Symbol%3BAcc:HGNC:12988];gene_id=ENSCHOG00000013986;logic_name=ensembl_projection;version=1
+GeneScaffold_7425: ID=ID=gene:ENSCHOG00000013987;Name=ZNF35;biotype=protein_coding;description=zinc finger protein 35 [Source:HGNC Symbol%3BAcc:HGNC:13099];gene_id=ENSCHOG00000013987;logic_name=ensembl_projection;version=1
+GeneScaffold_7426: ID=ID=gene:ENSCHOG00000000091;biotype=protein_coding;gene_id=ENSCHOG00000000091;logic_name=ensembl_projection;version=1
+GeneScaffold_7427: ID=ID=gene:ENSCHOG00000012406;Name=CPNE4;biotype=protein_coding;description=copine 4 [Source:HGNC Symbol%3BAcc:HGNC:2317];gene_id=ENSCHOG00000012406;logic_name=ensembl_projection;version=1
+GeneScaffold_7428: ID=ID=gene:ENSCHOG00000011760;Name=ZNF565;biotype=protein_coding;description=zinc finger protein 565 [Source:HGNC Symbol%3BAcc:HGNC:26726];gene_id=ENSCHOG00000011760;logic_name=ensembl_projection;version=1
+GeneScaffold_7429: ID=ID=gene:ENSCHOG00000006405;biotype=protein_coding;gene_id=ENSCHOG00000006405;logic_name=ensembl_projection;version=1
+GeneScaffold_743: ID=ID=gene:ENSCHOG00000008961;Name=RASAL2;biotype=protein_coding;description=RAS protein activator like 2 [Source:HGNC Symbol%3BAcc:HGNC:9874];gene_id=ENSCHOG00000008961;logic_name=ensembl_projection;version=1
+GeneScaffold_7430: ID=ID=gene:ENSCHOG00000010034;Name=TRRAP;biotype=protein_coding;description=transformation/transcription domain associated protein [Source:HGNC Symbol%3BAcc:HGNC:12347];gene_id=ENSCHOG00000010034;logic_name=ensembl_projection;version=1
+GeneScaffold_7431: ID=ID=gene:ENSCHOG00000000947;biotype=protein_coding;gene_id=ENSCHOG00000000947;logic_name=ensembl_projection;version=1
+GeneScaffold_7432: ID=ID=gene:ENSCHOG00000010010;biotype=protein_coding;gene_id=ENSCHOG00000010010;logic_name=ensembl_projection;version=1
+GeneScaffold_7433: ID=ID=gene:ENSCHOG00000003641;Name=ZNF140;biotype=protein_coding;description=zinc finger protein 140 [Source:HGNC Symbol%3BAcc:HGNC:12925];gene_id=ENSCHOG00000003641;logic_name=ensembl_projection;version=1
+GeneScaffold_7434: ID=ID=gene:ENSCHOG00000013151;Name=INCA1;biotype=protein_coding;description=inhibitor of CDK%2C cyclin A1 interacting protein 1 [Source:HGNC Symbol%3BAcc:HGNC:32224];gene_id=ENSCHOG00000013151;logic_name=ensembl_projection;version=1
+GeneScaffold_7435: ID=ID=gene:ENSCHOG00000000640;Name=PTPN1;biotype=protein_coding;description=protein tyrosine phosphatase non-receptor type 1 [Source:HGNC Symbol%3BAcc:HGNC:9642];gene_id=ENSCHOG00000000640;logic_name=ensembl_projection;version=1
+GeneScaffold_7436: ID=ID=gene:ENSCHOG00000005720;biotype=protein_coding;gene_id=ENSCHOG00000005720;logic_name=ensembl_projection;version=1
+GeneScaffold_7437: ID=ID=gene:ENSCHOG00000004349;Name=XRCC6;biotype=protein_coding;description=X-ray repair cross complementing 6 [Source:HGNC Symbol%3BAcc:HGNC:4055];gene_id=ENSCHOG00000004349;logic_name=ensembl_projection;version=1
+GeneScaffold_7437: ID=ID=gene:ENSCHOG00000004365;Name=SNU13;biotype=protein_coding;description=small nuclear ribonucleoprotein 13 [Source:HGNC Symbol%3BAcc:HGNC:7819];gene_id=ENSCHOG00000004365;logic_name=ensembl_projection;version=1
+GeneScaffold_7438: ID=ID=gene:ENSCHOG00000007714;biotype=protein_coding;gene_id=ENSCHOG00000007714;logic_name=ensembl_projection;version=1
+GeneScaffold_7439: ID=ID=gene:ENSCHOG00000009526;Name=TSC22D2;biotype=protein_coding;description=TSC22 domain family member 2 [Source:HGNC Symbol%3BAcc:HGNC:29095];gene_id=ENSCHOG00000009526;logic_name=ensembl_projection;version=1
+GeneScaffold_744: ID=ID=gene:ENSCHOG00000002076;biotype=protein_coding;gene_id=ENSCHOG00000002076;logic_name=ensembl_projection;version=1
+GeneScaffold_7440: ID=ID=gene:ENSCHOG00000002805;Name=CRYBA4;biotype=protein_coding;description=crystallin beta A4 [Source:HGNC Symbol%3BAcc:HGNC:2396];gene_id=ENSCHOG00000002805;logic_name=ensembl_projection;version=1
+GeneScaffold_7441: ID=ID=gene:ENSCHOG00000013589;biotype=protein_coding;gene_id=ENSCHOG00000013589;logic_name=ensembl_projection;version=1
+GeneScaffold_7442: ID=ID=gene:ENSCHOG00000005500;Name=YRDC;biotype=protein_coding;description=yrdC N6-threonylcarbamoyltransferase domain containing [Source:HGNC Symbol%3BAcc:HGNC:28905];gene_id=ENSCHOG00000005500;logic_name=ensembl_projection;version=1
+GeneScaffold_7442: ID=ID=gene:ENSCHOG00000005504;biotype=protein_coding;gene_id=ENSCHOG00000005504;logic_name=ensembl_projection;version=1
+GeneScaffold_7442: ID=ID=gene:ENSCHOG00000005516;Name=MTF1;biotype=protein_coding;description=metal regulatory transcription factor 1 [Source:HGNC Symbol%3BAcc:HGNC:7428];gene_id=ENSCHOG00000005516;logic_name=ensembl_projection;version=1
+GeneScaffold_7442: ID=ID=gene:ENSCHOG00000005529;Name=INPP5B;biotype=protein_coding;description=inositol polyphosphate-5-phosphatase B [Source:HGNC Symbol%3BAcc:HGNC:6077];gene_id=ENSCHOG00000005529;logic_name=ensembl_projection;version=1
+GeneScaffold_7443: ID=ID=gene:ENSCHOG00000003185;Name=ZNF777;biotype=protein_coding;description=zinc finger protein 777 [Source:HGNC Symbol%3BAcc:HGNC:22213];gene_id=ENSCHOG00000003185;logic_name=ensembl_projection;version=1
+GeneScaffold_7444: ID=ID=gene:ENSCHOG00000002586;biotype=protein_coding;gene_id=ENSCHOG00000002586;logic_name=ensembl_projection;version=1
+GeneScaffold_7445: ID=ID=gene:ENSCHOG00000000612;biotype=protein_coding;gene_id=ENSCHOG00000000612;logic_name=ensembl_projection;version=1
+GeneScaffold_7446: ID=ID=gene:ENSCHOG00000002611;Name=MYL6B;biotype=protein_coding;description=myosin light chain 6B [Source:HGNC Symbol%3BAcc:HGNC:29823];gene_id=ENSCHOG00000002611;logic_name=ensembl_projection;version=1
+GeneScaffold_7446: ID=ID=gene:ENSCHOG00000002619;Name=MYL6;biotype=protein_coding;description=myosin light chain 6 [Source:HGNC Symbol%3BAcc:HGNC:7587];gene_id=ENSCHOG00000002619;logic_name=ensembl_projection;version=1
+GeneScaffold_7447: ID=ID=gene:ENSCHOG00000007612;Name=ESRRG;biotype=protein_coding;description=estrogen related receptor gamma [Source:HGNC Symbol%3BAcc:HGNC:3474];gene_id=ENSCHOG00000007612;logic_name=ensembl_projection;version=1
+GeneScaffold_7448: ID=ID=gene:ENSCHOG00000008556;Name=ANAPC7;biotype=protein_coding;description=anaphase promoting complex subunit 7 [Source:HGNC Symbol%3BAcc:HGNC:17380];gene_id=ENSCHOG00000008556;logic_name=ensembl_projection;version=1
+GeneScaffold_7449: ID=ID=gene:ENSCHOG00000001227;Name=TPK1;biotype=protein_coding;description=thiamin pyrophosphokinase 1 [Source:HGNC Symbol%3BAcc:HGNC:17358];gene_id=ENSCHOG00000001227;logic_name=ensembl_projection;version=1
+GeneScaffold_745: ID=ID=gene:ENSCHOG00000005080;Name=MARK3;biotype=protein_coding;description=microtubule affinity regulating kinase 3 [Source:HGNC Symbol%3BAcc:HGNC:6897];gene_id=ENSCHOG00000005080;logic_name=ensembl_projection;version=1
+GeneScaffold_7450: ID=ID=gene:ENSCHOG00000009226;Name=AFAP1;biotype=protein_coding;description=actin filament associated protein 1 [Source:HGNC Symbol%3BAcc:HGNC:24017];gene_id=ENSCHOG00000009226;logic_name=ensembl_projection;version=1
+GeneScaffold_7451: ID=ID=gene:ENSCHOG00000006648;biotype=protein_coding;gene_id=ENSCHOG00000006648;logic_name=ensembl_projection;version=1
+GeneScaffold_7451: ID=ID=gene:ENSCHOG00000006654;biotype=protein_coding;gene_id=ENSCHOG00000006654;logic_name=ensembl_projection;version=1
+GeneScaffold_7452: ID=ID=gene:ENSCHOG00000013161;biotype=protein_coding;gene_id=ENSCHOG00000013161;logic_name=ensembl_projection;version=1
+GeneScaffold_7453: ID=ID=gene:ENSCHOG00000003872;Name=MME;biotype=protein_coding;description=membrane metalloendopeptidase [Source:HGNC Symbol%3BAcc:HGNC:7154];gene_id=ENSCHOG00000003872;logic_name=ensembl_projection;version=1
+GeneScaffold_7454: ID=ID=gene:ENSCHOG00000004629;Name=CCDC196;biotype=protein_coding;description=coiled-coil domain containing 196 [Source:HGNC Symbol%3BAcc:HGNC:20100];gene_id=ENSCHOG00000004629;logic_name=ensembl_projection;version=1
+GeneScaffold_7454: ID=ID=gene:ENSCHOG00000004650;Name=GPHN;biotype=protein_coding;description=gephyrin [Source:HGNC Symbol%3BAcc:HGNC:15465];gene_id=ENSCHOG00000004650;logic_name=ensembl_projection;version=1
+GeneScaffold_7455: ID=ID=gene:ENSCHOG00000011862;Name=LAMA2;biotype=protein_coding;description=laminin subunit alpha 2 [Source:HGNC Symbol%3BAcc:HGNC:6482];gene_id=ENSCHOG00000011862;logic_name=ensembl_projection;version=1
+GeneScaffold_7456: ID=ID=gene:ENSCHOG00000007516;Name=XRCC2;biotype=protein_coding;description=X-ray repair cross complementing 2 [Source:HGNC Symbol%3BAcc:HGNC:12829];gene_id=ENSCHOG00000007516;logic_name=ensembl_projection;version=1
+GeneScaffold_7457: ID=ID=gene:ENSCHOG00000001078;Name=MYO6;biotype=protein_coding;description=myosin VI [Source:HGNC Symbol%3BAcc:HGNC:7605];gene_id=ENSCHOG00000001078;logic_name=ensembl_projection;version=1
+GeneScaffold_7457: ID=ID=gene:ENSCHOG00000001091;Name=IMPG1;biotype=protein_coding;description=interphotoreceptor matrix proteoglycan 1 [Source:HGNC Symbol%3BAcc:HGNC:6055];gene_id=ENSCHOG00000001091;logic_name=ensembl_projection;version=1
+GeneScaffold_7458: ID=ID=gene:ENSCHOG00000006407;biotype=protein_coding;gene_id=ENSCHOG00000006407;logic_name=ensembl_projection;version=1
+GeneScaffold_7459: ID=ID=gene:ENSCHOG00000013160;Name=HDAC2;biotype=protein_coding;description=histone deacetylase 2 [Source:HGNC Symbol%3BAcc:HGNC:4853];gene_id=ENSCHOG00000013160;logic_name=ensembl_projection;version=1
+GeneScaffold_746: ID=ID=gene:ENSCHOG00000012163;Name=FNDC3B;biotype=protein_coding;description=fibronectin type III domain containing 3B [Source:HGNC Symbol%3BAcc:HGNC:24670];gene_id=ENSCHOG00000012163;logic_name=ensembl_projection;version=1
+GeneScaffold_7460: ID=ID=gene:ENSCHOG00000006037;biotype=protein_coding;gene_id=ENSCHOG00000006037;logic_name=ensembl_projection;version=1
+GeneScaffold_7461: ID=ID=gene:ENSCHOG00000009360;Name=ZNF846;biotype=protein_coding;description=zinc finger protein 846 [Source:HGNC Symbol%3BAcc:HGNC:27260];gene_id=ENSCHOG00000009360;logic_name=ensembl_projection;version=1
+GeneScaffold_7462: ID=ID=gene:ENSCHOG00000008429;biotype=protein_coding;gene_id=ENSCHOG00000008429;logic_name=ensembl_projection;version=1
+GeneScaffold_7463: ID=ID=gene:ENSCHOG00000000331;Name=TCF4;biotype=protein_coding;description=transcription factor 4 [Source:HGNC Symbol%3BAcc:HGNC:11634];gene_id=ENSCHOG00000000331;logic_name=ensembl_projection;version=1
+GeneScaffold_7464: ID=ID=gene:ENSCHOG00000010669;biotype=protein_coding;gene_id=ENSCHOG00000010669;logic_name=ensembl_projection;version=1
+GeneScaffold_7465: ID=ID=gene:ENSCHOG00000011552;biotype=protein_coding;gene_id=ENSCHOG00000011552;logic_name=ensembl_projection;version=1
+GeneScaffold_7466: ID=ID=gene:ENSCHOG00000006310;Name=ZKSCAN5;biotype=protein_coding;description=zinc finger with KRAB and SCAN domains 5 [Source:HGNC Symbol%3BAcc:HGNC:12867];gene_id=ENSCHOG00000006310;logic_name=ensembl_projection;version=1
+GeneScaffold_7467: ID=ID=gene:ENSCHOG00000008366;biotype=protein_coding;gene_id=ENSCHOG00000008366;logic_name=ensembl_projection;version=1
+GeneScaffold_7468: ID=ID=gene:ENSCHOG00000010985;biotype=protein_coding;gene_id=ENSCHOG00000010985;logic_name=ensembl_projection;version=1
+GeneScaffold_7469: ID=ID=gene:ENSCHOG00000009137;biotype=protein_coding;gene_id=ENSCHOG00000009137;logic_name=ensembl_projection;version=1
+GeneScaffold_7469: ID=ID=gene:ENSCHOG00000009146;biotype=protein_coding;gene_id=ENSCHOG00000009146;logic_name=ensembl_projection;version=1
+GeneScaffold_7469: ID=ID=gene:ENSCHOG00000009164;Name=DCUN1D3;biotype=protein_coding;description=defective in cullin neddylation 1 domain containing 3 [Source:HGNC Symbol%3BAcc:HGNC:28734];gene_id=ENSCHOG00000009164;logic_name=ensembl_projection;version=1
+GeneScaffold_747: ID=ID=gene:ENSCHOG00000011083;Name=FRYL;biotype=protein_coding;description=FRY like transcription coactivator [Source:HGNC Symbol%3BAcc:HGNC:29127];gene_id=ENSCHOG00000011083;logic_name=ensembl_projection;version=1
+GeneScaffold_7470: ID=ID=gene:ENSCHOG00000001967;biotype=protein_coding;gene_id=ENSCHOG00000001967;logic_name=ensembl_projection;version=1
+GeneScaffold_7471: ID=ID=gene:ENSCHOG00000006836;biotype=protein_coding;gene_id=ENSCHOG00000006836;logic_name=ensembl_projection;version=1
+GeneScaffold_7472: ID=ID=gene:ENSCHOG00000000493;biotype=protein_coding;description=archaelysin family metallopeptidase 2 [Source:HGNC Symbol%3BAcc:HGNC:28041];gene_id=ENSCHOG00000000493;logic_name=ensembl_projection;version=1
+GeneScaffold_7473: ID=ID=gene:ENSCHOG00000008251;biotype=protein_coding;gene_id=ENSCHOG00000008251;logic_name=ensembl_projection;version=1
+GeneScaffold_7474: ID=ID=gene:ENSCHOG00000008564;Name=NF1;biotype=protein_coding;description=neurofibromin 1 [Source:HGNC Symbol%3BAcc:HGNC:7765];gene_id=ENSCHOG00000008564;logic_name=ensembl_projection;version=1
+GeneScaffold_7475: ID=ID=gene:ENSCHOG00000009673;Name=VKORC1L1;biotype=protein_coding;description=vitamin K epoxide reductase complex subunit 1 like 1 [Source:HGNC Symbol%3BAcc:HGNC:21492];gene_id=ENSCHOG00000009673;logic_name=ensembl_projection;version=1
+GeneScaffold_7476: ID=ID=gene:ENSCHOG00000010676;Name=DAPK1;biotype=protein_coding;description=death associated protein kinase 1 [Source:HGNC Symbol%3BAcc:HGNC:2674];gene_id=ENSCHOG00000010676;logic_name=ensembl_projection;version=1
+GeneScaffold_7477: ID=ID=gene:ENSCHOG00000002149;biotype=protein_coding;gene_id=ENSCHOG00000002149;logic_name=ensembl_projection;version=1
+GeneScaffold_7478: ID=ID=gene:ENSCHOG00000013934;Name=GM2A;biotype=protein_coding;description=GM2 ganglioside activator [Source:HGNC Symbol%3BAcc:HGNC:4367];gene_id=ENSCHOG00000013934;logic_name=ensembl_projection;version=1
+GeneScaffold_7479: ID=ID=gene:ENSCHOG00000004686;biotype=protein_coding;gene_id=ENSCHOG00000004686;logic_name=ensembl_projection;version=1
+GeneScaffold_7479: ID=ID=gene:ENSCHOG00000004699;Name=RNF121;biotype=protein_coding;description=ring finger protein 121 [Source:HGNC Symbol%3BAcc:HGNC:21070];gene_id=ENSCHOG00000004699;logic_name=ensembl_projection;version=1
+GeneScaffold_7479: ID=ID=gene:ENSCHOG00000004711;Name=NUMA1;biotype=protein_coding;description=nuclear mitotic apparatus protein 1 [Source:HGNC Symbol%3BAcc:HGNC:8059];gene_id=ENSCHOG00000004711;logic_name=ensembl_projection;version=1
+GeneScaffold_748: ID=ID=gene:ENSCHOG00000004384;Name=TMEM131;biotype=protein_coding;description=transmembrane protein 131 [Source:HGNC Symbol%3BAcc:HGNC:30366];gene_id=ENSCHOG00000004384;logic_name=ensembl_projection;version=1
+GeneScaffold_7480: ID=ID=gene:ENSCHOG00000006763;Name=CD47;biotype=protein_coding;description=CD47 molecule [Source:HGNC Symbol%3BAcc:HGNC:1682];gene_id=ENSCHOG00000006763;logic_name=ensembl_projection;version=1
+GeneScaffold_7481: ID=ID=gene:ENSCHOG00000012914;Name=TLE1;biotype=protein_coding;description=TLE family member 1%2C transcriptional corepressor [Source:HGNC Symbol%3BAcc:HGNC:11837];gene_id=ENSCHOG00000012914;logic_name=ensembl_projection;version=1
+GeneScaffold_7482: ID=ID=gene:ENSCHOG00000001363;Name=STRN3;biotype=protein_coding;description=striatin 3 [Source:HGNC Symbol%3BAcc:HGNC:15720];gene_id=ENSCHOG00000001363;logic_name=ensembl_projection;version=1
+GeneScaffold_7483: ID=ID=gene:ENSCHOG00000004502;biotype=protein_coding;gene_id=ENSCHOG00000004502;logic_name=ensembl_projection;version=1
+GeneScaffold_7484: ID=ID=gene:ENSCHOG00000008635;Name=ZSCAN16;biotype=protein_coding;description=zinc finger and SCAN domain containing 16 [Source:HGNC Symbol%3BAcc:HGNC:20813];gene_id=ENSCHOG00000008635;logic_name=ensembl_projection;version=1
+GeneScaffold_7485: ID=ID=gene:ENSCHOG00000009486;biotype=protein_coding;gene_id=ENSCHOG00000009486;logic_name=ensembl_projection;version=1
+GeneScaffold_7486: ID=ID=gene:ENSCHOG00000005914;Name=ILRUN;biotype=protein_coding;description=inflammation and lipid regulator with UBA-like and NBR1-like domains [Source:HGNC Symbol%3BAcc:HGNC:21215];gene_id=ENSCHOG00000005914;logic_name=ensembl_projection;version=1
+GeneScaffold_7487: ID=ID=gene:ENSCHOG00000010134;Name=KRT39;biotype=protein_coding;description=keratin 39 [Source:HGNC Symbol%3BAcc:HGNC:32971];gene_id=ENSCHOG00000010134;logic_name=ensembl_projection;version=1
+GeneScaffold_7488: ID=ID=gene:ENSCHOG00000004079;Name=TOMM20L;biotype=protein_coding;description=translocase of outer mitochondrial membrane 20 like [Source:HGNC Symbol%3BAcc:HGNC:33752];gene_id=ENSCHOG00000004079;logic_name=ensembl_projection;version=1
+GeneScaffold_7488: ID=ID=gene:ENSCHOG00000004084;biotype=protein_coding;gene_id=ENSCHOG00000004084;logic_name=ensembl_projection;version=1
+GeneScaffold_749: ID=ID=gene:ENSCHOG00000005809;Name=PLD1;biotype=protein_coding;description=phospholipase D1 [Source:HGNC Symbol%3BAcc:HGNC:9067];gene_id=ENSCHOG00000005809;logic_name=ensembl_projection;version=1
+GeneScaffold_7490: ID=ID=gene:ENSCHOG00000000895;biotype=protein_coding;gene_id=ENSCHOG00000000895;logic_name=ensembl_projection;version=1
+GeneScaffold_7491: ID=ID=gene:ENSCHOG00000012301;Name=SCN8A;biotype=protein_coding;description=sodium voltage-gated channel alpha subunit 8 [Source:HGNC Symbol%3BAcc:HGNC:10596];gene_id=ENSCHOG00000012301;logic_name=ensembl_projection;version=1
+GeneScaffold_7492: ID=ID=gene:ENSCHOG00000006927;biotype=protein_coding;gene_id=ENSCHOG00000006927;logic_name=ensembl_projection;version=1
+GeneScaffold_7493: ID=ID=gene:ENSCHOG00000001980;Name=KPNA5;biotype=protein_coding;description=karyopherin subunit alpha 5 [Source:HGNC Symbol%3BAcc:HGNC:6398];gene_id=ENSCHOG00000001980;logic_name=ensembl_projection;version=1
+GeneScaffold_7494: ID=ID=gene:ENSCHOG00000011501;Name=HCAR1;biotype=protein_coding;description=hydroxycarboxylic acid receptor 1 [Source:HGNC Symbol%3BAcc:HGNC:4532];gene_id=ENSCHOG00000011501;logic_name=ensembl_projection;version=1
+GeneScaffold_7494: ID=ID=gene:ENSCHOG00000011505;Name=DENR;biotype=protein_coding;description=density regulated re-initiation and release factor [Source:HGNC Symbol%3BAcc:HGNC:2769];gene_id=ENSCHOG00000011505;logic_name=ensembl_projection;version=1
+GeneScaffold_7494: ID=ID=gene:ENSCHOG00000011521;Name=CCDC62;biotype=protein_coding;description=coiled-coil domain containing 62 [Source:HGNC Symbol%3BAcc:HGNC:30723];gene_id=ENSCHOG00000011521;logic_name=ensembl_projection;version=1
+GeneScaffold_7495: ID=ID=gene:ENSCHOG00000003730;Name=TMEM26;biotype=protein_coding;description=transmembrane protein 26 [Source:HGNC Symbol%3BAcc:HGNC:28550];gene_id=ENSCHOG00000003730;logic_name=ensembl_projection;version=1
+GeneScaffold_7496: ID=ID=gene:ENSCHOG00000007749;Name=SRGAP1;biotype=protein_coding;description=SLIT-ROBO Rho GTPase activating protein 1 [Source:HGNC Symbol%3BAcc:HGNC:17382];gene_id=ENSCHOG00000007749;logic_name=ensembl_projection;version=1
+GeneScaffold_7497: ID=ID=gene:ENSCHOG00000010630;biotype=protein_coding;gene_id=ENSCHOG00000010630;logic_name=ensembl_projection;version=1
+GeneScaffold_7499: ID=ID=gene:ENSCHOG00000012300;biotype=protein_coding;gene_id=ENSCHOG00000012300;logic_name=ensembl_projection;version=1
+GeneScaffold_7499: ID=ID=gene:ENSCHOG00000012306;biotype=protein_coding;gene_id=ENSCHOG00000012306;logic_name=ensembl_projection;version=1
+GeneScaffold_75: ID=ID=gene:ENSCHOG00000011928;biotype=protein_coding;gene_id=ENSCHOG00000011928;logic_name=ensembl_projection;version=1
+GeneScaffold_750: ID=ID=gene:ENSCHOG00000010822;Name=ATP12A;biotype=protein_coding;description=ATPase H+/K+ transporting non-gastric alpha2 subunit [Source:HGNC Symbol%3BAcc:HGNC:13816];gene_id=ENSCHOG00000010822;logic_name=ensembl_projection;version=1
+GeneScaffold_7500: ID=ID=gene:ENSCHOG00000008611;Name=METTL9;biotype=protein_coding;description=methyltransferase like 9 [Source:HGNC Symbol%3BAcc:HGNC:24586];gene_id=ENSCHOG00000008611;logic_name=ensembl_projection;version=1
+GeneScaffold_7500: ID=ID=gene:ENSCHOG00000008616;Name=IGSF6;biotype=protein_coding;description=immunoglobulin superfamily member 6 [Source:HGNC Symbol%3BAcc:HGNC:5953];gene_id=ENSCHOG00000008616;logic_name=ensembl_projection;version=1
+GeneScaffold_7501: ID=ID=gene:ENSCHOG00000007407;Name=ZNF398;biotype=protein_coding;description=zinc finger protein 398 [Source:HGNC Symbol%3BAcc:HGNC:18373];gene_id=ENSCHOG00000007407;logic_name=ensembl_projection;version=1
+GeneScaffold_7502: ID=ID=gene:ENSCHOG00000005480;biotype=protein_coding;gene_id=ENSCHOG00000005480;logic_name=ensembl_projection;version=1
+GeneScaffold_7503: ID=ID=gene:ENSCHOG00000006993;biotype=protein_coding;gene_id=ENSCHOG00000006993;logic_name=ensembl_projection;version=1
+GeneScaffold_7504: ID=ID=gene:ENSCHOG00000009677;Name=IGF2R;biotype=protein_coding;description=insulin like growth factor 2 receptor [Source:HGNC Symbol%3BAcc:HGNC:5467];gene_id=ENSCHOG00000009677;logic_name=ensembl_projection;version=1
+GeneScaffold_7506: ID=ID=gene:ENSCHOG00000000790;Name=DYNC1H1;biotype=protein_coding;description=dynein cytoplasmic 1 heavy chain 1 [Source:HGNC Symbol%3BAcc:HGNC:2961];gene_id=ENSCHOG00000000790;logic_name=ensembl_projection;version=1
+GeneScaffold_7507: ID=ID=gene:ENSCHOG00000001106;biotype=protein_coding;gene_id=ENSCHOG00000001106;logic_name=ensembl_projection;version=1
+GeneScaffold_7508: ID=ID=gene:ENSCHOG00000013646;biotype=protein_coding;gene_id=ENSCHOG00000013646;logic_name=ensembl_projection;version=1
+GeneScaffold_7509: ID=ID=gene:ENSCHOG00000007393;biotype=protein_coding;gene_id=ENSCHOG00000007393;logic_name=ensembl_projection;version=1
+GeneScaffold_751: ID=ID=gene:ENSCHOG00000008736;biotype=protein_coding;gene_id=ENSCHOG00000008736;logic_name=ensembl_projection;version=1
+GeneScaffold_7510: ID=ID=gene:ENSCHOG00000002710;biotype=protein_coding;description=ADAM metallopeptidase domain 32 [Source:HGNC Symbol%3BAcc:HGNC:15479];gene_id=ENSCHOG00000002710;logic_name=ensembl_projection;version=1
+GeneScaffold_7511: ID=ID=gene:ENSCHOG00000011793;biotype=protein_coding;gene_id=ENSCHOG00000011793;logic_name=ensembl_projection;version=1
+GeneScaffold_7512: ID=ID=gene:ENSCHOG00000002218;Name=SND1;biotype=protein_coding;description=staphylococcal nuclease and tudor domain containing 1 [Source:HGNC Symbol%3BAcc:HGNC:30646];gene_id=ENSCHOG00000002218;logic_name=ensembl_projection;version=1
+GeneScaffold_7513: ID=ID=gene:ENSCHOG00000001378;biotype=protein_coding;gene_id=ENSCHOG00000001378;logic_name=ensembl_projection;version=1
+GeneScaffold_7514: ID=ID=gene:ENSCHOG00000001386;Name=NEK5;biotype=protein_coding;description=NIMA related kinase 5 [Source:HGNC Symbol%3BAcc:HGNC:7748];gene_id=ENSCHOG00000001386;logic_name=ensembl_projection;version=1
+GeneScaffold_7515: ID=ID=gene:ENSCHOG00000008415;Name=PSMD12;biotype=protein_coding;description=proteasome 26S subunit%2C non-ATPase 12 [Source:HGNC Symbol%3BAcc:HGNC:9557];gene_id=ENSCHOG00000008415;logic_name=ensembl_projection;version=1
+GeneScaffold_7516: ID=ID=gene:ENSCHOG00000003987;Name=PIWIL2;biotype=protein_coding;description=piwi like RNA-mediated gene silencing 2 [Source:HGNC Symbol%3BAcc:HGNC:17644];gene_id=ENSCHOG00000003987;logic_name=ensembl_projection;version=1
+GeneScaffold_7517: ID=ID=gene:ENSCHOG00000001039;biotype=protein_coding;gene_id=ENSCHOG00000001039;logic_name=ensembl_projection;version=1
+GeneScaffold_7517: ID=ID=gene:ENSCHOG00000001043;Name=GPX2;biotype=protein_coding;description=glutathione peroxidase 2 [Source:HGNC Symbol%3BAcc:HGNC:4554];gene_id=ENSCHOG00000001043;logic_name=ensembl_projection;version=1
+GeneScaffold_7518: ID=ID=gene:ENSCHOG00000007032;Name=SLC22A4;biotype=protein_coding;description=solute carrier family 22 member 4 [Source:HGNC Symbol%3BAcc:HGNC:10968];gene_id=ENSCHOG00000007032;logic_name=ensembl_projection;version=1
+GeneScaffold_7519: ID=ID=gene:ENSCHOG00000013145;Name=ENTPD4;biotype=protein_coding;description=ectonucleoside triphosphate diphosphohydrolase 4 [Source:HGNC Symbol%3BAcc:HGNC:14573];gene_id=ENSCHOG00000013145;logic_name=ensembl_projection;version=1
+GeneScaffold_752: ID=ID=gene:ENSCHOG00000010398;Name=DLG1;biotype=protein_coding;description=discs large MAGUK scaffold protein 1 [Source:HGNC Symbol%3BAcc:HGNC:2900];gene_id=ENSCHOG00000010398;logic_name=ensembl_projection;version=1
+GeneScaffold_7520: ID=ID=gene:ENSCHOG00000004477;biotype=protein_coding;gene_id=ENSCHOG00000004477;logic_name=ensembl_projection;version=1
+GeneScaffold_7521: ID=ID=gene:ENSCHOG00000005597;Name=GTF2E2;biotype=protein_coding;description=general transcription factor IIE subunit 2 [Source:HGNC Symbol%3BAcc:HGNC:4651];gene_id=ENSCHOG00000005597;logic_name=ensembl_projection;version=1
+GeneScaffold_7522: ID=ID=gene:ENSCHOG00000011853;Name=RAD54B;biotype=protein_coding;description=RAD54 homolog B [Source:HGNC Symbol%3BAcc:HGNC:17228];gene_id=ENSCHOG00000011853;logic_name=ensembl_projection;version=1
+GeneScaffold_7523: ID=ID=gene:ENSCHOG00000012892;biotype=protein_coding;gene_id=ENSCHOG00000012892;logic_name=ensembl_projection;version=1
+GeneScaffold_7524: ID=ID=gene:ENSCHOG00000003032;biotype=protein_coding;gene_id=ENSCHOG00000003032;logic_name=ensembl_projection;version=1
+GeneScaffold_7524: ID=ID=gene:ENSCHOG00000003045;Name=RAMP2;biotype=protein_coding;description=receptor activity modifying protein 2 [Source:HGNC Symbol%3BAcc:HGNC:9844];gene_id=ENSCHOG00000003045;logic_name=ensembl_projection;version=1
+GeneScaffold_7525: ID=ID=gene:ENSCHOG00000006255;Name=BLM;biotype=protein_coding;description=BLM RecQ like helicase [Source:HGNC Symbol%3BAcc:HGNC:1058];gene_id=ENSCHOG00000006255;logic_name=ensembl_projection;version=1
+GeneScaffold_7526: ID=ID=gene:ENSCHOG00000004088;Name=DDI2;biotype=protein_coding;description=DNA damage inducible 1 homolog 2 [Source:HGNC Symbol%3BAcc:HGNC:24578];gene_id=ENSCHOG00000004088;logic_name=ensembl_projection;version=1
+GeneScaffold_7526: ID=ID=gene:ENSCHOG00000004096;Name=RSC1A1;biotype=protein_coding;description=regulator of solute carriers 1 [Source:HGNC Symbol%3BAcc:HGNC:10458];gene_id=ENSCHOG00000004096;logic_name=ensembl_projection;version=1
+GeneScaffold_7527: ID=ID=gene:ENSCHOG00000011968;Name=SVIL;biotype=protein_coding;description=supervillin [Source:HGNC Symbol%3BAcc:HGNC:11480];gene_id=ENSCHOG00000011968;logic_name=ensembl_projection;version=1
+GeneScaffold_7528: ID=ID=gene:ENSCHOG00000001716;Name=TRIM33;biotype=protein_coding;description=tripartite motif containing 33 [Source:HGNC Symbol%3BAcc:HGNC:16290];gene_id=ENSCHOG00000001716;logic_name=ensembl_projection;version=1
+GeneScaffold_7529: ID=ID=gene:ENSCHOG00000007402;Name=ZNF655;biotype=protein_coding;description=zinc finger protein 655 [Source:HGNC Symbol%3BAcc:HGNC:30899];gene_id=ENSCHOG00000007402;logic_name=ensembl_projection;version=1
+GeneScaffold_753: ID=ID=gene:ENSCHOG00000000365;Name=RAB7A;biotype=protein_coding;description=RAB7A%2C member RAS oncogene family [Source:HGNC Symbol%3BAcc:HGNC:9788];gene_id=ENSCHOG00000000365;logic_name=ensembl_projection;version=1
+GeneScaffold_753: ID=ID=gene:ENSCHOG00000000366;biotype=protein_coding;gene_id=ENSCHOG00000000366;logic_name=ensembl_projection;version=1
+GeneScaffold_7530: ID=ID=gene:ENSCHOG00000002067;Name=MRPL21;biotype=protein_coding;description=mitochondrial ribosomal protein L21 [Source:HGNC Symbol%3BAcc:HGNC:14479];gene_id=ENSCHOG00000002067;logic_name=ensembl_projection;version=1
+GeneScaffold_7531: ID=ID=gene:ENSCHOG00000009763;biotype=protein_coding;gene_id=ENSCHOG00000009763;logic_name=ensembl_projection;version=1
+GeneScaffold_7532: ID=ID=gene:ENSCHOG00000011690;Name=SLC22A5;biotype=protein_coding;description=solute carrier family 22 member 5 [Source:HGNC Symbol%3BAcc:HGNC:10969];gene_id=ENSCHOG00000011690;logic_name=ensembl_projection;version=1
+GeneScaffold_7533: ID=ID=gene:ENSCHOG00000008385;biotype=protein_coding;gene_id=ENSCHOG00000008385;logic_name=ensembl_projection;version=1
+GeneScaffold_7534: ID=ID=gene:ENSCHOG00000009405;biotype=protein_coding;gene_id=ENSCHOG00000009405;logic_name=ensembl_projection;version=1
+GeneScaffold_7535: ID=ID=gene:ENSCHOG00000002553;Name=DCHS2;biotype=protein_coding;description=dachsous cadherin-related 2 [Source:HGNC Symbol%3BAcc:HGNC:23111];gene_id=ENSCHOG00000002553;logic_name=ensembl_projection;version=1
+GeneScaffold_7536: ID=ID=gene:ENSCHOG00000011602;Name=VEPH1;biotype=protein_coding;description=ventricular zone expressed PH domain containing 1 [Source:HGNC Symbol%3BAcc:HGNC:25735];gene_id=ENSCHOG00000011602;logic_name=ensembl_projection;version=1
+GeneScaffold_7537: ID=ID=gene:ENSCHOG00000001118;Name=SHPK;biotype=protein_coding;description=sedoheptulokinase [Source:HGNC Symbol%3BAcc:HGNC:1492];gene_id=ENSCHOG00000001118;logic_name=ensembl_projection;version=1
+GeneScaffold_7538: ID=ID=gene:ENSCHOG00000005175;Name=OPALIN;biotype=protein_coding;description=oligodendrocytic myelin paranodal and inner loop protein [Source:HGNC Symbol%3BAcc:HGNC:20707];gene_id=ENSCHOG00000005175;logic_name=ensembl_projection;version=1
+GeneScaffold_7539: ID=ID=gene:ENSCHOG00000009116;Name=MAP3K5;biotype=protein_coding;description=mitogen-activated protein kinase kinase kinase 5 [Source:HGNC Symbol%3BAcc:HGNC:6857];gene_id=ENSCHOG00000009116;logic_name=ensembl_projection;version=1
+GeneScaffold_754: ID=ID=gene:ENSCHOG00000011770;Name=BCAP29;biotype=protein_coding;description=B cell receptor associated protein 29 [Source:HGNC Symbol%3BAcc:HGNC:24131];gene_id=ENSCHOG00000011770;logic_name=ensembl_projection;version=1
+GeneScaffold_7540: ID=ID=gene:ENSCHOG00000004903;biotype=protein_coding;gene_id=ENSCHOG00000004903;logic_name=ensembl_projection;version=1
+GeneScaffold_7541: ID=ID=gene:ENSCHOG00000006067;Name=GSTK1;biotype=protein_coding;description=glutathione S-transferase kappa 1 [Source:HGNC Symbol%3BAcc:HGNC:16906];gene_id=ENSCHOG00000006067;logic_name=ensembl_projection;version=1
+GeneScaffold_7542: ID=ID=gene:ENSCHOG00000008468;biotype=protein_coding;gene_id=ENSCHOG00000008468;logic_name=ensembl_projection;version=1
+GeneScaffold_7543: ID=ID=gene:ENSCHOG00000006287;biotype=protein_coding;gene_id=ENSCHOG00000006287;logic_name=ensembl_projection;version=1
+GeneScaffold_7544: ID=ID=gene:ENSCHOG00000011181;biotype=protein_coding;gene_id=ENSCHOG00000011181;logic_name=ensembl_projection;version=1
+GeneScaffold_7545: ID=ID=gene:ENSCHOG00000001699;biotype=protein_coding;gene_id=ENSCHOG00000001699;logic_name=ensembl_projection;version=1
+GeneScaffold_7546: ID=ID=gene:ENSCHOG00000000781;biotype=protein_coding;gene_id=ENSCHOG00000000781;logic_name=ensembl_projection;version=1
+GeneScaffold_7547: ID=ID=gene:ENSCHOG00000005865;Name=RPF2;biotype=protein_coding;description=ribosome production factor 2 homolog [Source:HGNC Symbol%3BAcc:HGNC:20870];gene_id=ENSCHOG00000005865;logic_name=ensembl_projection;version=1
+GeneScaffold_7548: ID=ID=gene:ENSCHOG00000002722;Name=SLC28A3;biotype=protein_coding;description=solute carrier family 28 member 3 [Source:HGNC Symbol%3BAcc:HGNC:16484];gene_id=ENSCHOG00000002722;logic_name=ensembl_projection;version=1
+GeneScaffold_7549: ID=ID=gene:ENSCHOG00000007297;Name=MYO5A;biotype=protein_coding;description=myosin VA [Source:HGNC Symbol%3BAcc:HGNC:7602];gene_id=ENSCHOG00000007297;logic_name=ensembl_projection;version=1
+GeneScaffold_755: ID=ID=gene:ENSCHOG00000002995;biotype=protein_coding;gene_id=ENSCHOG00000002995;logic_name=ensembl_projection;version=1
+GeneScaffold_7551: ID=ID=gene:ENSCHOG00000007982;Name=ATG7;biotype=protein_coding;description=autophagy related 7 [Source:HGNC Symbol%3BAcc:HGNC:16935];gene_id=ENSCHOG00000007982;logic_name=ensembl_projection;version=1
+GeneScaffold_7552: ID=ID=gene:ENSCHOG00000002279;Name=SIPA1L1;biotype=protein_coding;description=signal induced proliferation associated 1 like 1 [Source:HGNC Symbol%3BAcc:HGNC:20284];gene_id=ENSCHOG00000002279;logic_name=ensembl_projection;version=1
+GeneScaffold_7553: ID=ID=gene:ENSCHOG00000002964;Name=PIGN;biotype=protein_coding;description=phosphatidylinositol glycan anchor biosynthesis class N [Source:HGNC Symbol%3BAcc:HGNC:8967];gene_id=ENSCHOG00000002964;logic_name=ensembl_projection;version=1
+GeneScaffold_7554: ID=ID=gene:ENSCHOG00000011873;biotype=protein_coding;gene_id=ENSCHOG00000011873;logic_name=ensembl_projection;version=1
+GeneScaffold_7555: ID=ID=gene:ENSCHOG00000010694;Name=GPX1;biotype=protein_coding;description=glutathione peroxidase 1 [Source:HGNC Symbol%3BAcc:HGNC:4553];gene_id=ENSCHOG00000010694;logic_name=ensembl_projection;version=1
+GeneScaffold_7555: ID=ID=gene:ENSCHOG00000010699;biotype=protein_coding;gene_id=ENSCHOG00000010699;logic_name=ensembl_projection;version=1
+GeneScaffold_7556: ID=ID=gene:ENSCHOG00000005988;Name=KCNMB2;biotype=protein_coding;description=potassium calcium-activated channel subfamily M regulatory beta subunit 2 [Source:HGNC Symbol%3BAcc:HGNC:6286];gene_id=ENSCHOG00000005988;logic_name=ensembl_projection;version=1
+GeneScaffold_7557: ID=ID=gene:ENSCHOG00000003028;Name=ENPP1;biotype=protein_coding;description=ectonucleotide pyrophosphatase/phosphodiesterase 1 [Source:HGNC Symbol%3BAcc:HGNC:3356];gene_id=ENSCHOG00000003028;logic_name=ensembl_projection;version=1
+GeneScaffold_7558: ID=ID=gene:ENSCHOG00000003490;Name=FAR1;biotype=protein_coding;description=fatty acyl-CoA reductase 1 [Source:HGNC Symbol%3BAcc:HGNC:26222];gene_id=ENSCHOG00000003490;logic_name=ensembl_projection;version=1
+GeneScaffold_7559: ID=ID=gene:ENSCHOG00000003177;biotype=protein_coding;gene_id=ENSCHOG00000003177;logic_name=ensembl_projection;version=1
+GeneScaffold_756: ID=ID=gene:ENSCHOG00000011750;Name=SART3;biotype=protein_coding;description=spliceosome associated factor 3%2C U4/U6 recycling protein [Source:HGNC Symbol%3BAcc:HGNC:16860];gene_id=ENSCHOG00000011750;logic_name=ensembl_projection;version=1
+GeneScaffold_756: ID=ID=gene:ENSCHOG00000011773;Name=ISCU;biotype=protein_coding;description=iron-sulfur cluster assembly enzyme [Source:HGNC Symbol%3BAcc:HGNC:29882];gene_id=ENSCHOG00000011773;logic_name=ensembl_projection;version=1
+GeneScaffold_7560: ID=ID=gene:ENSCHOG00000010351;Name=MFAP5;biotype=protein_coding;description=microfibril associated protein 5 [Source:HGNC Symbol%3BAcc:HGNC:29673];gene_id=ENSCHOG00000010351;logic_name=ensembl_projection;version=1
+GeneScaffold_7561: ID=ID=gene:ENSCHOG00000012663;biotype=protein_coding;gene_id=ENSCHOG00000012663;logic_name=ensembl_projection;version=1
+GeneScaffold_7562: ID=ID=gene:ENSCHOG00000001918;Name=ZNF615;biotype=protein_coding;description=zinc finger protein 615 [Source:HGNC Symbol%3BAcc:HGNC:24740];gene_id=ENSCHOG00000001918;logic_name=ensembl_projection;version=1
+GeneScaffold_7562: ID=ID=gene:ENSCHOG00000001923;biotype=protein_coding;gene_id=ENSCHOG00000001923;logic_name=ensembl_projection;version=1
+GeneScaffold_7563: ID=ID=gene:ENSCHOG00000001375;Name=SERPINB2;biotype=protein_coding;description=serpin family B member 2 [Source:HGNC Symbol%3BAcc:HGNC:8584];gene_id=ENSCHOG00000001375;logic_name=ensembl_projection;version=1
+GeneScaffold_7563: ID=ID=gene:ENSCHOG00000001377;Name=SERPINB10;biotype=protein_coding;description=serpin family B member 10 [Source:HGNC Symbol%3BAcc:HGNC:8942];gene_id=ENSCHOG00000001377;logic_name=ensembl_projection;version=1
+GeneScaffold_7564: ID=ID=gene:ENSCHOG00000008595;biotype=protein_coding;gene_id=ENSCHOG00000008595;logic_name=ensembl_projection;version=1
+GeneScaffold_7565: ID=ID=gene:ENSCHOG00000002144;biotype=protein_coding;gene_id=ENSCHOG00000002144;logic_name=ensembl_projection;version=1
+GeneScaffold_7565: ID=ID=gene:ENSCHOG00000002176;biotype=protein_coding;gene_id=ENSCHOG00000002176;logic_name=ensembl_projection;version=1
+GeneScaffold_7566: ID=ID=gene:ENSCHOG00000005779;Name=ZSCAN31;biotype=protein_coding;description=zinc finger and SCAN domain containing 31 [Source:HGNC Symbol%3BAcc:HGNC:14097];gene_id=ENSCHOG00000005779;logic_name=ensembl_projection;version=1
+GeneScaffold_7567: ID=ID=gene:ENSCHOG00000005496;Name=NMB;biotype=protein_coding;description=neuromedin B [Source:HGNC Symbol%3BAcc:HGNC:7842];gene_id=ENSCHOG00000005496;logic_name=ensembl_projection;version=1
+GeneScaffold_7567: ID=ID=gene:ENSCHOG00000005503;Name=SEC11A;biotype=protein_coding;description=SEC11 homolog A%2C signal peptidase complex subunit [Source:HGNC Symbol%3BAcc:HGNC:17718];gene_id=ENSCHOG00000005503;logic_name=ensembl_projection;version=1
+GeneScaffold_7568: ID=ID=gene:ENSCHOG00000009971;Name=PARVA;biotype=protein_coding;description=parvin alpha [Source:HGNC Symbol%3BAcc:HGNC:14652];gene_id=ENSCHOG00000009971;logic_name=ensembl_projection;version=1
+GeneScaffold_7569: ID=ID=gene:ENSCHOG00000002801;Name=FAM114A1;biotype=protein_coding;description=family with sequence similarity 114 member A1 [Source:HGNC Symbol%3BAcc:HGNC:25087];gene_id=ENSCHOG00000002801;logic_name=ensembl_projection;version=1
+GeneScaffold_757: ID=ID=gene:ENSCHOG00000007529;Name=ARHGAP15;biotype=protein_coding;description=Rho GTPase activating protein 15 [Source:HGNC Symbol%3BAcc:HGNC:21030];gene_id=ENSCHOG00000007529;logic_name=ensembl_projection;version=1
+GeneScaffold_7570: ID=ID=gene:ENSCHOG00000001110;biotype=protein_coding;gene_id=ENSCHOG00000001110;logic_name=ensembl_projection;version=1
+GeneScaffold_7571: ID=ID=gene:ENSCHOG00000002222;biotype=protein_coding;gene_id=ENSCHOG00000002222;logic_name=ensembl_projection;version=1
+GeneScaffold_7572: ID=ID=gene:ENSCHOG00000009946;biotype=protein_coding;gene_id=ENSCHOG00000009946;logic_name=ensembl_projection;version=1
+GeneScaffold_7573: ID=ID=gene:ENSCHOG00000004643;Name=CFAP43;biotype=protein_coding;description=cilia and flagella associated protein 43 [Source:HGNC Symbol%3BAcc:HGNC:26684];gene_id=ENSCHOG00000004643;logic_name=ensembl_projection;version=1
+GeneScaffold_7574: ID=ID=gene:ENSCHOG00000013265;biotype=protein_coding;gene_id=ENSCHOG00000013265;logic_name=ensembl_projection;version=1
+GeneScaffold_7575: ID=ID=gene:ENSCHOG00000007362;Name=TXNRD3;biotype=protein_coding;description=thioredoxin reductase 3 [Source:HGNC Symbol%3BAcc:HGNC:20667];gene_id=ENSCHOG00000007362;logic_name=ensembl_projection;version=1
+GeneScaffold_7576: ID=ID=gene:ENSCHOG00000006912;Name=KLHDC1;biotype=protein_coding;description=kelch domain containing 1 [Source:HGNC Symbol%3BAcc:HGNC:19836];gene_id=ENSCHOG00000006912;logic_name=ensembl_projection;version=1
+GeneScaffold_7577: ID=ID=gene:ENSCHOG00000003307;Name=ZNF81;biotype=protein_coding;description=zinc finger protein 81 [Source:HGNC Symbol%3BAcc:HGNC:13156];gene_id=ENSCHOG00000003307;logic_name=ensembl_projection;version=1
+GeneScaffold_7578: ID=ID=gene:ENSCHOG00000003347;Name=TAF13;biotype=protein_coding;description=TATA-box binding protein associated factor 13 [Source:HGNC Symbol%3BAcc:HGNC:11546];gene_id=ENSCHOG00000003347;logic_name=ensembl_projection;version=1
+GeneScaffold_7579: ID=ID=gene:ENSCHOG00000010001;Name=FAM118B;biotype=protein_coding;description=family with sequence similarity 118 member B [Source:HGNC Symbol%3BAcc:HGNC:26110];gene_id=ENSCHOG00000010001;logic_name=ensembl_projection;version=1
+GeneScaffold_7579: ID=ID=gene:ENSCHOG00000010015;biotype=protein_coding;gene_id=ENSCHOG00000010015;logic_name=ensembl_projection;version=1
+GeneScaffold_758: ID=ID=gene:ENSCHOG00000009521;Name=PAX2;biotype=protein_coding;description=paired box 2 [Source:HGNC Symbol%3BAcc:HGNC:8616];gene_id=ENSCHOG00000009521;logic_name=ensembl_projection;version=1
+GeneScaffold_7580: ID=ID=gene:ENSCHOG00000006297;Name=ZNF461;biotype=protein_coding;description=zinc finger protein 461 [Source:HGNC Symbol%3BAcc:HGNC:21629];gene_id=ENSCHOG00000006297;logic_name=ensembl_projection;version=1
+GeneScaffold_7581: ID=ID=gene:ENSCHOG00000011294;Name=SLC9A8;biotype=protein_coding;description=solute carrier family 9 member A8 [Source:HGNC Symbol%3BAcc:HGNC:20728];gene_id=ENSCHOG00000011294;logic_name=ensembl_projection;version=1
+GeneScaffold_7582: ID=ID=gene:ENSCHOG00000002185;Name=CFAP299;biotype=protein_coding;description=cilia and flagella associated protein 299 [Source:HGNC Symbol%3BAcc:HGNC:28554];gene_id=ENSCHOG00000002185;logic_name=ensembl_projection;version=1
+GeneScaffold_7583: ID=ID=gene:ENSCHOG00000000213;biotype=protein_coding;gene_id=ENSCHOG00000000213;logic_name=ensembl_projection;version=1
+GeneScaffold_7583: ID=ID=gene:ENSCHOG00000000214;Name=H2AJ;biotype=protein_coding;description=H2A.J histone [Source:HGNC Symbol%3BAcc:HGNC:14456];gene_id=ENSCHOG00000000214;logic_name=ensembl_projection;version=1
+GeneScaffold_7583: ID=ID=gene:ENSCHOG00000000217;biotype=protein_coding;gene_id=ENSCHOG00000000217;logic_name=ensembl_projection;version=1
+GeneScaffold_7583: ID=ID=gene:ENSCHOG00000000220;Name=SMCO3;biotype=protein_coding;description=single-pass membrane protein with coiled-coil domains 3 [Source:HGNC Symbol%3BAcc:HGNC:34401];gene_id=ENSCHOG00000000220;logic_name=ensembl_projection;version=1
+GeneScaffold_7584: ID=ID=gene:ENSCHOG00000010765;biotype=protein_coding;gene_id=ENSCHOG00000010765;logic_name=ensembl_projection;version=1
+GeneScaffold_7585: ID=ID=gene:ENSCHOG00000004884;Name=GPAA1;biotype=protein_coding;description=glycosylphosphatidylinositol anchor attachment 1 [Source:HGNC Symbol%3BAcc:HGNC:4446];gene_id=ENSCHOG00000004884;logic_name=ensembl_projection;version=1
+GeneScaffold_7586: ID=ID=gene:ENSCHOG00000008866;biotype=protein_coding;gene_id=ENSCHOG00000008866;logic_name=ensembl_projection;version=1
+GeneScaffold_7587: ID=ID=gene:ENSCHOG00000003921;Name=NKIRAS1;biotype=protein_coding;description=NFKB inhibitor interacting Ras like 1 [Source:HGNC Symbol%3BAcc:HGNC:17899];gene_id=ENSCHOG00000003921;logic_name=ensembl_projection;version=1
+GeneScaffold_7588: ID=ID=gene:ENSCHOG00000010897;Name=KIF13B;biotype=protein_coding;description=kinesin family member 13B [Source:HGNC Symbol%3BAcc:HGNC:14405];gene_id=ENSCHOG00000010897;logic_name=ensembl_projection;version=1
+GeneScaffold_7589: ID=ID=gene:ENSCHOG00000011779;Name=ADH5;biotype=protein_coding;description=alcohol dehydrogenase 5 (class III)%2C chi polypeptide [Source:HGNC Symbol%3BAcc:HGNC:253];gene_id=ENSCHOG00000011779;logic_name=ensembl_projection;version=1
+GeneScaffold_759: ID=ID=gene:ENSCHOG00000005760;Name=KIFAP3;biotype=protein_coding;description=kinesin associated protein 3 [Source:HGNC Symbol%3BAcc:HGNC:17060];gene_id=ENSCHOG00000005760;logic_name=ensembl_projection;version=1
+GeneScaffold_7590: ID=ID=gene:ENSCHOG00000010286;biotype=protein_coding;gene_id=ENSCHOG00000010286;logic_name=ensembl_projection;version=1
+GeneScaffold_7591: ID=ID=gene:ENSCHOG00000006421;biotype=protein_coding;gene_id=ENSCHOG00000006421;logic_name=ensembl_projection;version=1
+GeneScaffold_7592: ID=ID=gene:ENSCHOG00000008423;Name=ZNF311;biotype=protein_coding;description=zinc finger protein 311 [Source:HGNC Symbol%3BAcc:HGNC:13847];gene_id=ENSCHOG00000008423;logic_name=ensembl_projection;version=1
+GeneScaffold_7593: ID=ID=gene:ENSCHOG00000004282;biotype=protein_coding;gene_id=ENSCHOG00000004282;logic_name=ensembl_projection;version=1
+GeneScaffold_7594: ID=ID=gene:ENSCHOG00000009579;Name=DNM3;biotype=protein_coding;description=dynamin 3 [Source:HGNC Symbol%3BAcc:HGNC:29125];gene_id=ENSCHOG00000009579;logic_name=ensembl_projection;version=1
+GeneScaffold_7594: ID=ID=gene:ENSCHOG00000009612;Name=C1orf105;biotype=protein_coding;description=chromosome 1 open reading frame 105 [Source:HGNC Symbol%3BAcc:HGNC:29591];gene_id=ENSCHOG00000009612;logic_name=ensembl_projection;version=1
+GeneScaffold_7594: ID=ID=gene:ENSCHOG00000009628;Name=PIGC;biotype=protein_coding;description=phosphatidylinositol glycan anchor biosynthesis class C [Source:HGNC Symbol%3BAcc:HGNC:8960];gene_id=ENSCHOG00000009628;logic_name=ensembl_projection;version=1
+GeneScaffold_7595: ID=ID=gene:ENSCHOG00000011777;Name=MPZL1;biotype=protein_coding;description=myelin protein zero like 1 [Source:HGNC Symbol%3BAcc:HGNC:7226];gene_id=ENSCHOG00000011777;logic_name=ensembl_projection;version=1
+GeneScaffold_7596: ID=ID=gene:ENSCHOG00000006671;Name=VPS13A;biotype=protein_coding;description=vacuolar protein sorting 13 homolog A [Source:HGNC Symbol%3BAcc:HGNC:1908];gene_id=ENSCHOG00000006671;logic_name=ensembl_projection;version=1
+GeneScaffold_7596: ID=ID=gene:ENSCHOG00000006744;Name=GNA14;biotype=protein_coding;description=G protein subunit alpha 14 [Source:HGNC Symbol%3BAcc:HGNC:4382];gene_id=ENSCHOG00000006744;logic_name=ensembl_projection;version=1
+GeneScaffold_7597: ID=ID=gene:ENSCHOG00000007682;biotype=protein_coding;description=myelin basic protein [Source:HGNC Symbol%3BAcc:HGNC:6925];gene_id=ENSCHOG00000007682;logic_name=ensembl_projection;version=1
+GeneScaffold_7598: ID=ID=gene:ENSCHOG00000011825;biotype=protein_coding;gene_id=ENSCHOG00000011825;logic_name=ensembl_projection;version=1
+GeneScaffold_7599: ID=ID=gene:ENSCHOG00000008969;Name=ELOVL2;biotype=protein_coding;description=ELOVL fatty acid elongase 2 [Source:HGNC Symbol%3BAcc:HGNC:14416];gene_id=ENSCHOG00000008969;logic_name=ensembl_projection;version=1
+GeneScaffold_76: ID=ID=gene:ENSCHOG00000008757;Name=GGCT;biotype=protein_coding;description=gamma-glutamylcyclotransferase [Source:HGNC Symbol%3BAcc:HGNC:21705];gene_id=ENSCHOG00000008757;logic_name=ensembl_projection;version=1
+GeneScaffold_760: ID=ID=gene:ENSCHOG00000005438;Name=MKRN2;biotype=protein_coding;description=makorin ring finger protein 2 [Source:HGNC Symbol%3BAcc:HGNC:7113];gene_id=ENSCHOG00000005438;logic_name=ensembl_projection;version=1
+GeneScaffold_7600: ID=ID=gene:ENSCHOG00000010171;biotype=protein_coding;gene_id=ENSCHOG00000010171;logic_name=ensembl_projection;version=1
+GeneScaffold_7601: ID=ID=gene:ENSCHOG00000004238;biotype=protein_coding;gene_id=ENSCHOG00000004238;logic_name=ensembl_projection;version=1
+GeneScaffold_7602: ID=ID=gene:ENSCHOG00000009191;Name=CLEC9A;biotype=protein_coding;description=C-type lectin domain containing 9A [Source:HGNC Symbol%3BAcc:HGNC:26705];gene_id=ENSCHOG00000009191;logic_name=ensembl_projection;version=1
+GeneScaffold_7602: ID=ID=gene:ENSCHOG00000009197;biotype=protein_coding;gene_id=ENSCHOG00000009197;logic_name=ensembl_projection;version=1
+GeneScaffold_7603: ID=ID=gene:ENSCHOG00000007315;biotype=protein_coding;gene_id=ENSCHOG00000007315;logic_name=ensembl_projection;version=1
+GeneScaffold_7604: ID=ID=gene:ENSCHOG00000004639;Name=NOL8;biotype=protein_coding;description=nucleolar protein 8 [Source:HGNC Symbol%3BAcc:HGNC:23387];gene_id=ENSCHOG00000004639;logic_name=ensembl_projection;version=1
+GeneScaffold_7604: ID=ID=gene:ENSCHOG00000004659;Name=CENPP;biotype=protein_coding;description=centromere protein P [Source:HGNC Symbol%3BAcc:HGNC:32933];gene_id=ENSCHOG00000004659;logic_name=ensembl_projection;version=1
+GeneScaffold_7604: ID=ID=gene:ENSCHOG00000004665;biotype=protein_coding;gene_id=ENSCHOG00000004665;logic_name=ensembl_projection;version=1
+GeneScaffold_7605: ID=ID=gene:ENSCHOG00000005497;Name=IRAK4;biotype=protein_coding;description=interleukin 1 receptor associated kinase 4 [Source:HGNC Symbol%3BAcc:HGNC:17967];gene_id=ENSCHOG00000005497;logic_name=ensembl_projection;version=1
+GeneScaffold_7606: ID=ID=gene:ENSCHOG00000001702;Name=DLGAP2;biotype=protein_coding;description=DLG associated protein 2 [Source:HGNC Symbol%3BAcc:HGNC:2906];gene_id=ENSCHOG00000001702;logic_name=ensembl_projection;version=1
+GeneScaffold_7607: ID=ID=gene:ENSCHOG00000007010;biotype=protein_coding;gene_id=ENSCHOG00000007010;logic_name=ensembl_projection;version=1
+GeneScaffold_7608: ID=ID=gene:ENSCHOG00000001379;biotype=protein_coding;gene_id=ENSCHOG00000001379;logic_name=ensembl_projection;version=1
+GeneScaffold_7609: ID=ID=gene:ENSCHOG00000013463;Name=ZNF335;biotype=protein_coding;description=zinc finger protein 335 [Source:HGNC Symbol%3BAcc:HGNC:15807];gene_id=ENSCHOG00000013463;logic_name=ensembl_projection;version=1
+GeneScaffold_761: ID=ID=gene:ENSCHOG00000007458;Name=MCM6;biotype=protein_coding;description=minichromosome maintenance complex component 6 [Source:HGNC Symbol%3BAcc:HGNC:6949];gene_id=ENSCHOG00000007458;logic_name=ensembl_projection;version=1
+GeneScaffold_7610: ID=ID=gene:ENSCHOG00000002488;biotype=protein_coding;gene_id=ENSCHOG00000002488;logic_name=ensembl_projection;version=1
+GeneScaffold_7611: ID=ID=gene:ENSCHOG00000009861;Name=ZNF84;biotype=protein_coding;description=zinc finger protein 84 [Source:HGNC Symbol%3BAcc:HGNC:13159];gene_id=ENSCHOG00000009861;logic_name=ensembl_projection;version=1
+GeneScaffold_7612: ID=ID=gene:ENSCHOG00000009081;Name=MAK16;biotype=protein_coding;description=MAK16 homolog [Source:HGNC Symbol%3BAcc:HGNC:13703];gene_id=ENSCHOG00000009081;logic_name=ensembl_projection;version=1
+GeneScaffold_7612: ID=ID=gene:ENSCHOG00000009090;Name=TTI2;biotype=protein_coding;description=TELO2 interacting protein 2 [Source:HGNC Symbol%3BAcc:HGNC:26262];gene_id=ENSCHOG00000009090;logic_name=ensembl_projection;version=1
+GeneScaffold_7613: ID=ID=gene:ENSCHOG00000007363;Name=ZNF667;biotype=protein_coding;description=zinc finger protein 667 [Source:HGNC Symbol%3BAcc:HGNC:28854];gene_id=ENSCHOG00000007363;logic_name=ensembl_projection;version=1
+GeneScaffold_7614: ID=ID=gene:ENSCHOG00000012461;biotype=protein_coding;gene_id=ENSCHOG00000012461;logic_name=ensembl_projection;version=1
+GeneScaffold_7615: ID=ID=gene:ENSCHOG00000004595;biotype=protein_coding;gene_id=ENSCHOG00000004595;logic_name=ensembl_projection;version=1
+GeneScaffold_7616: ID=ID=gene:ENSCHOG00000013926;Name=MARCHF5;biotype=protein_coding;description=membrane associated ring-CH-type finger 5 [Source:HGNC Symbol%3BAcc:HGNC:26025];gene_id=ENSCHOG00000013926;logic_name=ensembl_projection;version=1
+GeneScaffold_7617: ID=ID=gene:ENSCHOG00000000166;Name=AKR1B10;biotype=protein_coding;description=aldo-keto reductase family 1 member B10 [Source:HGNC Symbol%3BAcc:HGNC:382];gene_id=ENSCHOG00000000166;logic_name=ensembl_projection;version=1
+GeneScaffold_7618: ID=ID=gene:ENSCHOG00000002804;biotype=protein_coding;gene_id=ENSCHOG00000002804;logic_name=ensembl_projection;version=1
+GeneScaffold_7619: ID=ID=gene:ENSCHOG00000011934;biotype=protein_coding;gene_id=ENSCHOG00000011934;logic_name=ensembl_projection;version=1
+GeneScaffold_762: ID=ID=gene:ENSCHOG00000007372;Name=RBMS2;biotype=protein_coding;description=RNA binding motif single stranded interacting protein 2 [Source:HGNC Symbol%3BAcc:HGNC:9909];gene_id=ENSCHOG00000007372;logic_name=ensembl_projection;version=1
+GeneScaffold_7620: ID=ID=gene:ENSCHOG00000010932;biotype=protein_coding;gene_id=ENSCHOG00000010932;logic_name=ensembl_projection;version=1
+GeneScaffold_7621: ID=ID=gene:ENSCHOG00000008959;Name=ADH4;biotype=protein_coding;description=alcohol dehydrogenase 4 (class II)%2C pi polypeptide [Source:HGNC Symbol%3BAcc:HGNC:252];gene_id=ENSCHOG00000008959;logic_name=ensembl_projection;version=1
+GeneScaffold_7623: ID=ID=gene:ENSCHOG00000012150;Name=MIER1;biotype=protein_coding;description=MIER1 transcriptional regulator [Source:HGNC Symbol%3BAcc:HGNC:29657];gene_id=ENSCHOG00000012150;logic_name=ensembl_projection;version=1
+GeneScaffold_7623: ID=ID=gene:ENSCHOG00000012181;Name=SLC35D1;biotype=protein_coding;description=solute carrier family 35 member D1 [Source:HGNC Symbol%3BAcc:HGNC:20800];gene_id=ENSCHOG00000012181;logic_name=ensembl_projection;version=1
+GeneScaffold_7624: ID=ID=gene:ENSCHOG00000000232;biotype=protein_coding;gene_id=ENSCHOG00000000232;logic_name=ensembl_projection;version=1
+GeneScaffold_7625: ID=ID=gene:ENSCHOG00000013152;Name=SVIP;biotype=protein_coding;description=small VCP interacting protein [Source:HGNC Symbol%3BAcc:HGNC:25238];gene_id=ENSCHOG00000013152;logic_name=ensembl_projection;version=1
+GeneScaffold_7626: ID=ID=gene:ENSCHOG00000004467;Name=TFDP1;biotype=protein_coding;description=transcription factor Dp-1 [Source:HGNC Symbol%3BAcc:HGNC:11749];gene_id=ENSCHOG00000004467;logic_name=ensembl_projection;version=1
+GeneScaffold_7627: ID=ID=gene:ENSCHOG00000003212;biotype=protein_coding;gene_id=ENSCHOG00000003212;logic_name=ensembl_projection;version=1
+GeneScaffold_7628: ID=ID=gene:ENSCHOG00000001817;biotype=protein_coding;gene_id=ENSCHOG00000001817;logic_name=ensembl_projection;version=1
+GeneScaffold_7629: ID=ID=gene:ENSCHOG00000011798;Name=HSD17B11;biotype=protein_coding;description=hydroxysteroid 17-beta dehydrogenase 11 [Source:HGNC Symbol%3BAcc:HGNC:22960];gene_id=ENSCHOG00000011798;logic_name=ensembl_projection;version=1
+GeneScaffold_763: ID=ID=gene:ENSCHOG00000007335;Name=BAZ2A;biotype=protein_coding;description=bromodomain adjacent to zinc finger domain 2A [Source:HGNC Symbol%3BAcc:HGNC:962];gene_id=ENSCHOG00000007335;logic_name=ensembl_projection;version=1
+GeneScaffold_7630: ID=ID=gene:ENSCHOG00000011674;Name=SULT1C2;biotype=protein_coding;description=sulfotransferase family 1C member 2 [Source:HGNC Symbol%3BAcc:HGNC:11456];gene_id=ENSCHOG00000011674;logic_name=ensembl_projection;version=1
+GeneScaffold_7631: ID=ID=gene:ENSCHOG00000001754;Name=CACNA1E;biotype=protein_coding;description=calcium voltage-gated channel subunit alpha1 E [Source:HGNC Symbol%3BAcc:HGNC:1392];gene_id=ENSCHOG00000001754;logic_name=ensembl_projection;version=1
+GeneScaffold_7632: ID=ID=gene:ENSCHOG00000005231;Name=QRICH1;biotype=protein_coding;description=glutamine rich 1 [Source:HGNC Symbol%3BAcc:HGNC:24713];gene_id=ENSCHOG00000005231;logic_name=ensembl_projection;version=1
+GeneScaffold_7633: ID=ID=gene:ENSCHOG00000006241;Name=DDX42;biotype=protein_coding;description=DEAD-box helicase 42 [Source:HGNC Symbol%3BAcc:HGNC:18676];gene_id=ENSCHOG00000006241;logic_name=ensembl_projection;version=1
+GeneScaffold_7634: ID=ID=gene:ENSCHOG00000008775;biotype=protein_coding;gene_id=ENSCHOG00000008775;logic_name=ensembl_projection;version=1
+GeneScaffold_7635: ID=ID=gene:ENSCHOG00000002547;Name=STYX;biotype=protein_coding;description=serine/threonine/tyrosine interacting protein [Source:HGNC Symbol%3BAcc:HGNC:11447];gene_id=ENSCHOG00000002547;logic_name=ensembl_projection;version=1
+GeneScaffold_7636: ID=ID=gene:ENSCHOG00000003640;Name=HELZ;biotype=protein_coding;description=helicase with zinc finger [Source:HGNC Symbol%3BAcc:HGNC:16878];gene_id=ENSCHOG00000003640;logic_name=ensembl_projection;version=1
+GeneScaffold_7637: ID=ID=gene:ENSCHOG00000004244;Name=ZNF485;biotype=protein_coding;description=zinc finger protein 485 [Source:HGNC Symbol%3BAcc:HGNC:23440];gene_id=ENSCHOG00000004244;logic_name=ensembl_projection;version=1
+GeneScaffold_7638: ID=ID=gene:ENSCHOG00000002977;biotype=protein_coding;gene_id=ENSCHOG00000002977;logic_name=ensembl_projection;version=1
+GeneScaffold_7639: ID=ID=gene:ENSCHOG00000003188;Name=ASPH;biotype=protein_coding;description=aspartate beta-hydroxylase [Source:HGNC Symbol%3BAcc:HGNC:757];gene_id=ENSCHOG00000003188;logic_name=ensembl_projection;version=1
+GeneScaffold_764: ID=ID=gene:ENSCHOG00000001544;biotype=protein_coding;gene_id=ENSCHOG00000001544;logic_name=ensembl_projection;version=1
+GeneScaffold_7640: ID=ID=gene:ENSCHOG00000002686;Name=SPRED2;biotype=protein_coding;description=sprouty related EVH1 domain containing 2 [Source:HGNC Symbol%3BAcc:HGNC:17722];gene_id=ENSCHOG00000002686;logic_name=ensembl_projection;version=1
+GeneScaffold_7641: ID=ID=gene:ENSCHOG00000007946;Name=WWP2;biotype=protein_coding;description=WW domain containing E3 ubiquitin protein ligase 2 [Source:HGNC Symbol%3BAcc:HGNC:16804];gene_id=ENSCHOG00000007946;logic_name=ensembl_projection;version=1
+GeneScaffold_7642: ID=ID=gene:ENSCHOG00000011419;Name=GFPT1;biotype=protein_coding;description=glutamine--fructose-6-phosphate transaminase 1 [Source:HGNC Symbol%3BAcc:HGNC:4241];gene_id=ENSCHOG00000011419;logic_name=ensembl_projection;version=1
+GeneScaffold_7643: ID=ID=gene:ENSCHOG00000000484;Name=UVRAG;biotype=protein_coding;description=UV radiation resistance associated [Source:HGNC Symbol%3BAcc:HGNC:12640];gene_id=ENSCHOG00000000484;logic_name=ensembl_projection;version=1
+GeneScaffold_7645: ID=ID=gene:ENSCHOG00000002363;biotype=protein_coding;gene_id=ENSCHOG00000002363;logic_name=ensembl_projection;version=1
+GeneScaffold_7646: ID=ID=gene:ENSCHOG00000010028;biotype=protein_coding;gene_id=ENSCHOG00000010028;logic_name=ensembl_projection;version=1
+GeneScaffold_7647: ID=ID=gene:ENSCHOG00000012945;Name=OGA;biotype=protein_coding;description=O-GlcNAcase [Source:HGNC Symbol%3BAcc:HGNC:7056];gene_id=ENSCHOG00000012945;logic_name=ensembl_projection;version=1
+GeneScaffold_7648: ID=ID=gene:ENSCHOG00000010574;biotype=protein_coding;gene_id=ENSCHOG00000010574;logic_name=ensembl_projection;version=1
+GeneScaffold_7649: ID=ID=gene:ENSCHOG00000000297;Name=TXNRD1;biotype=protein_coding;description=thioredoxin reductase 1 [Source:HGNC Symbol%3BAcc:HGNC:12437];gene_id=ENSCHOG00000000297;logic_name=ensembl_projection;version=1
+GeneScaffold_765: ID=ID=gene:ENSCHOG00000002642;Name=MLH1;biotype=protein_coding;description=mutL homolog 1 [Source:HGNC Symbol%3BAcc:HGNC:7127];gene_id=ENSCHOG00000002642;logic_name=ensembl_projection;version=1
+GeneScaffold_765: ID=ID=gene:ENSCHOG00000002646;Name=LRRFIP2;biotype=protein_coding;description=LRR binding FLII interacting protein 2 [Source:HGNC Symbol%3BAcc:HGNC:6703];gene_id=ENSCHOG00000002646;logic_name=ensembl_projection;version=1
+GeneScaffold_7650: ID=ID=gene:ENSCHOG00000013910;Name=RTP2;biotype=protein_coding;description=receptor transporter protein 2 [Source:HGNC Symbol%3BAcc:HGNC:32486];gene_id=ENSCHOG00000013910;logic_name=ensembl_projection;version=1
+GeneScaffold_7651: ID=ID=gene:ENSCHOG00000003858;Name=SH3BGRL2;biotype=protein_coding;description=SH3 domain binding glutamate rich protein like 2 [Source:HGNC Symbol%3BAcc:HGNC:15567];gene_id=ENSCHOG00000003858;logic_name=ensembl_projection;version=1
+GeneScaffold_7652: ID=ID=gene:ENSCHOG00000004715;Name=ANKRD35;biotype=protein_coding;description=ankyrin repeat domain 35 [Source:HGNC Symbol%3BAcc:HGNC:26323];gene_id=ENSCHOG00000004715;logic_name=ensembl_projection;version=1
+GeneScaffold_7653: ID=ID=gene:ENSCHOG00000006702;Name=TMA16;biotype=protein_coding;description=translation machinery associated 16 homolog [Source:HGNC Symbol%3BAcc:HGNC:25638];gene_id=ENSCHOG00000006702;logic_name=ensembl_projection;version=1
+GeneScaffold_7654: ID=ID=gene:ENSCHOG00000003523;Name=ATL1;biotype=protein_coding;description=atlastin GTPase 1 [Source:HGNC Symbol%3BAcc:HGNC:11231];gene_id=ENSCHOG00000003523;logic_name=ensembl_projection;version=1
+GeneScaffold_7654: ID=ID=gene:ENSCHOG00000003534;Name=SAV1;biotype=protein_coding;description=salvador family WW domain containing protein 1 [Source:HGNC Symbol%3BAcc:HGNC:17795];gene_id=ENSCHOG00000003534;logic_name=ensembl_projection;version=1
+GeneScaffold_7655: ID=ID=gene:ENSCHOG00000010158;Name=CNGA1;biotype=protein_coding;description=cyclic nucleotide gated channel subunit alpha 1 [Source:HGNC Symbol%3BAcc:HGNC:2148];gene_id=ENSCHOG00000010158;logic_name=ensembl_projection;version=1
+GeneScaffold_7656: ID=ID=gene:ENSCHOG00000013212;Name=ITGBL1;biotype=protein_coding;description=integrin subunit beta like 1 [Source:HGNC Symbol%3BAcc:HGNC:6164];gene_id=ENSCHOG00000013212;logic_name=ensembl_projection;version=1
+GeneScaffold_7657: ID=ID=gene:ENSCHOG00000008850;biotype=protein_coding;gene_id=ENSCHOG00000008850;logic_name=ensembl_projection;version=1
+GeneScaffold_7658: ID=ID=gene:ENSCHOG00000005979;biotype=protein_coding;gene_id=ENSCHOG00000005979;logic_name=ensembl_projection;version=1
+GeneScaffold_7659: ID=ID=gene:ENSCHOG00000001286;Name=CTNND1;biotype=protein_coding;description=catenin delta 1 [Source:HGNC Symbol%3BAcc:HGNC:2515];gene_id=ENSCHOG00000001286;logic_name=ensembl_projection;version=1
+GeneScaffold_766: ID=ID=gene:ENSCHOG00000005559;Name=FMO4;biotype=protein_coding;description=flavin containing dimethylaniline monoxygenase 4 [Source:HGNC Symbol%3BAcc:HGNC:3772];gene_id=ENSCHOG00000005559;logic_name=ensembl_projection;version=1
+GeneScaffold_7660: ID=ID=gene:ENSCHOG00000012135;Name=SH2D1B;biotype=protein_coding;description=SH2 domain containing 1B [Source:HGNC Symbol%3BAcc:HGNC:30416];gene_id=ENSCHOG00000012135;logic_name=ensembl_projection;version=1
+GeneScaffold_7661: ID=ID=gene:ENSCHOG00000010572;Name=TLK1;biotype=protein_coding;description=tousled like kinase 1 [Source:HGNC Symbol%3BAcc:HGNC:11841];gene_id=ENSCHOG00000010572;logic_name=ensembl_projection;version=1
+GeneScaffold_7662: ID=ID=gene:ENSCHOG00000004141;Name=LRBA;biotype=protein_coding;description=LPS responsive beige-like anchor protein [Source:HGNC Symbol%3BAcc:HGNC:1742];gene_id=ENSCHOG00000004141;logic_name=ensembl_projection;version=1
+GeneScaffold_7663: ID=ID=gene:ENSCHOG00000011951;Name=ZNF536;biotype=protein_coding;description=zinc finger protein 536 [Source:HGNC Symbol%3BAcc:HGNC:29025];gene_id=ENSCHOG00000011951;logic_name=ensembl_projection;version=1
+GeneScaffold_7664: ID=ID=gene:ENSCHOG00000009741;Name=BAZ1A;biotype=protein_coding;description=bromodomain adjacent to zinc finger domain 1A [Source:HGNC Symbol%3BAcc:HGNC:960];gene_id=ENSCHOG00000009741;logic_name=ensembl_projection;version=1
+GeneScaffold_7665: ID=ID=gene:ENSCHOG00000009548;biotype=protein_coding;gene_id=ENSCHOG00000009548;logic_name=ensembl_projection;version=1
+GeneScaffold_7666: ID=ID=gene:ENSCHOG00000008844;Name=COPS8;biotype=protein_coding;description=COP9 signalosome subunit 8 [Source:HGNC Symbol%3BAcc:HGNC:24335];gene_id=ENSCHOG00000008844;logic_name=ensembl_projection;version=1
+GeneScaffold_7667: ID=ID=gene:ENSCHOG00000013273;Name=CCDC69;biotype=protein_coding;description=coiled-coil domain containing 69 [Source:HGNC Symbol%3BAcc:HGNC:24487];gene_id=ENSCHOG00000013273;logic_name=ensembl_projection;version=1
+GeneScaffold_7668: ID=ID=gene:ENSCHOG00000008147;biotype=protein_coding;description=MDM4 regulator of p53 [Source:HGNC Symbol%3BAcc:HGNC:6974];gene_id=ENSCHOG00000008147;logic_name=ensembl_projection;version=1
+GeneScaffold_7669: ID=ID=gene:ENSCHOG00000005402;Name=RYR2;biotype=protein_coding;description=ryanodine receptor 2 [Source:HGNC Symbol%3BAcc:HGNC:10484];gene_id=ENSCHOG00000005402;logic_name=ensembl_projection;version=1
+GeneScaffold_767: ID=ID=gene:ENSCHOG00000013478;Name=KLHL20;biotype=protein_coding;description=kelch like family member 20 [Source:HGNC Symbol%3BAcc:HGNC:25056];gene_id=ENSCHOG00000013478;logic_name=ensembl_projection;version=1
+GeneScaffold_7670: ID=ID=gene:ENSCHOG00000008341;Name=SYS1;biotype=protein_coding;description=SYS1 golgi trafficking protein [Source:HGNC Symbol%3BAcc:HGNC:16162];gene_id=ENSCHOG00000008341;logic_name=ensembl_projection;version=1
+GeneScaffold_7670: ID=ID=gene:ENSCHOG00000008344;biotype=protein_coding;gene_id=ENSCHOG00000008344;logic_name=ensembl_projection;version=1
+GeneScaffold_7671: ID=ID=gene:ENSCHOG00000001524;Name=FAM3D;biotype=protein_coding;description=family with sequence similarity 3 member D [Source:HGNC Symbol%3BAcc:HGNC:18665];gene_id=ENSCHOG00000001524;logic_name=ensembl_projection;version=1
+GeneScaffold_7672: ID=ID=gene:ENSCHOG00000011554;Name=NCOA6;biotype=protein_coding;description=nuclear receptor coactivator 6 [Source:HGNC Symbol%3BAcc:HGNC:15936];gene_id=ENSCHOG00000011554;logic_name=ensembl_projection;version=1
+GeneScaffold_7673: ID=ID=gene:ENSCHOG00000001122;Name=STK39;biotype=protein_coding;description=serine/threonine kinase 39 [Source:HGNC Symbol%3BAcc:HGNC:17717];gene_id=ENSCHOG00000001122;logic_name=ensembl_projection;version=1
+GeneScaffold_7674: ID=ID=gene:ENSCHOG00000001935;Name=TAT;biotype=protein_coding;description=tyrosine aminotransferase [Source:HGNC Symbol%3BAcc:HGNC:11573];gene_id=ENSCHOG00000001935;logic_name=ensembl_projection;version=1
+GeneScaffold_7675: ID=ID=gene:ENSCHOG00000007876;biotype=protein_coding;gene_id=ENSCHOG00000007876;logic_name=ensembl_projection;version=1
+GeneScaffold_7676: ID=ID=gene:ENSCHOG00000000887;biotype=protein_coding;gene_id=ENSCHOG00000000887;logic_name=ensembl_projection;version=1
+GeneScaffold_7677: ID=ID=gene:ENSCHOG00000008264;Name=SKIC3;biotype=protein_coding;description=tetratricopeptide repeat domain 37 [Source:HGNC Symbol%3BAcc:HGNC:23639];gene_id=ENSCHOG00000008264;logic_name=ensembl_projection;version=1
+GeneScaffold_7678: ID=ID=gene:ENSCHOG00000005082;Name=OR5BS1P;biotype=protein_coding;description=olfactory receptor family 5 subfamily BS member 1 pseudogene [Source:HGNC Symbol%3BAcc:HGNC:19627];gene_id=ENSCHOG00000005082;logic_name=ensembl_projection;version=1
+GeneScaffold_7679: ID=ID=gene:ENSCHOG00000002724;Name=PAPSS2;biotype=protein_coding;description=3'-phosphoadenosine 5'-phosphosulfate synthase 2 [Source:HGNC Symbol%3BAcc:HGNC:8604];gene_id=ENSCHOG00000002724;logic_name=ensembl_projection;version=1
+GeneScaffold_768: ID=ID=gene:ENSCHOG00000013565;Name=SLC46A1;biotype=protein_coding;description=solute carrier family 46 member 1 [Source:HGNC Symbol%3BAcc:HGNC:30521];gene_id=ENSCHOG00000013565;logic_name=ensembl_projection;version=1
+GeneScaffold_7680: ID=ID=gene:ENSCHOG00000012326;biotype=protein_coding;gene_id=ENSCHOG00000012326;logic_name=ensembl_projection;version=1
+GeneScaffold_7680: ID=ID=gene:ENSCHOG00000012336;biotype=protein_coding;gene_id=ENSCHOG00000012336;logic_name=ensembl_projection;version=1
+GeneScaffold_7681: ID=ID=gene:ENSCHOG00000000199;Name=ABCA4;biotype=protein_coding;description=ATP binding cassette subfamily A member 4 [Source:HGNC Symbol%3BAcc:HGNC:34];gene_id=ENSCHOG00000000199;logic_name=ensembl_projection;version=1
+GeneScaffold_7682: ID=ID=gene:ENSCHOG00000011813;Name=TMEM79;biotype=protein_coding;description=transmembrane protein 79 [Source:HGNC Symbol%3BAcc:HGNC:28196];gene_id=ENSCHOG00000011813;logic_name=ensembl_projection;version=1
+GeneScaffold_7682: ID=ID=gene:ENSCHOG00000011820;Name=GLMP;biotype=protein_coding;description=glycosylated lysosomal membrane protein [Source:HGNC Symbol%3BAcc:HGNC:29436];gene_id=ENSCHOG00000011820;logic_name=ensembl_projection;version=1
+GeneScaffold_7682: ID=ID=gene:ENSCHOG00000011830;Name=CCT3;biotype=protein_coding;description=chaperonin containing TCP1 subunit 3 [Source:HGNC Symbol%3BAcc:HGNC:1616];gene_id=ENSCHOG00000011830;logic_name=ensembl_projection;version=1
+GeneScaffold_7682: ID=ID=gene:ENSCHOG00000011840;Name=TSACC;biotype=protein_coding;description=TSSK6 activating cochaperone [Source:HGNC Symbol%3BAcc:HGNC:30636];gene_id=ENSCHOG00000011840;logic_name=ensembl_projection;version=1
+GeneScaffold_7683: ID=ID=gene:ENSCHOG00000012169;biotype=protein_coding;gene_id=ENSCHOG00000012169;logic_name=ensembl_projection;version=1
+GeneScaffold_7684: ID=ID=gene:ENSCHOG00000012915;Name=DLL1;biotype=protein_coding;description=delta like canonical Notch ligand 1 [Source:HGNC Symbol%3BAcc:HGNC:2908];gene_id=ENSCHOG00000012915;logic_name=ensembl_projection;version=1
+GeneScaffold_7685: ID=ID=gene:ENSCHOG00000013472;biotype=protein_coding;description=unc-13 homolog B [Source:HGNC Symbol%3BAcc:HGNC:12566];gene_id=ENSCHOG00000013472;logic_name=ensembl_projection;version=1
+GeneScaffold_7686: ID=ID=gene:ENSCHOG00000009395;Name=LDB1;biotype=protein_coding;description=LIM domain binding 1 [Source:HGNC Symbol%3BAcc:HGNC:6532];gene_id=ENSCHOG00000009395;logic_name=ensembl_projection;version=1
+GeneScaffold_7687: ID=ID=gene:ENSCHOG00000002568;Name=CTR9;biotype=protein_coding;description=CTR9 homolog%2C Paf1/RNA polymerase II complex component [Source:HGNC Symbol%3BAcc:HGNC:16850];gene_id=ENSCHOG00000002568;logic_name=ensembl_projection;version=1
+GeneScaffold_7688: ID=ID=gene:ENSCHOG00000011173;Name=SMOC1;biotype=protein_coding;description=SPARC related modular calcium binding 1 [Source:HGNC Symbol%3BAcc:HGNC:20318];gene_id=ENSCHOG00000011173;logic_name=ensembl_projection;version=1
+GeneScaffold_7689: ID=ID=gene:ENSCHOG00000010038;Name=F5;biotype=protein_coding;description=coagulation factor V [Source:HGNC Symbol%3BAcc:HGNC:3542];gene_id=ENSCHOG00000010038;logic_name=ensembl_projection;version=1
+GeneScaffold_7689: ID=ID=gene:ENSCHOG00000010064;Name=SELP;biotype=protein_coding;description=selectin P [Source:HGNC Symbol%3BAcc:HGNC:10721];gene_id=ENSCHOG00000010064;logic_name=ensembl_projection;version=1
+GeneScaffold_769: ID=ID=gene:ENSCHOG00000001824;biotype=protein_coding;gene_id=ENSCHOG00000001824;logic_name=ensembl_projection;version=1
+GeneScaffold_7690: ID=ID=gene:ENSCHOG00000001772;Name=LRRTM3;biotype=protein_coding;description=leucine rich repeat transmembrane neuronal 3 [Source:HGNC Symbol%3BAcc:HGNC:19410];gene_id=ENSCHOG00000001772;logic_name=ensembl_projection;version=1
+GeneScaffold_7691: ID=ID=gene:ENSCHOG00000011783;Name=SMURF1;biotype=protein_coding;description=SMAD specific E3 ubiquitin protein ligase 1 [Source:HGNC Symbol%3BAcc:HGNC:16807];gene_id=ENSCHOG00000011783;logic_name=ensembl_projection;version=1
+GeneScaffold_7692: ID=ID=gene:ENSCHOG00000004641;Name=SYCP1;biotype=protein_coding;description=synaptonemal complex protein 1 [Source:HGNC Symbol%3BAcc:HGNC:11487];gene_id=ENSCHOG00000004641;logic_name=ensembl_projection;version=1
+GeneScaffold_7693: ID=ID=gene:ENSCHOG00000005742;Name=RCSD1;biotype=protein_coding;description=RCSD domain containing 1 [Source:HGNC Symbol%3BAcc:HGNC:28310];gene_id=ENSCHOG00000005742;logic_name=ensembl_projection;version=1
+GeneScaffold_7694: ID=ID=gene:ENSCHOG00000008091;Name=FAM169A;biotype=protein_coding;description=family with sequence similarity 169 member A [Source:HGNC Symbol%3BAcc:HGNC:29138];gene_id=ENSCHOG00000008091;logic_name=ensembl_projection;version=1
+GeneScaffold_7695: ID=ID=gene:ENSCHOG00000000677;Name=CNOT7;biotype=protein_coding;description=CCR4-NOT transcription complex subunit 7 [Source:HGNC Symbol%3BAcc:HGNC:14101];gene_id=ENSCHOG00000000677;logic_name=ensembl_projection;version=1
+GeneScaffold_7695: ID=ID=gene:ENSCHOG00000000682;Name=VPS37A;biotype=protein_coding;description=VPS37A subunit of ESCRT-I [Source:HGNC Symbol%3BAcc:HGNC:24928];gene_id=ENSCHOG00000000682;logic_name=ensembl_projection;version=1
+GeneScaffold_7695: ID=ID=gene:ENSCHOG00000000686;Name=MTMR7;biotype=protein_coding;description=myotubularin related protein 7 [Source:HGNC Symbol%3BAcc:HGNC:7454];gene_id=ENSCHOG00000000686;logic_name=ensembl_projection;version=1
+GeneScaffold_7696: ID=ID=gene:ENSCHOG00000001691;Name=TMEM184B;biotype=protein_coding;description=transmembrane protein 184B [Source:HGNC Symbol%3BAcc:HGNC:1310];gene_id=ENSCHOG00000001691;logic_name=ensembl_projection;version=1
+GeneScaffold_7697: ID=ID=gene:ENSCHOG00000007395;Name=ZNF521;biotype=protein_coding;description=zinc finger protein 521 [Source:HGNC Symbol%3BAcc:HGNC:24605];gene_id=ENSCHOG00000007395;logic_name=ensembl_projection;version=1
+GeneScaffold_7698: ID=ID=gene:ENSCHOG00000005596;Name=ALPK2;biotype=protein_coding;description=alpha kinase 2 [Source:HGNC Symbol%3BAcc:HGNC:20565];gene_id=ENSCHOG00000005596;logic_name=ensembl_projection;version=1
+GeneScaffold_7699: ID=ID=gene:ENSCHOG00000009017;Name=BRINP2;biotype=protein_coding;description=BMP/retinoic acid inducible neural specific 2 [Source:HGNC Symbol%3BAcc:HGNC:13746];gene_id=ENSCHOG00000009017;logic_name=ensembl_projection;version=1
+GeneScaffold_77: ID=ID=gene:ENSCHOG00000000405;Name=DBF4;biotype=protein_coding;description=DBF4 zinc finger [Source:HGNC Symbol%3BAcc:HGNC:17364];gene_id=ENSCHOG00000000405;logic_name=ensembl_projection;version=1
+GeneScaffold_770: ID=ID=gene:ENSCHOG00000011364;Name=SPAG5;biotype=protein_coding;description=sperm associated antigen 5 [Source:HGNC Symbol%3BAcc:HGNC:13452];gene_id=ENSCHOG00000011364;logic_name=ensembl_projection;version=1
+GeneScaffold_7700: ID=ID=gene:ENSCHOG00000013033;Name=LRIG2;biotype=protein_coding;description=leucine rich repeats and immunoglobulin like domains 2 [Source:HGNC Symbol%3BAcc:HGNC:20889];gene_id=ENSCHOG00000013033;logic_name=ensembl_projection;version=1
+GeneScaffold_7701: ID=ID=gene:ENSCHOG00000005830;biotype=protein_coding;gene_id=ENSCHOG00000005830;logic_name=ensembl_projection;version=1
+GeneScaffold_7702: ID=ID=gene:ENSCHOG00000003931;Name=FOXJ3;biotype=protein_coding;description=forkhead box J3 [Source:HGNC Symbol%3BAcc:HGNC:29178];gene_id=ENSCHOG00000003931;logic_name=ensembl_projection;version=1
+GeneScaffold_7703: ID=ID=gene:ENSCHOG00000011453;Name=SFT2D1;biotype=protein_coding;description=SFT2 domain containing 1 [Source:HGNC Symbol%3BAcc:HGNC:21102];gene_id=ENSCHOG00000011453;logic_name=ensembl_projection;version=1
+GeneScaffold_7704: ID=ID=gene:ENSCHOG00000003025;Name=GRM3;biotype=protein_coding;description=glutamate metabotropic receptor 3 [Source:HGNC Symbol%3BAcc:HGNC:4595];gene_id=ENSCHOG00000003025;logic_name=ensembl_projection;version=1
+GeneScaffold_7705: ID=ID=gene:ENSCHOG00000006465;Name=INPP5F;biotype=protein_coding;description=inositol polyphosphate-5-phosphatase F [Source:HGNC Symbol%3BAcc:HGNC:17054];gene_id=ENSCHOG00000006465;logic_name=ensembl_projection;version=1
+GeneScaffold_7705: ID=ID=gene:ENSCHOG00000006508;Name=MCMBP;biotype=protein_coding;description=minichromosome maintenance complex binding protein [Source:HGNC Symbol%3BAcc:HGNC:25782];gene_id=ENSCHOG00000006508;logic_name=ensembl_projection;version=1
+GeneScaffold_7706: ID=ID=gene:ENSCHOG00000005172;biotype=protein_coding;gene_id=ENSCHOG00000005172;logic_name=ensembl_projection;version=1
+GeneScaffold_7706: ID=ID=gene:ENSCHOG00000005187;Name=SCG5;biotype=protein_coding;description=secretogranin V [Source:HGNC Symbol%3BAcc:HGNC:10816];gene_id=ENSCHOG00000005187;logic_name=ensembl_projection;version=1
+GeneScaffold_7707: ID=ID=gene:ENSCHOG00000001939;biotype=protein_coding;gene_id=ENSCHOG00000001939;logic_name=ensembl_projection;version=1
+GeneScaffold_7708: ID=ID=gene:ENSCHOG00000010154;biotype=protein_coding;gene_id=ENSCHOG00000010154;logic_name=ensembl_projection;version=1
+GeneScaffold_7709: ID=ID=gene:ENSCHOG00000001326;Name=RYR3;biotype=protein_coding;description=ryanodine receptor 3 [Source:HGNC Symbol%3BAcc:HGNC:10485];gene_id=ENSCHOG00000001326;logic_name=ensembl_projection;version=1
+GeneScaffold_7709: ID=ID=gene:ENSCHOG00000001354;Name=AVEN;biotype=protein_coding;description=apoptosis and caspase activation inhibitor [Source:HGNC Symbol%3BAcc:HGNC:13509];gene_id=ENSCHOG00000001354;logic_name=ensembl_projection;version=1
+GeneScaffold_771: ID=ID=gene:ENSCHOG00000001357;Name=TPD52;biotype=protein_coding;description=tumor protein D52 [Source:HGNC Symbol%3BAcc:HGNC:12005];gene_id=ENSCHOG00000001357;logic_name=ensembl_projection;version=1
+GeneScaffold_7710: ID=ID=gene:ENSCHOG00000002208;biotype=protein_coding;gene_id=ENSCHOG00000002208;logic_name=ensembl_projection;version=1
+GeneScaffold_7711: ID=ID=gene:ENSCHOG00000001394;Name=SELENOT;biotype=protein_coding;description=selenoprotein T [Source:HGNC Symbol%3BAcc:HGNC:18136];gene_id=ENSCHOG00000001394;logic_name=ensembl_projection;version=1
+GeneScaffold_7712: ID=ID=gene:ENSCHOG00000006260;Name=TOX;biotype=protein_coding;description=thymocyte selection associated high mobility group box [Source:HGNC Symbol%3BAcc:HGNC:18988];gene_id=ENSCHOG00000006260;logic_name=ensembl_projection;version=1
+GeneScaffold_7713: ID=ID=gene:ENSCHOG00000006801;biotype=protein_coding;gene_id=ENSCHOG00000006801;logic_name=ensembl_projection;version=1
+GeneScaffold_7713: ID=ID=gene:ENSCHOG00000006812;Name=CIMIP2B;biotype=protein_coding;description=family with sequence similarity 166 member B [Source:HGNC Symbol%3BAcc:HGNC:34242];gene_id=ENSCHOG00000006812;logic_name=ensembl_projection;version=1
+GeneScaffold_7714: ID=ID=gene:ENSCHOG00000007471;biotype=protein_coding;gene_id=ENSCHOG00000007471;logic_name=ensembl_projection;version=1
+GeneScaffold_7715: ID=ID=gene:ENSCHOG00000011979;biotype=protein_coding;gene_id=ENSCHOG00000011979;logic_name=ensembl_projection;version=1
+GeneScaffold_7716: ID=ID=gene:ENSCHOG00000012846;Name=LTN1;biotype=protein_coding;description=listerin E3 ubiquitin protein ligase 1 [Source:HGNC Symbol%3BAcc:HGNC:13082];gene_id=ENSCHOG00000012846;logic_name=ensembl_projection;version=1
+GeneScaffold_7717: ID=ID=gene:ENSCHOG00000007105;Name=CCDC152;biotype=protein_coding;description=coiled-coil domain containing 152 [Source:HGNC Symbol%3BAcc:HGNC:34438];gene_id=ENSCHOG00000007105;logic_name=ensembl_projection;version=1
+GeneScaffold_7717: ID=ID=gene:ENSCHOG00000007119;Name=SELENOP;biotype=protein_coding;description=selenoprotein P [Source:HGNC Symbol%3BAcc:HGNC:10751];gene_id=ENSCHOG00000007119;logic_name=ensembl_projection;version=1
+GeneScaffold_7718: ID=ID=gene:ENSCHOG00000014031;biotype=protein_coding;gene_id=ENSCHOG00000014031;logic_name=ensembl_projection;version=1
+GeneScaffold_7719: ID=ID=gene:ENSCHOG00000006852;Name=DCAF12;biotype=protein_coding;description=DDB1 and CUL4 associated factor 12 [Source:HGNC Symbol%3BAcc:HGNC:19911];gene_id=ENSCHOG00000006852;logic_name=ensembl_projection;version=1
+GeneScaffold_772: ID=ID=gene:ENSCHOG00000009034;biotype=protein_coding;gene_id=ENSCHOG00000009034;logic_name=ensembl_projection;version=1
+GeneScaffold_7720: ID=ID=gene:ENSCHOG00000001172;Name=SFMBT2;biotype=protein_coding;description=Scm like with four mbt domains 2 [Source:HGNC Symbol%3BAcc:HGNC:20256];gene_id=ENSCHOG00000001172;logic_name=ensembl_projection;version=1
+GeneScaffold_7721: ID=ID=gene:ENSCHOG00000007866;biotype=protein_coding;gene_id=ENSCHOG00000007866;logic_name=ensembl_projection;version=1
+GeneScaffold_7722: ID=ID=gene:ENSCHOG00000004925;Name=CAPZA2;biotype=protein_coding;description=capping actin protein of muscle Z-line subunit alpha 2 [Source:HGNC Symbol%3BAcc:HGNC:1490];gene_id=ENSCHOG00000004925;logic_name=ensembl_projection;version=1
+GeneScaffold_7723: ID=ID=gene:ENSCHOG00000000871;Name=TOP1;biotype=protein_coding;description=DNA topoisomerase I [Source:HGNC Symbol%3BAcc:HGNC:11986];gene_id=ENSCHOG00000000871;logic_name=ensembl_projection;version=1
+GeneScaffold_7724: ID=ID=gene:ENSCHOG00000013708;biotype=protein_coding;gene_id=ENSCHOG00000013708;logic_name=ensembl_projection;version=1
+GeneScaffold_7725: ID=ID=gene:ENSCHOG00000001317;Name=MAP3K3;biotype=protein_coding;description=mitogen-activated protein kinase kinase kinase 3 [Source:HGNC Symbol%3BAcc:HGNC:6855];gene_id=ENSCHOG00000001317;logic_name=ensembl_projection;version=1
+GeneScaffold_7726: ID=ID=gene:ENSCHOG00000000891;Name=DZIP3;biotype=protein_coding;description=DAZ interacting zinc finger protein 3 [Source:HGNC Symbol%3BAcc:HGNC:30938];gene_id=ENSCHOG00000000891;logic_name=ensembl_projection;version=1
+GeneScaffold_7727: ID=ID=gene:ENSCHOG00000002584;biotype=protein_coding;gene_id=ENSCHOG00000002584;logic_name=ensembl_projection;version=1
+GeneScaffold_7728: ID=ID=gene:ENSCHOG00000012547;biotype=protein_coding;gene_id=ENSCHOG00000012547;logic_name=ensembl_projection;version=1
+GeneScaffold_7728: ID=ID=gene:ENSCHOG00000012608;Name=NHLRC2;biotype=protein_coding;description=NHL repeat containing 2 [Source:HGNC Symbol%3BAcc:HGNC:24731];gene_id=ENSCHOG00000012608;logic_name=ensembl_projection;version=1
+GeneScaffold_7729: ID=ID=gene:ENSCHOG00000012827;Name=NOS1AP;biotype=protein_coding;description=nitric oxide synthase 1 adaptor protein [Source:HGNC Symbol%3BAcc:HGNC:16859];gene_id=ENSCHOG00000012827;logic_name=ensembl_projection;version=1
+GeneScaffold_773: ID=ID=gene:ENSCHOG00000010393;Name=PAG1;biotype=protein_coding;description=phosphoprotein membrane anchor with glycosphingolipid microdomains 1 [Source:HGNC Symbol%3BAcc:HGNC:30043];gene_id=ENSCHOG00000010393;logic_name=ensembl_projection;version=1
+GeneScaffold_7730: ID=ID=gene:ENSCHOG00000011296;Name=L3MBTL3;biotype=protein_coding;description=L3MBTL histone methyl-lysine binding protein 3 [Source:HGNC Symbol%3BAcc:HGNC:23035];gene_id=ENSCHOG00000011296;logic_name=ensembl_projection;version=1
+GeneScaffold_7730: ID=ID=gene:ENSCHOG00000011337;Name=SAMD3;biotype=protein_coding;description=sterile alpha motif domain containing 3 [Source:HGNC Symbol%3BAcc:HGNC:21574];gene_id=ENSCHOG00000011337;logic_name=ensembl_projection;version=1
+GeneScaffold_7731: ID=ID=gene:ENSCHOG00000008741;biotype=protein_coding;gene_id=ENSCHOG00000008741;logic_name=ensembl_projection;version=1
+GeneScaffold_7732: ID=ID=gene:ENSCHOG00000003918;Name=KIFBP;biotype=protein_coding;description=kinesin family binding protein [Source:HGNC Symbol%3BAcc:HGNC:23419];gene_id=ENSCHOG00000003918;logic_name=ensembl_projection;version=1
+GeneScaffold_7733: ID=ID=gene:ENSCHOG00000011349;biotype=protein_coding;gene_id=ENSCHOG00000011349;logic_name=ensembl_projection;version=1
+GeneScaffold_7734: ID=ID=gene:ENSCHOG00000008474;Name=PJA2;biotype=protein_coding;description=praja ring finger ubiquitin ligase 2 [Source:HGNC Symbol%3BAcc:HGNC:17481];gene_id=ENSCHOG00000008474;logic_name=ensembl_projection;version=1
+GeneScaffold_7735: ID=ID=gene:ENSCHOG00000009723;Name=RORB;biotype=protein_coding;description=RAR related orphan receptor B [Source:HGNC Symbol%3BAcc:HGNC:10259];gene_id=ENSCHOG00000009723;logic_name=ensembl_projection;version=1
+GeneScaffold_7736: ID=ID=gene:ENSCHOG00000007292;Name=SGMS1;biotype=protein_coding;description=sphingomyelin synthase 1 [Source:HGNC Symbol%3BAcc:HGNC:29799];gene_id=ENSCHOG00000007292;logic_name=ensembl_projection;version=1
+GeneScaffold_7737: ID=ID=gene:ENSCHOG00000006959;biotype=protein_coding;gene_id=ENSCHOG00000006959;logic_name=ensembl_projection;version=1
+GeneScaffold_7738: ID=ID=gene:ENSCHOG00000001381;Name=COX20;biotype=protein_coding;description=cytochrome c oxidase assembly factor COX20 [Source:HGNC Symbol%3BAcc:HGNC:26970];gene_id=ENSCHOG00000001381;logic_name=ensembl_projection;version=1
+GeneScaffold_7738: ID=ID=gene:ENSCHOG00000001384;biotype=protein_coding;gene_id=ENSCHOG00000001384;logic_name=ensembl_projection;version=1
+GeneScaffold_7738: ID=ID=gene:ENSCHOG00000001387;Name=HNRNPU;biotype=protein_coding;description=heterogeneous nuclear ribonucleoprotein U [Source:HGNC Symbol%3BAcc:HGNC:5048];gene_id=ENSCHOG00000001387;logic_name=ensembl_projection;version=1
+GeneScaffold_7739: ID=ID=gene:ENSCHOG00000006567;biotype=protein_coding;gene_id=ENSCHOG00000006567;logic_name=ensembl_projection;version=1
+GeneScaffold_774: ID=ID=gene:ENSCHOG00000012865;Name=GPATCH1;biotype=protein_coding;description=G-patch domain containing 1 [Source:HGNC Symbol%3BAcc:HGNC:24658];gene_id=ENSCHOG00000012865;logic_name=ensembl_projection;version=1
+GeneScaffold_7740: ID=ID=gene:ENSCHOG00000009254;biotype=protein_coding;gene_id=ENSCHOG00000009254;logic_name=ensembl_projection;version=1
+GeneScaffold_7741: ID=ID=gene:ENSCHOG00000003438;biotype=protein_coding;gene_id=ENSCHOG00000003438;logic_name=ensembl_projection;version=1
+GeneScaffold_7742: ID=ID=gene:ENSCHOG00000004135;Name=TATDN3;biotype=protein_coding;description=TatD DNase domain containing 3 [Source:HGNC Symbol%3BAcc:HGNC:27010];gene_id=ENSCHOG00000004135;logic_name=ensembl_projection;version=1
+GeneScaffold_7743: ID=ID=gene:ENSCHOG00000004221;biotype=protein_coding;gene_id=ENSCHOG00000004221;logic_name=ensembl_projection;version=1
+GeneScaffold_7744: ID=ID=gene:ENSCHOG00000012704;Name=TEDDM1;biotype=protein_coding;description=transmembrane epididymal protein 1 [Source:HGNC Symbol%3BAcc:HGNC:30233];gene_id=ENSCHOG00000012704;logic_name=ensembl_projection;version=1
+GeneScaffold_7744: ID=ID=gene:ENSCHOG00000012710;biotype=protein_coding;gene_id=ENSCHOG00000012710;logic_name=ensembl_projection;version=1
+GeneScaffold_7745: ID=ID=gene:ENSCHOG00000007525;biotype=protein_coding;gene_id=ENSCHOG00000007525;logic_name=ensembl_projection;version=1
+GeneScaffold_7745: ID=ID=gene:ENSCHOG00000007538;biotype=protein_coding;gene_id=ENSCHOG00000007538;logic_name=ensembl_projection;version=1
+GeneScaffold_7746: ID=ID=gene:ENSCHOG00000009538;biotype=protein_coding;gene_id=ENSCHOG00000009538;logic_name=ensembl_projection;version=1
+GeneScaffold_7746: ID=ID=gene:ENSCHOG00000009560;Name=REPS1;biotype=protein_coding;description=RALBP1 associated Eps domain containing 1 [Source:HGNC Symbol%3BAcc:HGNC:15578];gene_id=ENSCHOG00000009560;logic_name=ensembl_projection;version=1
+GeneScaffold_7747: ID=ID=gene:ENSCHOG00000010246;biotype=protein_coding;gene_id=ENSCHOG00000010246;logic_name=ensembl_projection;version=1
+GeneScaffold_7748: ID=ID=gene:ENSCHOG00000008467;biotype=protein_coding;gene_id=ENSCHOG00000008467;logic_name=ensembl_projection;version=1
+GeneScaffold_7748: ID=ID=gene:ENSCHOG00000008481;biotype=protein_coding;gene_id=ENSCHOG00000008481;logic_name=ensembl_projection;version=1
+GeneScaffold_7748: ID=ID=gene:ENSCHOG00000008549;Name=SYT11;biotype=protein_coding;description=synaptotagmin 11 [Source:HGNC Symbol%3BAcc:HGNC:19239];gene_id=ENSCHOG00000008549;logic_name=ensembl_projection;version=1
+GeneScaffold_7748: ID=ID=gene:ENSCHOG00000008559;Name=RIT1;biotype=protein_coding;description=Ras like without CAAX 1 [Source:HGNC Symbol%3BAcc:HGNC:10023];gene_id=ENSCHOG00000008559;logic_name=ensembl_projection;version=1
+GeneScaffold_7748: ID=ID=gene:ENSCHOG00000008573;Name=KHDC4;biotype=protein_coding;description=KH domain containing 4%2C pre-mRNA splicing factor [Source:HGNC Symbol%3BAcc:HGNC:29145];gene_id=ENSCHOG00000008573;logic_name=ensembl_projection;version=1
+GeneScaffold_7749: ID=ID=gene:ENSCHOG00000009113;Name=FAM229B;biotype=protein_coding;description=family with sequence similarity 229 member B [Source:HGNC Symbol%3BAcc:HGNC:33858];gene_id=ENSCHOG00000009113;logic_name=ensembl_projection;version=1
+GeneScaffold_7749: ID=ID=gene:ENSCHOG00000009115;Name=LAMA4;biotype=protein_coding;description=laminin subunit alpha 4 [Source:HGNC Symbol%3BAcc:HGNC:6484];gene_id=ENSCHOG00000009115;logic_name=ensembl_projection;version=1
+GeneScaffold_775: ID=ID=gene:ENSCHOG00000004098;Name=NT5C2;biotype=protein_coding;description=5'-nucleotidase%2C cytosolic II [Source:HGNC Symbol%3BAcc:HGNC:8022];gene_id=ENSCHOG00000004098;logic_name=ensembl_projection;version=1
+GeneScaffold_7750: ID=ID=gene:ENSCHOG00000008640;Name=FANK1;biotype=protein_coding;description=fibronectin type III and ankyrin repeat domains 1 [Source:HGNC Symbol%3BAcc:HGNC:23527];gene_id=ENSCHOG00000008640;logic_name=ensembl_projection;version=1
+GeneScaffold_7750: ID=ID=gene:ENSCHOG00000008648;Name=ADAM12;biotype=protein_coding;description=ADAM metallopeptidase domain 12 [Source:HGNC Symbol%3BAcc:HGNC:190];gene_id=ENSCHOG00000008648;logic_name=ensembl_projection;version=1
+GeneScaffold_7751: ID=ID=gene:ENSCHOG00000007741;biotype=protein_coding;gene_id=ENSCHOG00000007741;logic_name=ensembl_projection;version=1
+GeneScaffold_7752: ID=ID=gene:ENSCHOG00000003567;biotype=protein_coding;gene_id=ENSCHOG00000003567;logic_name=ensembl_projection;version=1
+GeneScaffold_7753: ID=ID=gene:ENSCHOG00000002877;Name=PNLIPRP3;biotype=protein_coding;description=pancreatic lipase related protein 3 [Source:HGNC Symbol%3BAcc:HGNC:23492];gene_id=ENSCHOG00000002877;logic_name=ensembl_projection;version=1
+GeneScaffold_7754: ID=ID=gene:ENSCHOG00000013124;biotype=protein_coding;gene_id=ENSCHOG00000013124;logic_name=ensembl_projection;version=1
+GeneScaffold_7755: ID=ID=gene:ENSCHOG00000003383;biotype=protein_coding;gene_id=ENSCHOG00000003383;logic_name=ensembl_projection;version=1
+GeneScaffold_7756: ID=ID=gene:ENSCHOG00000004263;Name=RIPPLY2;biotype=protein_coding;description=ripply transcriptional repressor 2 [Source:HGNC Symbol%3BAcc:HGNC:21390];gene_id=ENSCHOG00000004263;logic_name=ensembl_projection;version=1
+GeneScaffold_7756: ID=ID=gene:ENSCHOG00000004268;Name=CYB5R4;biotype=protein_coding;description=cytochrome b5 reductase 4 [Source:HGNC Symbol%3BAcc:HGNC:20147];gene_id=ENSCHOG00000004268;logic_name=ensembl_projection;version=1
+GeneScaffold_7757: ID=ID=gene:ENSCHOG00000010833;biotype=protein_coding;gene_id=ENSCHOG00000010833;logic_name=ensembl_projection;version=1
+GeneScaffold_7758: ID=ID=gene:ENSCHOG00000004822;Name=PCMTD2;biotype=protein_coding;description=protein-L-isoaspartate (D-aspartate) O-methyltransferase domain containing 2 [Source:HGNC Symbol%3BAcc:HGNC:15882];gene_id=ENSCHOG00000004822;logic_name=ensembl_projection;version=1
+GeneScaffold_7759: ID=ID=gene:ENSCHOG00000004012;Name=C1orf146;biotype=protein_coding;description=chromosome 1 open reading frame 146 [Source:HGNC Symbol%3BAcc:HGNC:24032];gene_id=ENSCHOG00000004012;logic_name=ensembl_projection;version=1
+GeneScaffold_776: ID=ID=gene:ENSCHOG00000012970;biotype=protein_coding;gene_id=ENSCHOG00000012970;logic_name=ensembl_projection;version=1
+GeneScaffold_7760: ID=ID=gene:ENSCHOG00000012077;biotype=protein_coding;gene_id=ENSCHOG00000012077;logic_name=ensembl_projection;version=1
+GeneScaffold_7761: ID=ID=gene:ENSCHOG00000012242;biotype=protein_coding;gene_id=ENSCHOG00000012242;logic_name=ensembl_projection;version=1
+GeneScaffold_7762: ID=ID=gene:ENSCHOG00000013779;Name=C1orf141;biotype=protein_coding;description=chromosome 1 open reading frame 141 [Source:HGNC Symbol%3BAcc:HGNC:32044];gene_id=ENSCHOG00000013779;logic_name=ensembl_projection;version=1
+GeneScaffold_7763: ID=ID=gene:ENSCHOG00000006752;Name=EFCAB7;biotype=protein_coding;description=EF-hand calcium binding domain 7 [Source:HGNC Symbol%3BAcc:HGNC:29379];gene_id=ENSCHOG00000006752;logic_name=ensembl_projection;version=1
+GeneScaffold_7764: ID=ID=gene:ENSCHOG00000003017;Name=GLYATL3;biotype=protein_coding;description=glycine-N-acyltransferase like 3 [Source:HGNC Symbol%3BAcc:HGNC:21349];gene_id=ENSCHOG00000003017;logic_name=ensembl_projection;version=1
+GeneScaffold_7765: ID=ID=gene:ENSCHOG00000007969;biotype=protein_coding;gene_id=ENSCHOG00000007969;logic_name=ensembl_projection;version=1
+GeneScaffold_7765: ID=ID=gene:ENSCHOG00000007983;Name=TMEM59;biotype=protein_coding;description=transmembrane protein 59 [Source:HGNC Symbol%3BAcc:HGNC:1239];gene_id=ENSCHOG00000007983;logic_name=ensembl_projection;version=1
+GeneScaffold_7766: ID=ID=gene:ENSCHOG00000005095;Name=ZYG11A;biotype=protein_coding;description=zyg-11 family member A%2C cell cycle regulator [Source:HGNC Symbol%3BAcc:HGNC:32058];gene_id=ENSCHOG00000005095;logic_name=ensembl_projection;version=1
+GeneScaffold_7767: ID=ID=gene:ENSCHOG00000002106;Name=C1orf185;biotype=protein_coding;description=chromosome 1 open reading frame 185 [Source:HGNC Symbol%3BAcc:HGNC:28096];gene_id=ENSCHOG00000002106;logic_name=ensembl_projection;version=1
+GeneScaffold_7768: ID=ID=gene:ENSCHOG00000002110;Name=GLT6D1;biotype=protein_coding;description=glycosyltransferase 6 domain containing 1 [Source:HGNC Symbol%3BAcc:HGNC:23671];gene_id=ENSCHOG00000002110;logic_name=ensembl_projection;version=1
+GeneScaffold_7769: ID=ID=gene:ENSCHOG00000011036;biotype=protein_coding;gene_id=ENSCHOG00000011036;logic_name=ensembl_projection;version=1
+GeneScaffold_777: ID=ID=gene:ENSCHOG00000011981;Name=CTTNBP2;biotype=protein_coding;description=cortactin binding protein 2 [Source:HGNC Symbol%3BAcc:HGNC:15679];gene_id=ENSCHOG00000011981;logic_name=ensembl_projection;version=1
+GeneScaffold_7770: ID=ID=gene:ENSCHOG00000005432;Name=LRIT2;biotype=protein_coding;description=leucine rich repeat%2C Ig-like and transmembrane domains 2 [Source:HGNC Symbol%3BAcc:HGNC:23443];gene_id=ENSCHOG00000005432;logic_name=ensembl_projection;version=1
+GeneScaffold_7770: ID=ID=gene:ENSCHOG00000005437;Name=LRIT1;biotype=protein_coding;description=leucine rich repeat%2C Ig-like and transmembrane domains 1 [Source:HGNC Symbol%3BAcc:HGNC:23404];gene_id=ENSCHOG00000005437;logic_name=ensembl_projection;version=1
+GeneScaffold_7771: ID=ID=gene:ENSCHOG00000007176;biotype=protein_coding;gene_id=ENSCHOG00000007176;logic_name=ensembl_projection;version=1
+GeneScaffold_7772: ID=ID=gene:ENSCHOG00000011016;biotype=protein_coding;gene_id=ENSCHOG00000011016;logic_name=ensembl_projection;version=1
+GeneScaffold_7773: ID=ID=gene:ENSCHOG00000009466;biotype=protein_coding;gene_id=ENSCHOG00000009466;logic_name=ensembl_projection;version=1
+GeneScaffold_7774: ID=ID=gene:ENSCHOG00000004525;Name=GIGYF2;biotype=protein_coding;description=GRB10 interacting GYF protein 2 [Source:HGNC Symbol%3BAcc:HGNC:11960];gene_id=ENSCHOG00000004525;logic_name=ensembl_projection;version=1
+GeneScaffold_7774: ID=ID=gene:ENSCHOG00000004557;biotype=protein_coding;gene_id=ENSCHOG00000004557;logic_name=ensembl_projection;version=1
+GeneScaffold_7774: ID=ID=gene:ENSCHOG00000004564;Name=KCNJ13;biotype=protein_coding;description=potassium inwardly rectifying channel subfamily J member 13 [Source:HGNC Symbol%3BAcc:HGNC:6259];gene_id=ENSCHOG00000004564;logic_name=ensembl_projection;version=1
+GeneScaffold_7775: ID=ID=gene:ENSCHOG00000012094;biotype=protein_coding;gene_id=ENSCHOG00000012094;logic_name=ensembl_projection;version=1
+GeneScaffold_7776: ID=ID=gene:ENSCHOG00000000134;Name=PHACTR4;biotype=protein_coding;description=phosphatase and actin regulator 4 [Source:HGNC Symbol%3BAcc:HGNC:25793];gene_id=ENSCHOG00000000134;logic_name=ensembl_projection;version=1
+GeneScaffold_7777: ID=ID=gene:ENSCHOG00000002956;biotype=protein_coding;gene_id=ENSCHOG00000002956;logic_name=ensembl_projection;version=1
+GeneScaffold_7777: ID=ID=gene:ENSCHOG00000002961;Name=SFN;biotype=protein_coding;description=stratifin [Source:HGNC Symbol%3BAcc:HGNC:10773];gene_id=ENSCHOG00000002961;logic_name=ensembl_projection;version=1
+GeneScaffold_7778: ID=ID=gene:ENSCHOG00000000074;Name=MACO1;biotype=protein_coding;description=macoilin 1 [Source:HGNC Symbol%3BAcc:HGNC:25572];gene_id=ENSCHOG00000000074;logic_name=ensembl_projection;version=1
+GeneScaffold_7779: ID=ID=gene:ENSCHOG00000013322;biotype=protein_coding;gene_id=ENSCHOG00000013322;logic_name=ensembl_projection;version=1
+GeneScaffold_778: ID=ID=gene:ENSCHOG00000013473;biotype=protein_coding;gene_id=ENSCHOG00000013473;logic_name=ensembl_projection;version=1
+GeneScaffold_7780: ID=ID=gene:ENSCHOG00000007124;biotype=protein_coding;gene_id=ENSCHOG00000007124;logic_name=ensembl_projection;version=1
+GeneScaffold_7781: ID=ID=gene:ENSCHOG00000004855;Name=TXNDC8;biotype=protein_coding;description=thioredoxin domain containing 8 [Source:HGNC Symbol%3BAcc:HGNC:31454];gene_id=ENSCHOG00000004855;logic_name=ensembl_projection;version=1
+GeneScaffold_7782: ID=ID=gene:ENSCHOG00000004262;biotype=protein_coding;gene_id=ENSCHOG00000004262;logic_name=ensembl_projection;version=1
+GeneScaffold_7783: ID=ID=gene:ENSCHOG00000008713;Name=BMPR2;biotype=protein_coding;description=bone morphogenetic protein receptor type 2 [Source:HGNC Symbol%3BAcc:HGNC:1078];gene_id=ENSCHOG00000008713;logic_name=ensembl_projection;version=1
+GeneScaffold_7784: ID=ID=gene:ENSCHOG00000009975;Name=RXRB;biotype=protein_coding;description=retinoid X receptor beta [Source:HGNC Symbol%3BAcc:HGNC:10478];gene_id=ENSCHOG00000009975;logic_name=ensembl_projection;version=1
+GeneScaffold_7785: ID=ID=gene:ENSCHOG00000001719;Name=HLA-DOA;biotype=protein_coding;description=major histocompatibility complex%2C class II%2C DO alpha [Source:HGNC Symbol%3BAcc:HGNC:4936];gene_id=ENSCHOG00000001719;logic_name=ensembl_projection;version=1
+GeneScaffold_7786: ID=ID=gene:ENSCHOG00000006027;Name=BRD2;biotype=protein_coding;description=bromodomain containing 2 [Source:HGNC Symbol%3BAcc:HGNC:1103];gene_id=ENSCHOG00000006027;logic_name=ensembl_projection;version=1
+GeneScaffold_7787: ID=ID=gene:ENSCHOG00000006308;Name=COL5A2;biotype=protein_coding;description=collagen type V alpha 2 chain [Source:HGNC Symbol%3BAcc:HGNC:2210];gene_id=ENSCHOG00000006308;logic_name=ensembl_projection;version=1
+GeneScaffold_7788: ID=ID=gene:ENSCHOG00000007645;Name=PSMB8;biotype=protein_coding;description=proteasome 20S subunit beta 8 [Source:HGNC Symbol%3BAcc:HGNC:9545];gene_id=ENSCHOG00000007645;logic_name=ensembl_projection;version=1
+GeneScaffold_7788: ID=ID=gene:ENSCHOG00000007662;Name=TAP1;biotype=protein_coding;description=transporter 1%2C ATP binding cassette subfamily B member [Source:HGNC Symbol%3BAcc:HGNC:43];gene_id=ENSCHOG00000007662;logic_name=ensembl_projection;version=1
+GeneScaffold_7788: ID=ID=gene:ENSCHOG00000007681;Name=PSMB9;biotype=protein_coding;description=proteasome 20S subunit beta 9 [Source:HGNC Symbol%3BAcc:HGNC:9546];gene_id=ENSCHOG00000007681;logic_name=ensembl_projection;version=1
+GeneScaffold_7789: ID=ID=gene:ENSCHOG00000001058;Name=BTNL2;biotype=protein_coding;description=butyrophilin like 2 [Source:HGNC Symbol%3BAcc:HGNC:1142];gene_id=ENSCHOG00000001058;logic_name=ensembl_projection;version=1
+GeneScaffold_779: ID=ID=gene:ENSCHOG00000008395;Name=RARB;biotype=protein_coding;description=retinoic acid receptor beta [Source:HGNC Symbol%3BAcc:HGNC:9865];gene_id=ENSCHOG00000008395;logic_name=ensembl_projection;version=1
+GeneScaffold_7790: ID=ID=gene:ENSCHOG00000003225;biotype=protein_coding;gene_id=ENSCHOG00000003225;logic_name=ensembl_projection;version=1
+GeneScaffold_7791: ID=ID=gene:ENSCHOG00000009765;Name=AGER;biotype=protein_coding;description=advanced glycosylation end-product specific receptor [Source:HGNC Symbol%3BAcc:HGNC:320];gene_id=ENSCHOG00000009765;logic_name=ensembl_projection;version=1
+GeneScaffold_7792: ID=ID=gene:ENSCHOG00000000624;biotype=protein_coding;gene_id=ENSCHOG00000000624;logic_name=ensembl_projection;version=1
+GeneScaffold_7792: ID=ID=gene:ENSCHOG00000000629;biotype=protein_coding;description=RecQ like helicase 5 [Source:HGNC Symbol%3BAcc:HGNC:9950];gene_id=ENSCHOG00000000629;logic_name=ensembl_projection;version=1
+GeneScaffold_7792: ID=ID=gene:ENSCHOG00000000633;Name=SAP30BP;biotype=protein_coding;description=SAP30 binding protein [Source:HGNC Symbol%3BAcc:HGNC:30785];gene_id=ENSCHOG00000000633;logic_name=ensembl_projection;version=1
+GeneScaffold_7793: ID=ID=gene:ENSCHOG00000004771;biotype=protein_coding;gene_id=ENSCHOG00000004771;logic_name=ensembl_projection;version=1
+GeneScaffold_7794: ID=ID=gene:ENSCHOG00000005305;Name=CFB;biotype=protein_coding;description=complement factor B [Source:HGNC Symbol%3BAcc:HGNC:1037];gene_id=ENSCHOG00000005305;logic_name=ensembl_projection;version=1
+GeneScaffold_7794: ID=ID=gene:ENSCHOG00000005315;Name=NELFE;biotype=protein_coding;description=negative elongation factor complex member E [Source:HGNC Symbol%3BAcc:HGNC:13974];gene_id=ENSCHOG00000005315;logic_name=ensembl_projection;version=1
+GeneScaffold_7795: ID=ID=gene:ENSCHOG00000004893;Name=NXPE2;biotype=protein_coding;description=neurexophilin and PC-esterase domain family member 2 [Source:HGNC Symbol%3BAcc:HGNC:26331];gene_id=ENSCHOG00000004893;logic_name=ensembl_projection;version=1
+GeneScaffold_7796: ID=ID=gene:ENSCHOG00000006357;biotype=protein_coding;gene_id=ENSCHOG00000006357;logic_name=ensembl_projection;version=1
+GeneScaffold_7797: ID=ID=gene:ENSCHOG00000003415;biotype=protein_coding;gene_id=ENSCHOG00000003415;logic_name=ensembl_projection;version=1
+GeneScaffold_7798: ID=ID=gene:ENSCHOG00000000553;biotype=protein_coding;gene_id=ENSCHOG00000000553;logic_name=ensembl_projection;version=1
+GeneScaffold_7799: ID=ID=gene:ENSCHOG00000002307;biotype=protein_coding;gene_id=ENSCHOG00000002307;logic_name=ensembl_projection;version=1
+GeneScaffold_78: ID=ID=gene:ENSCHOG00000003875;Name=IFRD1;biotype=protein_coding;description=interferon related developmental regulator 1 [Source:HGNC Symbol%3BAcc:HGNC:5456];gene_id=ENSCHOG00000003875;logic_name=ensembl_projection;version=1
+GeneScaffold_78: ID=ID=gene:ENSCHOG00000003883;Name=LSMEM1;biotype=protein_coding;description=leucine rich single-pass membrane protein 1 [Source:HGNC Symbol%3BAcc:HGNC:22036];gene_id=ENSCHOG00000003883;logic_name=ensembl_projection;version=1
+GeneScaffold_780: ID=ID=gene:ENSCHOG00000000694;Name=TOP2B;biotype=protein_coding;description=DNA topoisomerase II beta [Source:HGNC Symbol%3BAcc:HGNC:11990];gene_id=ENSCHOG00000000694;logic_name=ensembl_projection;version=1
+GeneScaffold_7800: ID=ID=gene:ENSCHOG00000011139;Name=MSH5;biotype=protein_coding;description=mutS homolog 5 [Source:HGNC Symbol%3BAcc:HGNC:7328];gene_id=ENSCHOG00000011139;logic_name=ensembl_projection;version=1
+GeneScaffold_7800: ID=ID=gene:ENSCHOG00000011161;Name=VWA7;biotype=protein_coding;description=von Willebrand factor A domain containing 7 [Source:HGNC Symbol%3BAcc:HGNC:13939];gene_id=ENSCHOG00000011161;logic_name=ensembl_projection;version=1
+GeneScaffold_7801: ID=ID=gene:ENSCHOG00000003011;Name=ABHD16A;biotype=protein_coding;description=abhydrolase domain containing 16A [Source:HGNC Symbol%3BAcc:HGNC:13921];gene_id=ENSCHOG00000003011;logic_name=ensembl_projection;version=1
+GeneScaffold_7802: ID=ID=gene:ENSCHOG00000011829;biotype=protein_coding;gene_id=ENSCHOG00000011829;logic_name=ensembl_projection;version=1
+GeneScaffold_7803: ID=ID=gene:ENSCHOG00000005000;Name=NALF1;biotype=protein_coding;description=family with sequence similarity 155 member A [Source:HGNC Symbol%3BAcc:HGNC:33877];gene_id=ENSCHOG00000005000;logic_name=ensembl_projection;version=1
+GeneScaffold_7804: ID=ID=gene:ENSCHOG00000011969;biotype=protein_coding;gene_id=ENSCHOG00000011969;logic_name=ensembl_projection;version=1
+GeneScaffold_7805: ID=ID=gene:ENSCHOG00000010177;biotype=protein_coding;gene_id=ENSCHOG00000010177;logic_name=ensembl_projection;version=1
+GeneScaffold_7806: ID=ID=gene:ENSCHOG00000004552;biotype=protein_coding;gene_id=ENSCHOG00000004552;logic_name=ensembl_projection;version=1
+GeneScaffold_7807: ID=ID=gene:ENSCHOG00000001019;biotype=protein_coding;gene_id=ENSCHOG00000001019;logic_name=ensembl_projection;version=1
+GeneScaffold_7807: ID=ID=gene:ENSCHOG00000001022;biotype=protein_coding;gene_id=ENSCHOG00000001022;logic_name=ensembl_projection;version=1
+GeneScaffold_7808: ID=ID=gene:ENSCHOG00000005670;biotype=protein_coding;gene_id=ENSCHOG00000005670;logic_name=ensembl_projection;version=1
+GeneScaffold_7809: ID=ID=gene:ENSCHOG00000013071;biotype=protein_coding;gene_id=ENSCHOG00000013071;logic_name=ensembl_projection;version=1
+GeneScaffold_781: ID=ID=gene:ENSCHOG00000001797;Name=TM9SF3;biotype=protein_coding;description=transmembrane 9 superfamily member 3 [Source:HGNC Symbol%3BAcc:HGNC:21529];gene_id=ENSCHOG00000001797;logic_name=ensembl_projection;version=1
+GeneScaffold_7810: ID=ID=gene:ENSCHOG00000011407;biotype=protein_coding;gene_id=ENSCHOG00000011407;logic_name=ensembl_projection;version=1
+GeneScaffold_7811: ID=ID=gene:ENSCHOG00000001197;Name=CCHCR1;biotype=protein_coding;description=coiled-coil alpha-helical rod protein 1 [Source:HGNC Symbol%3BAcc:HGNC:13930];gene_id=ENSCHOG00000001197;logic_name=ensembl_projection;version=1
+GeneScaffold_7811: ID=ID=gene:ENSCHOG00000001209;biotype=protein_coding;gene_id=ENSCHOG00000001209;logic_name=ensembl_projection;version=1
+GeneScaffold_7811: ID=ID=gene:ENSCHOG00000001211;biotype=protein_coding;gene_id=ENSCHOG00000001211;logic_name=ensembl_projection;version=1
+GeneScaffold_7812: ID=ID=gene:ENSCHOG00000008190;biotype=protein_coding;gene_id=ENSCHOG00000008190;logic_name=ensembl_projection;version=1
+GeneScaffold_7813: ID=ID=gene:ENSCHOG00000010506;biotype=protein_coding;gene_id=ENSCHOG00000010506;logic_name=ensembl_projection;version=1
+GeneScaffold_7813: ID=ID=gene:ENSCHOG00000010514;Name=C2CD3;biotype=protein_coding;description=C2 domain containing 3 centriole elongation regulator [Source:HGNC Symbol%3BAcc:HGNC:24564];gene_id=ENSCHOG00000010514;logic_name=ensembl_projection;version=1
+GeneScaffold_7813: ID=ID=gene:ENSCHOG00000010547;Name=PPME1;biotype=protein_coding;description=protein phosphatase methylesterase 1 [Source:HGNC Symbol%3BAcc:HGNC:30178];gene_id=ENSCHOG00000010547;logic_name=ensembl_projection;version=1
+GeneScaffold_7814: ID=ID=gene:ENSCHOG00000001221;Name=C6orf136;biotype=protein_coding;description=chromosome 6 open reading frame 136 [Source:HGNC Symbol%3BAcc:HGNC:21301];gene_id=ENSCHOG00000001221;logic_name=ensembl_projection;version=1
+GeneScaffold_7814: ID=ID=gene:ENSCHOG00000001224;Name=DHX16;biotype=protein_coding;description=DEAH-box helicase 16 [Source:HGNC Symbol%3BAcc:HGNC:2739];gene_id=ENSCHOG00000001224;logic_name=ensembl_projection;version=1
+GeneScaffold_7815: ID=ID=gene:ENSCHOG00000002850;biotype=protein_coding;gene_id=ENSCHOG00000002850;logic_name=ensembl_projection;version=1
+GeneScaffold_7816: ID=ID=gene:ENSCHOG00000005581;Name=MRPS18B;biotype=protein_coding;description=mitochondrial ribosomal protein S18B [Source:HGNC Symbol%3BAcc:HGNC:14516];gene_id=ENSCHOG00000005581;logic_name=ensembl_projection;version=1
+GeneScaffold_7816: ID=ID=gene:ENSCHOG00000005588;Name=ATAT1;biotype=protein_coding;description=alpha tubulin acetyltransferase 1 [Source:HGNC Symbol%3BAcc:HGNC:21186];gene_id=ENSCHOG00000005588;logic_name=ensembl_projection;version=1
+GeneScaffold_7817: ID=ID=gene:ENSCHOG00000007641;Name=PPP1R10;biotype=protein_coding;description=protein phosphatase 1 regulatory subunit 10 [Source:HGNC Symbol%3BAcc:HGNC:9284];gene_id=ENSCHOG00000007641;logic_name=ensembl_projection;version=1
+GeneScaffold_7818: ID=ID=gene:ENSCHOG00000010907;Name=GNL1;biotype=protein_coding;description=G protein nucleolar 1 (putative) [Source:HGNC Symbol%3BAcc:HGNC:4413];gene_id=ENSCHOG00000010907;logic_name=ensembl_projection;version=1
+GeneScaffold_7818: ID=ID=gene:ENSCHOG00000010923;biotype=protein_coding;gene_id=ENSCHOG00000010923;logic_name=ensembl_projection;version=1
+GeneScaffold_7819: ID=ID=gene:ENSCHOG00000012209;Name=TRIM39;biotype=protein_coding;description=tripartite motif containing 39 [Source:HGNC Symbol%3BAcc:HGNC:10065];gene_id=ENSCHOG00000012209;logic_name=ensembl_projection;version=1
+GeneScaffold_7819: ID=ID=gene:ENSCHOG00000012222;biotype=protein_coding;gene_id=ENSCHOG00000012222;logic_name=ensembl_projection;version=1
+GeneScaffold_782: ID=ID=gene:ENSCHOG00000007999;Name=PPP1R12B;biotype=protein_coding;description=protein phosphatase 1 regulatory subunit 12B [Source:HGNC Symbol%3BAcc:HGNC:7619];gene_id=ENSCHOG00000007999;logic_name=ensembl_projection;version=1
+GeneScaffold_7820: ID=ID=gene:ENSCHOG00000000643;biotype=protein_coding;gene_id=ENSCHOG00000000643;logic_name=ensembl_projection;version=1
+GeneScaffold_7820: ID=ID=gene:ENSCHOG00000000646;Name=HOXB7;biotype=protein_coding;description=homeobox B7 [Source:HGNC Symbol%3BAcc:HGNC:5118];gene_id=ENSCHOG00000000646;logic_name=ensembl_projection;version=1
+GeneScaffold_7821: ID=ID=gene:ENSCHOG00000008534;biotype=protein_coding;gene_id=ENSCHOG00000008534;logic_name=ensembl_projection;version=1
+GeneScaffold_7821: ID=ID=gene:ENSCHOG00000008546;biotype=protein_coding;gene_id=ENSCHOG00000008546;logic_name=ensembl_projection;version=1
+GeneScaffold_7822: ID=ID=gene:ENSCHOG00000007066;biotype=protein_coding;gene_id=ENSCHOG00000007066;logic_name=ensembl_projection;version=1
+GeneScaffold_7823: ID=ID=gene:ENSCHOG00000008703;biotype=protein_coding;gene_id=ENSCHOG00000008703;logic_name=ensembl_projection;version=1
+GeneScaffold_7824: ID=ID=gene:ENSCHOG00000007862;biotype=protein_coding;gene_id=ENSCHOG00000007862;logic_name=ensembl_projection;version=1
+GeneScaffold_7825: ID=ID=gene:ENSCHOG00000007072;biotype=protein_coding;gene_id=ENSCHOG00000007072;logic_name=ensembl_projection;version=1
+GeneScaffold_7826: ID=ID=gene:ENSCHOG00000000042;Name=CFAP95;biotype=protein_coding;description=chromosome 9 open reading frame 135 [Source:HGNC Symbol%3BAcc:HGNC:31422];gene_id=ENSCHOG00000000042;logic_name=ensembl_projection;version=1
+GeneScaffold_7827: ID=ID=gene:ENSCHOG00000000655;Name=TRIM27;biotype=protein_coding;description=tripartite motif containing 27 [Source:HGNC Symbol%3BAcc:HGNC:9975];gene_id=ENSCHOG00000000655;logic_name=ensembl_projection;version=1
+GeneScaffold_7828: ID=ID=gene:ENSCHOG00000007347;biotype=protein_coding;gene_id=ENSCHOG00000007347;logic_name=ensembl_projection;version=1
+GeneScaffold_7829: ID=ID=gene:ENSCHOG00000007883;biotype=protein_coding;gene_id=ENSCHOG00000007883;logic_name=ensembl_projection;version=1
+GeneScaffold_783: ID=ID=gene:ENSCHOG00000000617;Name=DNAJC10;biotype=protein_coding;description=DnaJ heat shock protein family (Hsp40) member C10 [Source:HGNC Symbol%3BAcc:HGNC:24637];gene_id=ENSCHOG00000000617;logic_name=ensembl_projection;version=1
+GeneScaffold_7830: ID=ID=gene:ENSCHOG00000011659;Name=RANBP17;biotype=protein_coding;description=RAN binding protein 17 [Source:HGNC Symbol%3BAcc:HGNC:14428];gene_id=ENSCHOG00000011659;logic_name=ensembl_projection;version=1
+GeneScaffold_7831: ID=ID=gene:ENSCHOG00000009261;Name=INSYN2B;biotype=protein_coding;description=inhibitory synaptic factor family member 2B [Source:HGNC Symbol%3BAcc:HGNC:37271];gene_id=ENSCHOG00000009261;logic_name=ensembl_projection;version=1
+GeneScaffold_7832: ID=ID=gene:ENSCHOG00000002999;biotype=protein_coding;gene_id=ENSCHOG00000002999;logic_name=ensembl_projection;version=1
+GeneScaffold_7833: ID=ID=gene:ENSCHOG00000004284;Name=ATXN2;biotype=protein_coding;description=ataxin 2 [Source:HGNC Symbol%3BAcc:HGNC:10555];gene_id=ENSCHOG00000004284;logic_name=ensembl_projection;version=1
+GeneScaffold_7834: ID=ID=gene:ENSCHOG00000008847;biotype=protein_coding;gene_id=ENSCHOG00000008847;logic_name=ensembl_projection;version=1
+GeneScaffold_7835: ID=ID=gene:ENSCHOG00000000182;Name=TCTN1;biotype=protein_coding;description=tectonic family member 1 [Source:HGNC Symbol%3BAcc:HGNC:26113];gene_id=ENSCHOG00000000182;logic_name=ensembl_projection;version=1
+GeneScaffold_7836: ID=ID=gene:ENSCHOG00000005986;Name=FAM216A;biotype=protein_coding;description=family with sequence similarity 216 member A [Source:HGNC Symbol%3BAcc:HGNC:30180];gene_id=ENSCHOG00000005986;logic_name=ensembl_projection;version=1
+GeneScaffold_7837: ID=ID=gene:ENSCHOG00000010912;Name=KRT40;biotype=protein_coding;description=keratin 40 [Source:HGNC Symbol%3BAcc:HGNC:26707];gene_id=ENSCHOG00000010912;logic_name=ensembl_projection;version=1
+GeneScaffold_7837: ID=ID=gene:ENSCHOG00000010927;biotype=protein_coding;gene_id=ENSCHOG00000010927;logic_name=ensembl_projection;version=1
+GeneScaffold_7837: ID=ID=gene:ENSCHOG00000010931;biotype=protein_coding;gene_id=ENSCHOG00000010931;logic_name=ensembl_projection;version=1
+GeneScaffold_7838: ID=ID=gene:ENSCHOG00000007199;Name=MZT1;biotype=protein_coding;description=mitotic spindle organizing protein 1 [Source:HGNC Symbol%3BAcc:HGNC:33830];gene_id=ENSCHOG00000007199;logic_name=ensembl_projection;version=1
+GeneScaffold_7838: ID=ID=gene:ENSCHOG00000007221;Name=BORA;biotype=protein_coding;description=BORA aurora kinase A activator [Source:HGNC Symbol%3BAcc:HGNC:24724];gene_id=ENSCHOG00000007221;logic_name=ensembl_projection;version=1
+GeneScaffold_7839: ID=ID=gene:ENSCHOG00000001261;biotype=protein_coding;gene_id=ENSCHOG00000001261;logic_name=ensembl_projection;version=1
+GeneScaffold_784: ID=ID=gene:ENSCHOG00000000267;biotype=protein_coding;gene_id=ENSCHOG00000000267;logic_name=ensembl_projection;version=1
+GeneScaffold_7840: ID=ID=gene:ENSCHOG00000009359;Name=GRXCR2;biotype=protein_coding;description=glutaredoxin and cysteine rich domain containing 2 [Source:HGNC Symbol%3BAcc:HGNC:33862];gene_id=ENSCHOG00000009359;logic_name=ensembl_projection;version=1
+GeneScaffold_7841: ID=ID=gene:ENSCHOG00000002790;Name=FBXO47;biotype=protein_coding;description=F-box protein 47 [Source:HGNC Symbol%3BAcc:HGNC:31969];gene_id=ENSCHOG00000002790;logic_name=ensembl_projection;version=1
+GeneScaffold_7842: ID=ID=gene:ENSCHOG00000004922;Name=MS4A13;biotype=protein_coding;description=membrane spanning 4-domains A13 [Source:HGNC Symbol%3BAcc:HGNC:16674];gene_id=ENSCHOG00000004922;logic_name=ensembl_projection;version=1
+GeneScaffold_7843: ID=ID=gene:ENSCHOG00000000723;biotype=protein_coding;gene_id=ENSCHOG00000000723;logic_name=ensembl_projection;version=1
+GeneScaffold_7844: ID=ID=gene:ENSCHOG00000000801;biotype=protein_coding;gene_id=ENSCHOG00000000801;logic_name=ensembl_projection;version=1
+GeneScaffold_7845: ID=ID=gene:ENSCHOG00000005523;Name=AARD;biotype=protein_coding;description=alanine and arginine rich domain containing protein [Source:HGNC Symbol%3BAcc:HGNC:33842];gene_id=ENSCHOG00000005523;logic_name=ensembl_projection;version=1
+GeneScaffold_7846: ID=ID=gene:ENSCHOG00000002767;Name=PKHD1L1;biotype=protein_coding;description=PKHD1 like 1 [Source:HGNC Symbol%3BAcc:HGNC:20313];gene_id=ENSCHOG00000002767;logic_name=ensembl_projection;version=1
+GeneScaffold_7847: ID=ID=gene:ENSCHOG00000004778;biotype=protein_coding;gene_id=ENSCHOG00000004778;logic_name=ensembl_projection;version=1
+GeneScaffold_7848: ID=ID=gene:ENSCHOG00000000503;biotype=protein_coding;gene_id=ENSCHOG00000000503;logic_name=ensembl_projection;version=1
+GeneScaffold_7849: ID=ID=gene:ENSCHOG00000005171;biotype=protein_coding;gene_id=ENSCHOG00000005171;logic_name=ensembl_projection;version=1
+GeneScaffold_785: ID=ID=gene:ENSCHOG00000000821;Name=USP33;biotype=protein_coding;description=ubiquitin specific peptidase 33 [Source:HGNC Symbol%3BAcc:HGNC:20059];gene_id=ENSCHOG00000000821;logic_name=ensembl_projection;version=1
+GeneScaffold_7850: ID=ID=gene:ENSCHOG00000013767;Name=TMEM231;biotype=protein_coding;description=transmembrane protein 231 [Source:HGNC Symbol%3BAcc:HGNC:37234];gene_id=ENSCHOG00000013767;logic_name=ensembl_projection;version=1
+GeneScaffold_7851: ID=ID=gene:ENSCHOG00000012766;biotype=protein_coding;gene_id=ENSCHOG00000012766;logic_name=ensembl_projection;version=1
+GeneScaffold_7852: ID=ID=gene:ENSCHOG00000000197;biotype=protein_coding;gene_id=ENSCHOG00000000197;logic_name=ensembl_projection;version=1
+GeneScaffold_7853: ID=ID=gene:ENSCHOG00000002666;Name=ACCSL;biotype=protein_coding;description=1-aminocyclopropane-1-carboxylate synthase homolog (inactive) like [Source:HGNC Symbol%3BAcc:HGNC:34391];gene_id=ENSCHOG00000002666;logic_name=ensembl_projection;version=1
+GeneScaffold_7854: ID=ID=gene:ENSCHOG00000008916;Name=CIBAR1;biotype=protein_coding;description=family with sequence similarity 92 member A [Source:HGNC Symbol%3BAcc:HGNC:30452];gene_id=ENSCHOG00000008916;logic_name=ensembl_projection;version=1
+GeneScaffold_7854: ID=ID=gene:ENSCHOG00000008926;biotype=protein_coding;gene_id=ENSCHOG00000008926;logic_name=ensembl_projection;version=1
+GeneScaffold_7854: ID=ID=gene:ENSCHOG00000008934;Name=RBM12B;biotype=protein_coding;description=RNA binding motif protein 12B [Source:HGNC Symbol%3BAcc:HGNC:32310];gene_id=ENSCHOG00000008934;logic_name=ensembl_projection;version=1
+GeneScaffold_7855: ID=ID=gene:ENSCHOG00000006054;Name=LGR4;biotype=protein_coding;description=leucine rich repeat containing G protein-coupled receptor 4 [Source:HGNC Symbol%3BAcc:HGNC:13299];gene_id=ENSCHOG00000006054;logic_name=ensembl_projection;version=1
+GeneScaffold_7856: ID=ID=gene:ENSCHOG00000003674;Name=PSMB10;biotype=protein_coding;description=proteasome 20S subunit beta 10 [Source:HGNC Symbol%3BAcc:HGNC:9538];gene_id=ENSCHOG00000003674;logic_name=ensembl_projection;version=1
+GeneScaffold_7856: ID=ID=gene:ENSCHOG00000003682;Name=LCAT;biotype=protein_coding;description=lecithin-cholesterol acyltransferase [Source:HGNC Symbol%3BAcc:HGNC:6522];gene_id=ENSCHOG00000003682;logic_name=ensembl_projection;version=1
+GeneScaffold_7857: ID=ID=gene:ENSCHOG00000006518;Name=VIT;biotype=protein_coding;description=vitrin [Source:HGNC Symbol%3BAcc:HGNC:12697];gene_id=ENSCHOG00000006518;logic_name=ensembl_projection;version=1
+GeneScaffold_7858: ID=ID=gene:ENSCHOG00000004666;biotype=protein_coding;gene_id=ENSCHOG00000004666;logic_name=ensembl_projection;version=1
+GeneScaffold_7859: ID=ID=gene:ENSCHOG00000012459;Name=SNX2;biotype=protein_coding;description=sorting nexin 2 [Source:HGNC Symbol%3BAcc:HGNC:11173];gene_id=ENSCHOG00000012459;logic_name=ensembl_projection;version=1
+GeneScaffold_786: ID=ID=gene:ENSCHOG00000004597;Name=PAK3;biotype=protein_coding;description=p21 (RAC1) activated kinase 3 [Source:HGNC Symbol%3BAcc:HGNC:8592];gene_id=ENSCHOG00000004597;logic_name=ensembl_projection;version=1
+GeneScaffold_7860: ID=ID=gene:ENSCHOG00000005081;Name=SARNP;biotype=protein_coding;description=SAP domain containing ribonucleoprotein [Source:HGNC Symbol%3BAcc:HGNC:24432];gene_id=ENSCHOG00000005081;logic_name=ensembl_projection;version=1
+GeneScaffold_7861: ID=ID=gene:ENSCHOG00000004681;biotype=protein_coding;gene_id=ENSCHOG00000004681;logic_name=ensembl_projection;version=1
+GeneScaffold_7862: ID=ID=gene:ENSCHOG00000006398;biotype=protein_coding;gene_id=ENSCHOG00000006398;logic_name=ensembl_projection;version=1
+GeneScaffold_7863: ID=ID=gene:ENSCHOG00000004473;Name=IPO7;biotype=protein_coding;description=importin 7 [Source:HGNC Symbol%3BAcc:HGNC:9852];gene_id=ENSCHOG00000004473;logic_name=ensembl_projection;version=1
+GeneScaffold_7864: ID=ID=gene:ENSCHOG00000012853;Name=SLCO6A1;biotype=protein_coding;description=solute carrier organic anion transporter family member 6A1 [Source:HGNC Symbol%3BAcc:HGNC:23613];gene_id=ENSCHOG00000012853;logic_name=ensembl_projection;version=1
+GeneScaffold_7865: ID=ID=gene:ENSCHOG00000008744;biotype=protein_coding;gene_id=ENSCHOG00000008744;logic_name=ensembl_projection;version=1
+GeneScaffold_7866: ID=ID=gene:ENSCHOG00000006618;biotype=protein_coding;gene_id=ENSCHOG00000006618;logic_name=ensembl_projection;version=1
+GeneScaffold_7867: ID=ID=gene:ENSCHOG00000011151;biotype=protein_coding;gene_id=ENSCHOG00000011151;logic_name=ensembl_projection;version=1
+GeneScaffold_7868: ID=ID=gene:ENSCHOG00000006278;biotype=protein_coding;gene_id=ENSCHOG00000006278;logic_name=ensembl_projection;version=1
+GeneScaffold_7869: ID=ID=gene:ENSCHOG00000006107;biotype=protein_coding;description=chromosome 9 open reading frame 92 [Source:HGNC Symbol%3BAcc:HGNC:19054];gene_id=ENSCHOG00000006107;logic_name=ensembl_projection;version=1
+GeneScaffold_787: ID=ID=gene:ENSCHOG00000002834;Name=CAPN6;biotype=protein_coding;description=calpain 6 [Source:HGNC Symbol%3BAcc:HGNC:1483];gene_id=ENSCHOG00000002834;logic_name=ensembl_projection;version=1
+GeneScaffold_7870: ID=ID=gene:ENSCHOG00000007346;biotype=protein_coding;gene_id=ENSCHOG00000007346;logic_name=ensembl_projection;version=1
+GeneScaffold_7871: ID=ID=gene:ENSCHOG00000003120;biotype=protein_coding;gene_id=ENSCHOG00000003120;logic_name=ensembl_projection;version=1
+GeneScaffold_7873: ID=ID=gene:ENSCHOG00000002098;Name=LCMT1;biotype=protein_coding;description=leucine carboxyl methyltransferase 1 [Source:HGNC Symbol%3BAcc:HGNC:17557];gene_id=ENSCHOG00000002098;logic_name=ensembl_projection;version=1
+GeneScaffold_7874: ID=ID=gene:ENSCHOG00000010658;biotype=protein_coding;gene_id=ENSCHOG00000010658;logic_name=ensembl_projection;version=1
+GeneScaffold_7875: ID=ID=gene:ENSCHOG00000002417;Name=LIN52;biotype=protein_coding;description=lin-52 DREAM MuvB core complex component [Source:HGNC Symbol%3BAcc:HGNC:19856];gene_id=ENSCHOG00000002417;logic_name=ensembl_projection;version=1
+GeneScaffold_7876: ID=ID=gene:ENSCHOG00000005283;Name=ARSH;biotype=protein_coding;description=arylsulfatase family member H [Source:HGNC Symbol%3BAcc:HGNC:32488];gene_id=ENSCHOG00000005283;logic_name=ensembl_projection;version=1
+GeneScaffold_7877: ID=ID=gene:ENSCHOG00000004532;Name=TECRL;biotype=protein_coding;description=trans-2%2C3-enoyl-CoA reductase like [Source:HGNC Symbol%3BAcc:HGNC:27365];gene_id=ENSCHOG00000004532;logic_name=ensembl_projection;version=1
+GeneScaffold_7878: ID=ID=gene:ENSCHOG00000011184;Name=ITSN1;biotype=protein_coding;description=intersectin 1 [Source:HGNC Symbol%3BAcc:HGNC:6183];gene_id=ENSCHOG00000011184;logic_name=ensembl_projection;version=1
+GeneScaffold_7878: ID=ID=gene:ENSCHOG00000011242;Name=ATP5PO;biotype=protein_coding;description=ATP synthase peripheral stalk subunit OSCP [Source:HGNC Symbol%3BAcc:HGNC:850];gene_id=ENSCHOG00000011242;logic_name=ensembl_projection;version=1
+GeneScaffold_7879: ID=ID=gene:ENSCHOG00000000845;biotype=protein_coding;gene_id=ENSCHOG00000000845;logic_name=ensembl_projection;version=1
+GeneScaffold_788: ID=ID=gene:ENSCHOG00000012842;Name=SPAG6;biotype=protein_coding;description=sperm associated antigen 6 [Source:HGNC Symbol%3BAcc:HGNC:11215];gene_id=ENSCHOG00000012842;logic_name=ensembl_projection;version=1
+GeneScaffold_7880: ID=ID=gene:ENSCHOG00000005075;biotype=protein_coding;gene_id=ENSCHOG00000005075;logic_name=ensembl_projection;version=1
+GeneScaffold_7881: ID=ID=gene:ENSCHOG00000011640;Name=RIMOC1;biotype=protein_coding;description=chromosome 5 open reading frame 51 [Source:HGNC Symbol%3BAcc:HGNC:27750];gene_id=ENSCHOG00000011640;logic_name=ensembl_projection;version=1
+GeneScaffold_7882: ID=ID=gene:ENSCHOG00000007007;biotype=protein_coding;gene_id=ENSCHOG00000007007;logic_name=ensembl_projection;version=1
+GeneScaffold_7882: ID=ID=gene:ENSCHOG00000007016;Name=PDIA3;biotype=protein_coding;description=protein disulfide isomerase family A member 3 [Source:HGNC Symbol%3BAcc:HGNC:4606];gene_id=ENSCHOG00000007016;logic_name=ensembl_projection;version=1
+GeneScaffold_7883: ID=ID=gene:ENSCHOG00000011461;Name=METTL16;biotype=protein_coding;description=methyltransferase like 16 [Source:HGNC Symbol%3BAcc:HGNC:28484];gene_id=ENSCHOG00000011461;logic_name=ensembl_projection;version=1
+GeneScaffold_7884: ID=ID=gene:ENSCHOG00000004047;Name=TTC23L;biotype=protein_coding;description=tetratricopeptide repeat domain 23 like [Source:HGNC Symbol%3BAcc:HGNC:26355];gene_id=ENSCHOG00000004047;logic_name=ensembl_projection;version=1
+GeneScaffold_7885: ID=ID=gene:ENSCHOG00000013260;Name=CLEC6A;biotype=protein_coding;description=C-type lectin domain containing 6A [Source:HGNC Symbol%3BAcc:HGNC:14556];gene_id=ENSCHOG00000013260;logic_name=ensembl_projection;version=1
+GeneScaffold_7886: ID=ID=gene:ENSCHOG00000011848;Name=LRRC72;biotype=protein_coding;description=leucine rich repeat containing 72 [Source:HGNC Symbol%3BAcc:HGNC:42972];gene_id=ENSCHOG00000011848;logic_name=ensembl_projection;version=1
+GeneScaffold_7887: ID=ID=gene:ENSCHOG00000004001;Name=DEFB135;biotype=protein_coding;description=defensin beta 135 [Source:HGNC Symbol%3BAcc:HGNC:32400];gene_id=ENSCHOG00000004001;logic_name=ensembl_projection;version=1
+GeneScaffold_7888: ID=ID=gene:ENSCHOG00000003280;biotype=protein_coding;gene_id=ENSCHOG00000003280;logic_name=ensembl_projection;version=1
+GeneScaffold_7889: ID=ID=gene:ENSCHOG00000010344;biotype=protein_coding;gene_id=ENSCHOG00000010344;logic_name=ensembl_projection;version=1
+GeneScaffold_789: ID=ID=gene:ENSCHOG00000000047;Name=EXOSC5;biotype=protein_coding;description=exosome component 5 [Source:HGNC Symbol%3BAcc:HGNC:24662];gene_id=ENSCHOG00000000047;logic_name=ensembl_projection;version=1
+GeneScaffold_7890: ID=ID=gene:ENSCHOG00000004747;Name=C18orf63;biotype=protein_coding;description=chromosome 18 open reading frame 63 [Source:HGNC Symbol%3BAcc:HGNC:40037];gene_id=ENSCHOG00000004747;logic_name=ensembl_projection;version=1
+GeneScaffold_7891: ID=ID=gene:ENSCHOG00000000256;Name=TEX52;biotype=protein_coding;description=testis expressed 52 [Source:HGNC Symbol%3BAcc:HGNC:53643];gene_id=ENSCHOG00000000256;logic_name=ensembl_projection;version=1
+GeneScaffold_7892: ID=ID=gene:ENSCHOG00000003508;Name=DOK6;biotype=protein_coding;description=docking protein 6 [Source:HGNC Symbol%3BAcc:HGNC:28301];gene_id=ENSCHOG00000003508;logic_name=ensembl_projection;version=1
+GeneScaffold_7892: ID=ID=gene:ENSCHOG00000003512;Name=CD226;biotype=protein_coding;description=CD226 molecule [Source:HGNC Symbol%3BAcc:HGNC:16961];gene_id=ENSCHOG00000003512;logic_name=ensembl_projection;version=1
+GeneScaffold_7893: ID=ID=gene:ENSCHOG00000013799;Name=JPT2;biotype=protein_coding;description=Jupiter microtubule associated homolog 2 [Source:HGNC Symbol%3BAcc:HGNC:14137];gene_id=ENSCHOG00000013799;logic_name=ensembl_projection;version=1
+GeneScaffold_7894: ID=ID=gene:ENSCHOG00000005772;biotype=protein_coding;gene_id=ENSCHOG00000005772;logic_name=ensembl_projection;version=1
+GeneScaffold_7895: ID=ID=gene:ENSCHOG00000004701;Name=SERPINB5;biotype=protein_coding;description=serpin family B member 5 [Source:HGNC Symbol%3BAcc:HGNC:8949];gene_id=ENSCHOG00000004701;logic_name=ensembl_projection;version=1
+GeneScaffold_7896: ID=ID=gene:ENSCHOG00000012112;Name=ATP10A;biotype=protein_coding;description=ATPase phospholipid transporting 10A (putative) [Source:HGNC Symbol%3BAcc:HGNC:13542];gene_id=ENSCHOG00000012112;logic_name=ensembl_projection;version=1
+GeneScaffold_7897: ID=ID=gene:ENSCHOG00000009587;biotype=protein_coding;gene_id=ENSCHOG00000009587;logic_name=ensembl_projection;version=1
+GeneScaffold_7898: ID=ID=gene:ENSCHOG00000007171;biotype=protein_coding;gene_id=ENSCHOG00000007171;logic_name=ensembl_projection;version=1
+GeneScaffold_7899: ID=ID=gene:ENSCHOG00000001098;Name=HACD2;biotype=protein_coding;description=3-hydroxyacyl-CoA dehydratase 2 [Source:HGNC Symbol%3BAcc:HGNC:9640];gene_id=ENSCHOG00000001098;logic_name=ensembl_projection;version=1
+GeneScaffold_79: ID=ID=gene:ENSCHOG00000008685;Name=COX10;biotype=protein_coding;description=cytochrome c oxidase assembly factor heme A:farnesyltransferase COX10 [Source:HGNC Symbol%3BAcc:HGNC:2260];gene_id=ENSCHOG00000008685;logic_name=ensembl_projection;version=1
+GeneScaffold_790: ID=ID=gene:ENSCHOG00000012322;Name=DYNC1I2;biotype=protein_coding;description=dynein cytoplasmic 1 intermediate chain 2 [Source:HGNC Symbol%3BAcc:HGNC:2964];gene_id=ENSCHOG00000012322;logic_name=ensembl_projection;version=1
+GeneScaffold_7900: ID=ID=gene:ENSCHOG00000008993;biotype=protein_coding;gene_id=ENSCHOG00000008993;logic_name=ensembl_projection;version=1
+GeneScaffold_7901: ID=ID=gene:ENSCHOG00000002706;biotype=protein_coding;gene_id=ENSCHOG00000002706;logic_name=ensembl_projection;version=1
+GeneScaffold_7902: ID=ID=gene:ENSCHOG00000011042;Name=TRIM71;biotype=protein_coding;description=tripartite motif containing 71 [Source:HGNC Symbol%3BAcc:HGNC:32669];gene_id=ENSCHOG00000011042;logic_name=ensembl_projection;version=1
+GeneScaffold_7903: ID=ID=gene:ENSCHOG00000000093;Name=ZCWPW2;biotype=protein_coding;description=zinc finger CW-type and PWWP domain containing 2 [Source:HGNC Symbol%3BAcc:HGNC:23574];gene_id=ENSCHOG00000000093;logic_name=ensembl_projection;version=1
+GeneScaffold_7904: ID=ID=gene:ENSCHOG00000012451;Name=ANKRD28;biotype=protein_coding;description=ankyrin repeat domain 28 [Source:HGNC Symbol%3BAcc:HGNC:29024];gene_id=ENSCHOG00000012451;logic_name=ensembl_projection;version=1
+GeneScaffold_7905: ID=ID=gene:ENSCHOG00000010916;Name=COLQ;biotype=protein_coding;description=collagen like tail subunit of asymmetric acetylcholinesterase [Source:HGNC Symbol%3BAcc:HGNC:2226];gene_id=ENSCHOG00000010916;logic_name=ensembl_projection;version=1
+GeneScaffold_7906: ID=ID=gene:ENSCHOG00000007444;Name=METTL6;biotype=protein_coding;description=methyltransferase like 6 [Source:HGNC Symbol%3BAcc:HGNC:28343];gene_id=ENSCHOG00000007444;logic_name=ensembl_projection;version=1
+GeneScaffold_7906: ID=ID=gene:ENSCHOG00000007449;Name=EAF1;biotype=protein_coding;description=ELL associated factor 1 [Source:HGNC Symbol%3BAcc:HGNC:20907];gene_id=ENSCHOG00000007449;logic_name=ensembl_projection;version=1
+GeneScaffold_7907: ID=ID=gene:ENSCHOG00000002377;Name=XKR4;biotype=protein_coding;description=XK related 4 [Source:HGNC Symbol%3BAcc:HGNC:29394];gene_id=ENSCHOG00000002377;logic_name=ensembl_projection;version=1
+GeneScaffold_7908: ID=ID=gene:ENSCHOG00000004761;biotype=protein_coding;gene_id=ENSCHOG00000004761;logic_name=ensembl_projection;version=1
+GeneScaffold_7909: ID=ID=gene:ENSCHOG00000000659;biotype=protein_coding;gene_id=ENSCHOG00000000659;logic_name=ensembl_projection;version=1
+GeneScaffold_7909: ID=ID=gene:ENSCHOG00000000660;Name=PEX11B;biotype=protein_coding;description=peroxisomal biogenesis factor 11 beta [Source:HGNC Symbol%3BAcc:HGNC:8853];gene_id=ENSCHOG00000000660;logic_name=ensembl_projection;version=1
+GeneScaffold_791: ID=ID=gene:ENSCHOG00000012798;Name=APBB1IP;biotype=protein_coding;description=amyloid beta precursor protein binding family B member 1 interacting protein [Source:HGNC Symbol%3BAcc:HGNC:17379];gene_id=ENSCHOG00000012798;logic_name=ensembl_projection;version=1
+GeneScaffold_7910: ID=ID=gene:ENSCHOG00000006517;Name=DIO1;biotype=protein_coding;description=iodothyronine deiodinase 1 [Source:HGNC Symbol%3BAcc:HGNC:2883];gene_id=ENSCHOG00000006517;logic_name=ensembl_projection;version=1
+GeneScaffold_7911: ID=ID=gene:ENSCHOG00000003717;Name=STK38L;biotype=protein_coding;description=serine/threonine kinase 38 like [Source:HGNC Symbol%3BAcc:HGNC:17848];gene_id=ENSCHOG00000003717;logic_name=ensembl_projection;version=1
+GeneScaffold_7911: ID=ID=gene:ENSCHOG00000003727;Name=BMAL2;biotype=protein_coding;description=aryl hydrocarbon receptor nuclear translocator like 2 [Source:HGNC Symbol%3BAcc:HGNC:18984];gene_id=ENSCHOG00000003727;logic_name=ensembl_projection;version=1
+GeneScaffold_7912: ID=ID=gene:ENSCHOG00000002618;Name=SACM1L;biotype=protein_coding;description=SAC1 like phosphatidylinositide phosphatase [Source:HGNC Symbol%3BAcc:HGNC:17059];gene_id=ENSCHOG00000002618;logic_name=ensembl_projection;version=1
+GeneScaffold_7912: ID=ID=gene:ENSCHOG00000002628;biotype=protein_coding;gene_id=ENSCHOG00000002628;logic_name=ensembl_projection;version=1
+GeneScaffold_7913: ID=ID=gene:ENSCHOG00000010312;biotype=protein_coding;gene_id=ENSCHOG00000010312;logic_name=ensembl_projection;version=1
+GeneScaffold_7914: ID=ID=gene:ENSCHOG00000011589;biotype=protein_coding;description=keratin associated protein 16-1 [Source:HGNC Symbol%3BAcc:HGNC:18916];gene_id=ENSCHOG00000011589;logic_name=ensembl_projection;version=1
+GeneScaffold_7915: ID=ID=gene:ENSCHOG00000006031;Name=PRCP;biotype=protein_coding;description=prolylcarboxypeptidase [Source:HGNC Symbol%3BAcc:HGNC:9344];gene_id=ENSCHOG00000006031;logic_name=ensembl_projection;version=1
+GeneScaffold_7916: ID=ID=gene:ENSCHOG00000003745;biotype=protein_coding;gene_id=ENSCHOG00000003745;logic_name=ensembl_projection;version=1
+GeneScaffold_7917: ID=ID=gene:ENSCHOG00000008003;biotype=protein_coding;gene_id=ENSCHOG00000008003;logic_name=ensembl_projection;version=1
+GeneScaffold_7918: ID=ID=gene:ENSCHOG00000013664;biotype=protein_coding;gene_id=ENSCHOG00000013664;logic_name=ensembl_projection;version=1
+GeneScaffold_7918: ID=ID=gene:ENSCHOG00000013672;biotype=protein_coding;gene_id=ENSCHOG00000013672;logic_name=ensembl_projection;version=1
+GeneScaffold_7919: ID=ID=gene:ENSCHOG00000003936;Name=SFT2D2;biotype=protein_coding;description=SFT2 domain containing 2 [Source:HGNC Symbol%3BAcc:HGNC:25140];gene_id=ENSCHOG00000003936;logic_name=ensembl_projection;version=1
+GeneScaffold_792: ID=ID=gene:ENSCHOG00000001160;Name=FAM76B;biotype=protein_coding;description=family with sequence similarity 76 member B [Source:HGNC Symbol%3BAcc:HGNC:28492];gene_id=ENSCHOG00000001160;logic_name=ensembl_projection;version=1
+GeneScaffold_792: ID=ID=gene:ENSCHOG00000001163;Name=CEP57;biotype=protein_coding;description=centrosomal protein 57 [Source:HGNC Symbol%3BAcc:HGNC:30794];gene_id=ENSCHOG00000001163;logic_name=ensembl_projection;version=1
+GeneScaffold_792: ID=ID=gene:ENSCHOG00000001165;biotype=protein_coding;gene_id=ENSCHOG00000001165;logic_name=ensembl_projection;version=1
+GeneScaffold_7920: ID=ID=gene:ENSCHOG00000008988;Name=CEP43;biotype=protein_coding;description=FGFR1 oncogene partner [Source:HGNC Symbol%3BAcc:HGNC:17012];gene_id=ENSCHOG00000008988;logic_name=ensembl_projection;version=1
+GeneScaffold_7921: ID=ID=gene:ENSCHOG00000005785;Name=SCAF8;biotype=protein_coding;description=SR-related CTD associated factor 8 [Source:HGNC Symbol%3BAcc:HGNC:20959];gene_id=ENSCHOG00000005785;logic_name=ensembl_projection;version=1
+GeneScaffold_7922: ID=ID=gene:ENSCHOG00000014000;biotype=protein_coding;gene_id=ENSCHOG00000014000;logic_name=ensembl_projection;version=1
+GeneScaffold_7923: ID=ID=gene:ENSCHOG00000012543;Name=DYNLT2B;biotype=protein_coding;description=dynein light chain Tctex-type 2B [Source:HGNC Symbol%3BAcc:HGNC:28482];gene_id=ENSCHOG00000012543;logic_name=ensembl_projection;version=1
+GeneScaffold_7924: ID=ID=gene:ENSCHOG00000004938;Name=CFAP206;biotype=protein_coding;description=cilia and flagella associated protein 206 [Source:HGNC Symbol%3BAcc:HGNC:21405];gene_id=ENSCHOG00000004938;logic_name=ensembl_projection;version=1
+GeneScaffold_7925: ID=ID=gene:ENSCHOG00000000246;Name=SUPT4H1;biotype=protein_coding;description=SPT4 homolog%2C DSIF elongation factor subunit [Source:HGNC Symbol%3BAcc:HGNC:11467];gene_id=ENSCHOG00000000246;logic_name=ensembl_projection;version=1
+GeneScaffold_7926: ID=ID=gene:ENSCHOG00000009941;Name=ARHGAP19;biotype=protein_coding;description=Rho GTPase activating protein 19 [Source:HGNC Symbol%3BAcc:HGNC:23724];gene_id=ENSCHOG00000009941;logic_name=ensembl_projection;version=1
+GeneScaffold_7927: ID=ID=gene:ENSCHOG00000005225;Name=SYNJ2BP;biotype=protein_coding;description=synaptojanin 2 binding protein [Source:HGNC Symbol%3BAcc:HGNC:18955];gene_id=ENSCHOG00000005225;logic_name=ensembl_projection;version=1
+GeneScaffold_7928: ID=ID=gene:ENSCHOG00000011385;biotype=protein_coding;gene_id=ENSCHOG00000011385;logic_name=ensembl_projection;version=1
+GeneScaffold_7928: ID=ID=gene:ENSCHOG00000011405;Name=APBB3;biotype=protein_coding;description=amyloid beta precursor protein binding family B member 3 [Source:HGNC Symbol%3BAcc:HGNC:20708];gene_id=ENSCHOG00000011405;logic_name=ensembl_projection;version=1
+GeneScaffold_7929: ID=ID=gene:ENSCHOG00000013773;biotype=protein_coding;gene_id=ENSCHOG00000013773;logic_name=ensembl_projection;version=1
+GeneScaffold_7929: ID=ID=gene:ENSCHOG00000013789;Name=SFMBT1;biotype=protein_coding;description=Scm like with four mbt domains 1 [Source:HGNC Symbol%3BAcc:HGNC:20255];gene_id=ENSCHOG00000013789;logic_name=ensembl_projection;version=1
+GeneScaffold_793: ID=ID=gene:ENSCHOG00000010592;Name=TYR;biotype=protein_coding;description=tyrosinase [Source:HGNC Symbol%3BAcc:HGNC:12442];gene_id=ENSCHOG00000010592;logic_name=ensembl_projection;version=1
+GeneScaffold_7930: ID=ID=gene:ENSCHOG00000000859;Name=PPP1CB;biotype=protein_coding;description=protein phosphatase 1 catalytic subunit beta [Source:HGNC Symbol%3BAcc:HGNC:9282];gene_id=ENSCHOG00000000859;logic_name=ensembl_projection;version=1
+GeneScaffold_7931: ID=ID=gene:ENSCHOG00000008080;Name=SHC3;biotype=protein_coding;description=SHC adaptor protein 3 [Source:HGNC Symbol%3BAcc:HGNC:18181];gene_id=ENSCHOG00000008080;logic_name=ensembl_projection;version=1
+GeneScaffold_7932: ID=ID=gene:ENSCHOG00000001668;biotype=protein_coding;gene_id=ENSCHOG00000001668;logic_name=ensembl_projection;version=1
+GeneScaffold_7932: ID=ID=gene:ENSCHOG00000001670;biotype=protein_coding;gene_id=ENSCHOG00000001670;logic_name=ensembl_projection;version=1
+GeneScaffold_7933: ID=ID=gene:ENSCHOG00000001840;Name=GTF2H4;biotype=protein_coding;description=general transcription factor IIH subunit 4 [Source:HGNC Symbol%3BAcc:HGNC:4658];gene_id=ENSCHOG00000001840;logic_name=ensembl_projection;version=1
+GeneScaffold_7934: ID=ID=gene:ENSCHOG00000010943;Name=DDX47;biotype=protein_coding;description=DEAD-box helicase 47 [Source:HGNC Symbol%3BAcc:HGNC:18682];gene_id=ENSCHOG00000010943;logic_name=ensembl_projection;version=1
+GeneScaffold_7935: ID=ID=gene:ENSCHOG00000011061;biotype=protein_coding;gene_id=ENSCHOG00000011061;logic_name=ensembl_projection;version=1
+GeneScaffold_7936: ID=ID=gene:ENSCHOG00000003114;Name=KLRK1;biotype=protein_coding;description=killer cell lectin like receptor K1 [Source:HGNC Symbol%3BAcc:HGNC:18788];gene_id=ENSCHOG00000003114;logic_name=ensembl_projection;version=1
+GeneScaffold_7937: ID=ID=gene:ENSCHOG00000002550;biotype=protein_coding;gene_id=ENSCHOG00000002550;logic_name=ensembl_projection;version=1
+GeneScaffold_7938: ID=ID=gene:ENSCHOG00000007329;Name=EMP2;biotype=protein_coding;description=epithelial membrane protein 2 [Source:HGNC Symbol%3BAcc:HGNC:3334];gene_id=ENSCHOG00000007329;logic_name=ensembl_projection;version=1
+GeneScaffold_7939: ID=ID=gene:ENSCHOG00000004880;biotype=protein_coding;gene_id=ENSCHOG00000004880;logic_name=ensembl_projection;version=1
+GeneScaffold_794: ID=ID=gene:ENSCHOG00000001722;biotype=protein_coding;gene_id=ENSCHOG00000001722;logic_name=ensembl_projection;version=1
+GeneScaffold_7940: ID=ID=gene:ENSCHOG00000012253;Name=ITGA1;biotype=protein_coding;description=integrin subunit alpha 1 [Source:HGNC Symbol%3BAcc:HGNC:6134];gene_id=ENSCHOG00000012253;logic_name=ensembl_projection;version=1
+GeneScaffold_7941: ID=ID=gene:ENSCHOG00000004820;biotype=protein_coding;gene_id=ENSCHOG00000004820;logic_name=ensembl_projection;version=1
+GeneScaffold_7942: ID=ID=gene:ENSCHOG00000009908;Name=NAXD;biotype=protein_coding;description=NAD(P)HX dehydratase [Source:HGNC Symbol%3BAcc:HGNC:25576];gene_id=ENSCHOG00000009908;logic_name=ensembl_projection;version=1
+GeneScaffold_7942: ID=ID=gene:ENSCHOG00000009929;biotype=protein_coding;gene_id=ENSCHOG00000009929;logic_name=ensembl_projection;version=1
+GeneScaffold_7943: ID=ID=gene:ENSCHOG00000013867;biotype=protein_coding;gene_id=ENSCHOG00000013867;logic_name=ensembl_projection;version=1
+GeneScaffold_7943: ID=ID=gene:ENSCHOG00000013882;biotype=protein_coding;gene_id=ENSCHOG00000013882;logic_name=ensembl_projection;version=1
+GeneScaffold_7944: ID=ID=gene:ENSCHOG00000002789;Name=FBXO16;biotype=protein_coding;description=F-box protein 16 [Source:HGNC Symbol%3BAcc:HGNC:13618];gene_id=ENSCHOG00000002789;logic_name=ensembl_projection;version=1
+GeneScaffold_7945: ID=ID=gene:ENSCHOG00000008987;biotype=protein_coding;gene_id=ENSCHOG00000008987;logic_name=ensembl_projection;version=1
+GeneScaffold_7946: ID=ID=gene:ENSCHOG00000013974;biotype=protein_coding;gene_id=ENSCHOG00000013974;logic_name=ensembl_projection;version=1
+GeneScaffold_7947: ID=ID=gene:ENSCHOG00000000601;Name=LYRM4;biotype=protein_coding;description=LYR motif containing 4 [Source:HGNC Symbol%3BAcc:HGNC:21365];gene_id=ENSCHOG00000000601;logic_name=ensembl_projection;version=1
+GeneScaffold_7948: ID=ID=gene:ENSCHOG00000013136;Name=MYCBP;biotype=protein_coding;description=MYC binding protein [Source:HGNC Symbol%3BAcc:HGNC:7554];gene_id=ENSCHOG00000013136;logic_name=ensembl_projection;version=1
+GeneScaffold_7948: ID=ID=gene:ENSCHOG00000013169;Name=RHBDL2;biotype=protein_coding;description=rhomboid like 2 [Source:HGNC Symbol%3BAcc:HGNC:16083];gene_id=ENSCHOG00000013169;logic_name=ensembl_projection;version=1
+GeneScaffold_7949: ID=ID=gene:ENSCHOG00000002297;biotype=protein_coding;gene_id=ENSCHOG00000002297;logic_name=ensembl_projection;version=1
+GeneScaffold_7949: ID=ID=gene:ENSCHOG00000002303;Name=TSGA13;biotype=protein_coding;description=testis specific 13 [Source:HGNC Symbol%3BAcc:HGNC:12369];gene_id=ENSCHOG00000002303;logic_name=ensembl_projection;version=1
+GeneScaffold_795: ID=ID=gene:ENSCHOG00000010785;biotype=protein_coding;gene_id=ENSCHOG00000010785;logic_name=ensembl_projection;version=1
+GeneScaffold_7951: ID=ID=gene:ENSCHOG00000003964;biotype=protein_coding;gene_id=ENSCHOG00000003964;logic_name=ensembl_projection;version=1
+GeneScaffold_7952: ID=ID=gene:ENSCHOG00000008691;Name=C17orf67;biotype=protein_coding;description=chromosome 17 open reading frame 67 [Source:HGNC Symbol%3BAcc:HGNC:27900];gene_id=ENSCHOG00000008691;logic_name=ensembl_projection;version=1
+GeneScaffold_7953: ID=ID=gene:ENSCHOG00000006420;biotype=protein_coding;gene_id=ENSCHOG00000006420;logic_name=ensembl_projection;version=1
+GeneScaffold_7954: ID=ID=gene:ENSCHOG00000010036;biotype=protein_coding;gene_id=ENSCHOG00000010036;logic_name=ensembl_projection;version=1
+GeneScaffold_7955: ID=ID=gene:ENSCHOG00000013137;biotype=protein_coding;gene_id=ENSCHOG00000013137;logic_name=ensembl_projection;version=1
+GeneScaffold_7956: ID=ID=gene:ENSCHOG00000013180;biotype=protein_coding;gene_id=ENSCHOG00000013180;logic_name=ensembl_projection;version=1
+GeneScaffold_7957: ID=ID=gene:ENSCHOG00000011565;Name=SLC14A1;biotype=protein_coding;description=solute carrier family 14 member 1 (Kidd blood group) [Source:HGNC Symbol%3BAcc:HGNC:10918];gene_id=ENSCHOG00000011565;logic_name=ensembl_projection;version=1
+GeneScaffold_7958: ID=ID=gene:ENSCHOG00000007383;biotype=protein_coding;gene_id=ENSCHOG00000007383;logic_name=ensembl_projection;version=1
+GeneScaffold_7959: ID=ID=gene:ENSCHOG00000007768;biotype=protein_coding;gene_id=ENSCHOG00000007768;logic_name=ensembl_projection;version=1
+GeneScaffold_796: ID=ID=gene:ENSCHOG00000010878;Name=CAPZB;biotype=protein_coding;description=capping actin protein of muscle Z-line subunit beta [Source:HGNC Symbol%3BAcc:HGNC:1491];gene_id=ENSCHOG00000010878;logic_name=ensembl_projection;version=1
+GeneScaffold_7960: ID=ID=gene:ENSCHOG00000000492;biotype=protein_coding;gene_id=ENSCHOG00000000492;logic_name=ensembl_projection;version=1
+GeneScaffold_7961: ID=ID=gene:ENSCHOG00000000387;biotype=protein_coding;gene_id=ENSCHOG00000000387;logic_name=ensembl_projection;version=1
+GeneScaffold_7962: ID=ID=gene:ENSCHOG00000004348;Name=MEI4;biotype=protein_coding;description=meiotic double-stranded break formation protein 4 [Source:HGNC Symbol%3BAcc:HGNC:43638];gene_id=ENSCHOG00000004348;logic_name=ensembl_projection;version=1
+GeneScaffold_7963: ID=ID=gene:ENSCHOG00000010974;biotype=protein_coding;gene_id=ENSCHOG00000010974;logic_name=ensembl_projection;version=1
+GeneScaffold_7964: ID=ID=gene:ENSCHOG00000000515;biotype=protein_coding;gene_id=ENSCHOG00000000515;logic_name=ensembl_projection;version=1
+GeneScaffold_7965: ID=ID=gene:ENSCHOG00000001099;biotype=protein_coding;gene_id=ENSCHOG00000001099;logic_name=ensembl_projection;version=1
+GeneScaffold_7966: ID=ID=gene:ENSCHOG00000009151;Name=SPMAP1;biotype=protein_coding;description=chromosome 17 open reading frame 98 [Source:HGNC Symbol%3BAcc:HGNC:34492];gene_id=ENSCHOG00000009151;logic_name=ensembl_projection;version=1
+GeneScaffold_7966: ID=ID=gene:ENSCHOG00000009153;Name=RPL23;biotype=protein_coding;description=ribosomal protein L23 [Source:HGNC Symbol%3BAcc:HGNC:10316];gene_id=ENSCHOG00000009153;logic_name=ensembl_projection;version=1
+GeneScaffold_7967: ID=ID=gene:ENSCHOG00000004507;biotype=protein_coding;gene_id=ENSCHOG00000004507;logic_name=ensembl_projection;version=1
+GeneScaffold_7968: ID=ID=gene:ENSCHOG00000004670;biotype=protein_coding;gene_id=ENSCHOG00000004670;logic_name=ensembl_projection;version=1
+GeneScaffold_7969: ID=ID=gene:ENSCHOG00000011851;biotype=protein_coding;gene_id=ENSCHOG00000011851;logic_name=ensembl_projection;version=1
+GeneScaffold_797: ID=ID=gene:ENSCHOG00000004159;Name=NAALAD2;biotype=protein_coding;description=N-acetylated alpha-linked acidic dipeptidase 2 [Source:HGNC Symbol%3BAcc:HGNC:14526];gene_id=ENSCHOG00000004159;logic_name=ensembl_projection;version=1
+GeneScaffold_7970: ID=ID=gene:ENSCHOG00000009986;Name=EML6;biotype=protein_coding;description=EMAP like 6 [Source:HGNC Symbol%3BAcc:HGNC:35412];gene_id=ENSCHOG00000009986;logic_name=ensembl_projection;version=1
+GeneScaffold_7971: ID=ID=gene:ENSCHOG00000002276;biotype=protein_coding;gene_id=ENSCHOG00000002276;logic_name=ensembl_projection;version=1
+GeneScaffold_7972: ID=ID=gene:ENSCHOG00000001120;biotype=protein_coding;gene_id=ENSCHOG00000001120;logic_name=ensembl_projection;version=1
+GeneScaffold_7972: ID=ID=gene:ENSCHOG00000001123;Name=RHOT1;biotype=protein_coding;description=ras homolog family member T1 [Source:HGNC Symbol%3BAcc:HGNC:21168];gene_id=ENSCHOG00000001123;logic_name=ensembl_projection;version=1
+GeneScaffold_7973: ID=ID=gene:ENSCHOG00000001564;biotype=protein_coding;gene_id=ENSCHOG00000001564;logic_name=ensembl_projection;version=1
+GeneScaffold_7974: ID=ID=gene:ENSCHOG00000012797;biotype=protein_coding;gene_id=ENSCHOG00000012797;logic_name=ensembl_projection;version=1
+GeneScaffold_7974: ID=ID=gene:ENSCHOG00000012822;biotype=protein_coding;gene_id=ENSCHOG00000012822;logic_name=ensembl_projection;version=1
+GeneScaffold_7974: ID=ID=gene:ENSCHOG00000012845;Name=ZBTB3;biotype=protein_coding;description=zinc finger and BTB domain containing 3 [Source:HGNC Symbol%3BAcc:HGNC:22918];gene_id=ENSCHOG00000012845;logic_name=ensembl_projection;version=1
+GeneScaffold_7975: ID=ID=gene:ENSCHOG00000009928;Name=POLR2G;biotype=protein_coding;description=RNA polymerase II subunit G [Source:HGNC Symbol%3BAcc:HGNC:9194];gene_id=ENSCHOG00000009928;logic_name=ensembl_projection;version=1
+GeneScaffold_7976: ID=ID=gene:ENSCHOG00000008371;Name=FER1L6;biotype=protein_coding;description=fer-1 like family member 6 [Source:HGNC Symbol%3BAcc:HGNC:28065];gene_id=ENSCHOG00000008371;logic_name=ensembl_projection;version=1
+GeneScaffold_7977: ID=ID=gene:ENSCHOG00000011548;biotype=protein_coding;gene_id=ENSCHOG00000011548;logic_name=ensembl_projection;version=1
+GeneScaffold_7978: ID=ID=gene:ENSCHOG00000008598;biotype=protein_coding;gene_id=ENSCHOG00000008598;logic_name=ensembl_projection;version=1
+GeneScaffold_7979: ID=ID=gene:ENSCHOG00000007242;biotype=protein_coding;gene_id=ENSCHOG00000007242;logic_name=ensembl_projection;version=1
+GeneScaffold_798: ID=ID=gene:ENSCHOG00000013893;Name=JADE1;biotype=protein_coding;description=jade family PHD finger 1 [Source:HGNC Symbol%3BAcc:HGNC:30027];gene_id=ENSCHOG00000013893;logic_name=ensembl_projection;version=1
+GeneScaffold_7980: ID=ID=gene:ENSCHOG00000003984;biotype=protein_coding;gene_id=ENSCHOG00000003984;logic_name=ensembl_projection;version=1
+GeneScaffold_7981: ID=ID=gene:ENSCHOG00000006178;biotype=protein_coding;gene_id=ENSCHOG00000006178;logic_name=ensembl_projection;version=1
+GeneScaffold_7982: ID=ID=gene:ENSCHOG00000012329;Name=ZSWIM7;biotype=protein_coding;description=zinc finger SWIM-type containing 7 [Source:HGNC Symbol%3BAcc:HGNC:26993];gene_id=ENSCHOG00000012329;logic_name=ensembl_projection;version=1
+GeneScaffold_7982: ID=ID=gene:ENSCHOG00000012333;biotype=protein_coding;description=tetratricopeptide repeat domain 19 [Source:HGNC Symbol%3BAcc:HGNC:26006];gene_id=ENSCHOG00000012333;logic_name=ensembl_projection;version=1
+GeneScaffold_7983: ID=ID=gene:ENSCHOG00000006657;biotype=protein_coding;gene_id=ENSCHOG00000006657;logic_name=ensembl_projection;version=1
+GeneScaffold_7984: ID=ID=gene:ENSCHOG00000002907;biotype=protein_coding;description=leucine rich repeat containing 69 [Source:HGNC Symbol%3BAcc:HGNC:34303];gene_id=ENSCHOG00000002907;logic_name=ensembl_projection;version=1
+GeneScaffold_7985: ID=ID=gene:ENSCHOG00000003863;Name=MRPS6;biotype=protein_coding;description=mitochondrial ribosomal protein S6 [Source:HGNC Symbol%3BAcc:HGNC:14051];gene_id=ENSCHOG00000003863;logic_name=ensembl_projection;version=1
+GeneScaffold_7986: ID=ID=gene:ENSCHOG00000003402;Name=CRPPA;biotype=protein_coding;description=CDP-L-ribitol pyrophosphorylase A [Source:HGNC Symbol%3BAcc:HGNC:37276];gene_id=ENSCHOG00000003402;logic_name=ensembl_projection;version=1
+GeneScaffold_7987: ID=ID=gene:ENSCHOG00000011143;Name=PARG;biotype=protein_coding;description=poly(ADP-ribose) glycohydrolase [Source:HGNC Symbol%3BAcc:HGNC:8605];gene_id=ENSCHOG00000011143;logic_name=ensembl_projection;version=1
+GeneScaffold_7988: ID=ID=gene:ENSCHOG00000007251;biotype=protein_coding;gene_id=ENSCHOG00000007251;logic_name=ensembl_projection;version=1
+GeneScaffold_7989: ID=ID=gene:ENSCHOG00000013784;Name=COL28A1;biotype=protein_coding;description=collagen type XXVIII alpha 1 chain [Source:HGNC Symbol%3BAcc:HGNC:22442];gene_id=ENSCHOG00000013784;logic_name=ensembl_projection;version=1
+GeneScaffold_799: ID=ID=gene:ENSCHOG00000004436;biotype=protein_coding;gene_id=ENSCHOG00000004436;logic_name=ensembl_projection;version=1
+GeneScaffold_7990: ID=ID=gene:ENSCHOG00000012985;biotype=protein_coding;gene_id=ENSCHOG00000012985;logic_name=ensembl_projection;version=1
+GeneScaffold_7991: ID=ID=gene:ENSCHOG00000011754;Name=UBXN2B;biotype=protein_coding;description=UBX domain protein 2B [Source:HGNC Symbol%3BAcc:HGNC:27035];gene_id=ENSCHOG00000011754;logic_name=ensembl_projection;version=1
