@@ -1,5 +1,5 @@
 
-#### Sequence Ontology: Exon
+### Sequence Ontology: Exon
 
 ####### Definition
 An **exon** is a region of a gene that is included in the mature RNA transcript after introns have been removed by RNA splicing.
