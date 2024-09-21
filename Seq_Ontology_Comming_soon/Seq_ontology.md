@@ -1,10 +1,10 @@
 
  
 
-###  "Exon" in the Sequence Ontology
+####  "Exon" in the Sequence Ontology
 
 
-#### Definition of "Exon" 
+##### Definition of "Exon" 
 
 - **Term**: Exon
 - **SO Accession**: SO:0000147
