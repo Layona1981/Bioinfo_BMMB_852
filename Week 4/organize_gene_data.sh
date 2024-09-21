@@ -13,13 +13,13 @@ fi
 # Function to parse and format each line
 parse_line() {
     local line=$1
-    local id=$(echo "$line" | grep -oP 'ID=gene:[^;]+')
-    local name=$(echo "$line" | grep -oP 'Name=[^;]+')
-    local biotype=$(echo "$line" | grep -oP 'biotype=[^;]+')
-    local description=$(echo "$line" | grep -oP 'description=[^;]+')
-    local gene_id=$(echo "$line" | grep -oP 'gene_id=[^;]+')
-    local logic_name=$(echo "$line" | grep -oP 'logic_name=[^;]+')
-    local version=$(echo "$line" | grep -oP 'version=[^;]+')
+    local id=$(echo "$line" | awk -F';' '{for(i=1;i<=NF;i++) if($i ~ /ID=gene:/) print $i}')
+    local name=$(echo "$line" | awk -F';' '{for(i=1;i<=NF;i++) if($i ~ /Name=/) print $i}')
+    local biotype=$(echo "$line" | awk -F';' '{for(i=1;i<=NF;i++) if($i ~ /biotype=/) print $i}')
+    local description=$(echo "$line" | awk -F';' '{for(i=1;i<=NF;i++) if($i ~ /description=/) print $i}')
+    local gene_id=$(echo "$line" | awk -F';' '{for(i=1;i<=NF;i++) if($i ~ /gene_id=/) print $i}')
+    local logic_name=$(echo "$line" | awk -F';' '{for(i=1;i<=NF;i++) if($i ~ /logic_name=/) print $i}')
+    local version=$(echo "$line" | awk -F';' '{for(i=1;i<=NF;i++) if($i ~ /version=/) print $i}')
     local scaffold=$(echo "$line" | awk '{print $1}')
     local start=$(echo "$line" | awk '{print $4}')
     local end=$(echo "$line" | awk '{print $5}')
