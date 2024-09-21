@@ -1,4 +1,4 @@
-ocessing gene data from organize_gff_data.gff3...
+## processing gene data from organize_gff_data.gff3...
 Scaffold: GeneScaffold_1
 Gene ID: ENSCHOG00000007933
 Gene Name: 
@@ -8,7 +8,7 @@ Start: 403
 End: 2242
 Strand: -
 --------------------------------
-Scaffold: GeneScaffold_10
+### Scaffold: GeneScaffold_10
 Gene ID: ENSCHOG00000006326
 Gene Name: CFTR
 Description: CF transmembrane conductance regulator [Source:HGNC Symbol%3BAcc:HGNC:1884]
