@@ -1,4 +1,4 @@
-
+### Processing gene data from organize_gff_data.gff3...
 
 ###### Scaffold: GeneScaffold_1
 ###### Gene ID: ENSCHOG00000007933
