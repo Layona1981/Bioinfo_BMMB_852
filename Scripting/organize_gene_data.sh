@@ -26,13 +26,16 @@ parse_line() {
     local version=$(echo "$line" | grep -o 'version=[^;]*' | cut -d'=' -f2)
 
     # Print the parsed data in a formatted way
-    echo -e "Scaffold: $scaffold\nStart: $start\nEnd: $end\nStrand: $strand\nID: $id\nName: $name\nBiotype: $biotype\nDescription: $description\nGene ID: $gene_id\nLogic Name: $logic_name\nVersion: $version\n"
+    echo -e "Scaffold: $scaffold\nStart: $start\nEnd: $end\nStrand: $strand\nID: $id\nName: $name\nBiotype: $biotype\nDescription: $description\nGene ID: $gene_id\nLogic Name: $logic_name\nVersion: $version\n" >> "$output_file"
 }
+
+# Initialize the output file
+echo -e "Organized Gene Intervals Report\n" > "$output_file"
 
 # Read the input file line by line and parse each line
 while IFS= read -r line; do
     if [[ $line == *"ID=gene:"* ]]; then
-        parse_line "$line" >> "$output_file"
+        parse_line "$line"
     fi
 done < "$input_file"
 
