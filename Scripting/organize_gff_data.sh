@@ -40,3 +40,84 @@ while IFS= read -r line; do
 done < "$input_file"
 
 echo "Data organized and saved to $output_file"
+
+#!/bin/bash
+# This script prepends ###### to each line in a Markdown file
+
+input_file="Final_organized_gff_data.md"  # Your actual file name
+output_file="updated_Final_organized_gff_data.md"  # Output file name
+
+# Check if the input file exists
+if [[ ! -f "$input_file" ]]; then
+  echo "Error: Input file '$input_file' not found."
+  exit 1
+fi
+
+# Clear the output file if it exists
+> "$output_file"
+
+# Read each line from the input file and prepend ######
+while IFS= read -r line; do
+  echo "###### $line" >> "$output_file"
+done < "$input_file"
+
+echo "Processing complete. Updated file saved as '$output_file'."
+
+#!/bin/bash
+# This script displays the contents of a Markdown file, coloring specific keywords
+
+# Define color codes
+CYAN='\033[0;36m'  # For gene names
+YELLOW='\033[0;33m'  # For IDs
+GREEN='\033[0;32m'  # For biotypes
+NC='\033[0m'  # No Color
+
+input_file="Final_organized_gff_data.md"  # Your actual file name
+
+# Check if the input file exists
+if [[ ! -f "$input_file" ]]; then
+  echo -e "${CYAN}Error: Input file '$input_file' not found.${NC}"
+  exit 1
+fi
+
+# Function to colorize text
+colorize() {
+  local text="$1"
+  text=$(echo "$text" | sed -E "s/(gene name)/${CYAN}\1${NC}/g")
+  text=$(echo "$text" | sed -E "s/(ID)/${YELLOW}\1${NC}/g")
+  text=$(echo "$text" | sed -E "s/(biotype)/${GREEN}\1${NC}/g")
+  echo -e "$text"
+}
+
+# Display the contents of the file with colored keywords
+while IFS= read -r line; do
+  colorize "$line"
+done < "$input_file"
+
+#!/bin/bash
+# This script displays the contents of a Markdown file with alternating line colors
+
+# Define color codes
+CYAN='\033[0;36m'
+YELLOW='\033[0;33m'
+NC='\033[0m' # No Color
+
+input_file="Final_organized_gff_data.md"  # Your actual file name
+
+# Check if the input file exists
+if [[ ! -f "$input_file" ]]; then
+  echo -e "${CYAN}Error: Input file '$input_file' not found.${NC}"
+  exit 1
+fi
+
+# Display the contents of the file with alternating colors
+line_number=0
+while IFS= read -r line; do
+  if (( line_number % 2 == 0 )); then
+    echo -e "${CYAN}$line${NC}"
+  else
+    echo -e "${YELLOW}$line${NC}"
+  fi
+  ((line_number++))
+done < "$input_file"
+
