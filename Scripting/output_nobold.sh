@@ -11,3 +11,4 @@ with open('output_nobold.sh', 'w') as file:
 
 print("All occurrences of '######' have been removed from 'output_nobold.sh'.")
 
+
