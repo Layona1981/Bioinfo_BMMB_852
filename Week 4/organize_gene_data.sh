@@ -25,12 +25,15 @@ parse_line() {
     local end=$(echo "$line" | awk '{print $5}')
     local strand=$(echo "$line" | awk '{print $7}')
 
+    # Print the parsed data in a formatted way
     echo -e "Scaffold: $scaffold\nStart: $start\nEnd: $end\nStrand: $strand\n$id\n$name\n$biotype\n$description\n$gene_id\n$logic_name\n$version\n"
 }
 
 # Read the input file line by line and parse each line
 while IFS= read -r line; do
-    parse_line "$line" >> "$output_file"
+    if [[ $line == *"ID=gene:"* ]]; then
+        parse_line "$line" >> "$output_file"
+    fi
 done < "$input_file"
 
 echo "Data organized and saved to $output_file"
