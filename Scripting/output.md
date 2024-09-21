@@ -1,32 +1,32 @@
 | Attribute     | Value |
 |---------------|-------|
-| ###### ocessing gene data from organize_gff_data.gff3... | ###### ocessing gene data from organize_gff_data.gff3... |
-| ###### Scaffold | GeneScaffold_1 |
-| ###### Gene ID | ENSCHOG00000007933 |
-| ###### Gene Name |  |
-| ###### Description |  |
-| ###### Biotype | protein_coding |
-| ###### Start | 403 |
-| ###### End | 2242 |
-| ###### Strand | - |
+|  Processing gene data from organize_gff_data.gff3... | ###### Processing gene data from organize_gff_data.gff3... |
+|  Scaffold | GeneScaffold_1 |
+|  Gene ID | ENSCHOG00000007933 |
+|  Gene Name |  |
+|  Description |  |
+|  Biotype | protein_coding |
+|  Start | 403 |
+|  End | 2242 |
+|  Strand | - |
+|  -------------------------------- | ###### -------------------------------- |
+| Scaffold | GeneScaffold_10 |
+|  Gene ID | ENSCHOG00000006326 |
+|  Gene Name | CFTR |
+|  Description | CF transmembrane conductance regulator [Source:HGNC Symbol%3BAcc:HGNC:1884] |
+|  Biotype | protein_coding |
+|  Start | 90 |
+|  End | 140795 |
+|  Strand | + |
 | ###### -------------------------------- | ###### -------------------------------- |
-| ###### Scaffold | GeneScaffold_10 |
-| ###### Gene ID | ENSCHOG00000006326 |
-| ###### Gene Name | CFTR |
-| ###### Description | CF transmembrane conductance regulator [Source:HGNC Symbol%3BAcc:HGNC:1884] |
-| ###### Biotype | protein_coding |
-| ###### Start | 90 |
-| ###### End | 140795 |
-| ###### Strand | + |
-| ###### -------------------------------- | ###### -------------------------------- |
-| ###### Scaffold | GeneScaffold_100 |
-| ###### Gene ID | ENSCHOG00000007557 |
-| ###### Gene Name | CDKL5 |
-| ###### Description | cyclin dependent kinase like 5 [Source:HGNC Symbol%3BAcc:HGNC:11411] |
-| ###### Biotype | protein_coding |
-| ###### Start | 3790 |
-| ###### End | 41762 |
-| ###### Strand | + |
+|  Scaffold | GeneScaffold_100 |
+|  Gene ID | ENSCHOG00000007557 |
+|  Gene Name | CDKL5 |
+|  Description | cyclin dependent kinase like 5 [Source:HGNC Symbol%3BAcc:HGNC:11411] |
+|  Biotype | protein_coding |
+|  Start | 3790 |
+|  End | 41762 |
+|  Strand | + |
 | ###### -------------------------------- | ###### -------------------------------- |
 | ###### Scaffold | GeneScaffold_1000 |
 | ###### Gene ID | ENSCHOG00000003694 |
