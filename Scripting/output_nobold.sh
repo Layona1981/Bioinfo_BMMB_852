@@ -9,6 +9,6 @@ content = content.replace('######', '')
 with open('output_nobold.sh', 'w') as file:
     file.write(content)
 
-print("All occurrences of '######' have been removed from 'output_nobold.sh'.")
+print("All occurrences of '######' have been removed from 'output_nobold.sh'.") 
 
 
