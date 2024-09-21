@@ -1,6 +1,6 @@
 | Attribute     | Value |
 |---------------|-------|
-| ###### ocessing gene data from organize_gff_data.gff3... | ###### ocessing gene data from organize_gff_data.gff3... |
+| Processing gene data from organize_gff_data.gff3... | Processing gene data from organize_gff_data.gff3... |
 | ###### Scaffold | GeneScaffold_1 |
 | ###### Gene ID | ENSCHOG00000007933 |
 | ###### Gene Name |  |
