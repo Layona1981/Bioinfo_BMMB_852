@@ -9,7 +9,7 @@
 |  Start | 403 |
 |  End | 2242 |
 |  Strand | - |
-|  -------------------------------- | ###### -------------------------------- |
+|  -------------------------------- |   -------------------------------- |
 | Scaffold | GeneScaffold_10 |
 |  Gene ID | ENSCHOG00000006326 |
 |  Gene Name | CFTR |
@@ -18,7 +18,7 @@
 |  Start | 90 |
 |  End | 140795 |
 |  Strand | + |
-| ###### -------------------------------- | ###### -------------------------------- |
+|  -------------------------------- |   -------------------------------- |
 |  Scaffold | GeneScaffold_100 |
 |  Gene ID | ENSCHOG00000007557 |
 |  Gene Name | CDKL5 |
@@ -27,105 +27,105 @@
 |  Start | 3790 |
 |  End | 41762 |
 |  Strand | + |
-| ###### -------------------------------- | ###### -------------------------------- |
-| ###### Scaffold | GeneScaffold_1000 |
-| ###### Gene ID | ENSCHOG00000003694 |
-| ###### Gene Name |  |
-| ###### Description |  |
-| ###### Biotype | protein_coding |
-| ###### Start | 210 |
-| ###### End | 23732 |
-| ###### Strand | - |
-| ###### -------------------------------- | ###### -------------------------------- |
-| ###### Scaffold | GeneScaffold_1000 |
-| ###### Gene ID | ENSCHOG00000003701 |
-| ###### Gene Name |  |
-| ###### Description | distal membrane arm assembly complex 2 like [Source:HGNC Symbol%3BAcc:HGNC:18799] |
-| ###### Biotype | protein_coding |
-| ###### Start | 29996 |
-| ###### End | 43356 |
-| ###### Strand | + |
-| ###### -------------------------------- | ###### -------------------------------- |
-| ###### Scaffold | GeneScaffold_1001 |
-| ###### Gene ID | ENSCHOG00000013325 |
-| ###### Gene Name | TXNDC16 |
-| ###### Description | thioredoxin domain containing 16 [Source:HGNC Symbol%3BAcc:HGNC:19965] |
-| ###### Biotype | protein_coding |
-| ###### Start | 624 |
-| ###### End | 46343 |
-| ###### Strand | - |
-| ###### -------------------------------- | ###### -------------------------------- |
-| ###### Scaffold | GeneScaffold_1002 |
-| ###### Gene ID | ENSCHOG00000002154 |
-| ###### Gene Name | RTRAF |
-| ###### Description | RNA transcription%2C translation and transport factor [Source:HGNC Symbol%3BAcc:HGNC:23169] |
-| ###### Biotype | protein_coding |
-| ###### Start | 7940 |
-| ###### End | 19663 |
-| ###### Strand | + |
-| ###### -------------------------------- | ###### -------------------------------- |
-| ###### Scaffold | GeneScaffold_1002 |
-| ###### Gene ID | ENSCHOG00000002159 |
-| ###### Gene Name | NID2 |
-| ###### Description | nidogen 2 [Source:HGNC Symbol%3BAcc:HGNC:13389] |
-| ###### Biotype | protein_coding |
-| ###### Start | 20658 |
-| ###### End | 75893 |
-| ###### Strand | - |
-| ###### -------------------------------- | ###### -------------------------------- |
-| ###### Scaffold | GeneScaffold_1003 |
-| ###### Gene ID | ENSCHOG00000001476 |
-| ###### Gene Name | SF3B2 |
-| ###### Description | splicing factor 3b subunit 2 [Source:HGNC Symbol%3BAcc:HGNC:10769] |
-| ###### Biotype | protein_coding |
-| ###### Start | 4 |
-| ###### End | 14249 |
-| ###### Strand | + |
-| ###### -------------------------------- | ###### -------------------------------- |
-| ###### Scaffold | GeneScaffold_1004 |
-| ###### Gene ID | ENSCHOG00000000841 |
-| ###### Gene Name |  |
-| ###### Description |  |
-| ###### Biotype | protein_coding |
-| ###### Start | 3704 |
-| ###### End | 26505 |
-| ###### Strand | + |
-| ###### -------------------------------- | ###### -------------------------------- |
-| ###### Scaffold | GeneScaffold_1005 |
-| ###### Gene ID | ENSCHOG00000011719 |
-| ###### Gene Name |  |
-| ###### Description |  |
-| ###### Biotype | protein_coding |
-| ###### Start | 568 |
-| ###### End | 25957 |
-| ###### Strand | + |
-| ###### -------------------------------- | ###### -------------------------------- |
-| ###### Scaffold | GeneScaffold_1005 |
-| ###### Gene ID | ENSCHOG00000011749 |
-| ###### Gene Name | YARS2 |
-| ###### Description | tyrosyl-tRNA synthetase 2 [Source:HGNC Symbol%3BAcc:HGNC:24249] |
-| ###### Biotype | protein_coding |
-| ###### Start | 29142 |
-| ###### End | 39042 |
-| ###### Strand | - |
-| ###### -------------------------------- | ###### -------------------------------- |
-| ###### Scaffold | GeneScaffold_1006 |
-| ###### Gene ID | ENSCHOG00000006667 |
-| ###### Gene Name |  |
-| ###### Description |  |
-| ###### Biotype | protein_coding |
-| ###### Start | 3853 |
-| ###### End | 23753 |
-| ###### Strand | - |
-| ###### -------------------------------- | ###### -------------------------------- |
-| ###### Scaffold | GeneScaffold_1007 |
-| ###### Gene ID | ENSCHOG00000008709 |
-| ###### Gene Name |  |
-| ###### Description |  |
-| ###### Biotype | protein_coding |
-| ###### Start | 111 |
-| ###### End | 20580 |
-| ###### Strand | + |
+|   -------------------------------- |   -------------------------------- |
+|   Scaffold | GeneScaffold_1000 |
+|   Gene ID | ENSCHOG00000003694 |
+|   Gene Name |  |
+|   Description |  |
+|   Biotype | protein_coding |
+|   Start | 210 |
+|   End | 23732 |
+|   Strand | - |
+|   -------------------------------- |   -------------------------------- |
+|   Scaffold | GeneScaffold_1000 |
+|   Gene ID | ENSCHOG00000003701 |
+|   Gene Name |  |
+|   Description | distal membrane arm assembly complex 2 like [Source:HGNC Symbol%3BAcc:HGNC:18799] |
+|   Biotype | protein_coding |
+|   Start | 29996 |
+|   End | 43356 |
+|   Strand | + |
+|   -------------------------------- |   -------------------------------- |
+|   Scaffold | GeneScaffold_1001 |
+|   Gene ID | ENSCHOG00000013325 |
+|   Gene Name | TXNDC16 |
+|   Description | thioredoxin domain containing 16 [Source:HGNC Symbol%3BAcc:HGNC:19965] |
+|   Biotype | protein_coding |
+|   Start | 624 |
+|   End | 46343 |
+|   Strand | - |
+|   -------------------------------- |   -------------------------------- |
+|   Scaffold | GeneScaffold_1002 |
+|   Gene ID | ENSCHOG00000002154 |
+|   Gene Name | RTRAF |
+|   Description | RNA transcription%2C translation and transport factor [Source:HGNC Symbol%3BAcc:HGNC:23169] |
+|   Biotype | protein_coding |
+|   Start | 7940 |
+|   End | 19663 |
+|   Strand | + |
+|   -------------------------------- |   -------------------------------- |
+|   Scaffold | GeneScaffold_1002 |
+|   Gene ID | ENSCHOG00000002159 |
+|   Gene Name | NID2 |
+|   Description | nidogen 2 [Source:HGNC Symbol%3BAcc:HGNC:13389] |
+|   Biotype | protein_coding |
+|   Start | 20658 |
+|   End | 75893 |
+|   Strand | - |
+|   -------------------------------- |   -------------------------------- |
+|   Scaffold | GeneScaffold_1003 |
+|   Gene ID | ENSCHOG00000001476 |
+|   Gene Name | SF3B2 |
+|   Description | splicing factor 3b subunit 2 [Source:HGNC Symbol%3BAcc:HGNC:10769] |
+|   Biotype | protein_coding |
+|   Start | 4 |
+|   End | 14249 |
+|   Strand | + |
+|   -------------------------------- |   -------------------------------- |
+|   Scaffold | GeneScaffold_1004 |
+|   Gene ID | ENSCHOG00000000841 |
+|   Gene Name |  |
+|   Description |  |
+|   Biotype | protein_coding |
+|   Start | 3704 |
+|   End | 26505 |
+|   Strand | + |
+|   -------------------------------- |   -------------------------------- |
+|   Scaffold | GeneScaffold_1005 |
+|   Gene ID | ENSCHOG00000011719 |
+|   Gene Name |  |
+|   Description |  |
+|   Biotype | protein_coding |
+|   Start | 568 |
+|   End | 25957 |
+|   Strand | + |
+|   -------------------------------- |   -------------------------------- |
+|   Scaffold | GeneScaffold_1005 |
+|   Gene ID | ENSCHOG00000011749 |
+|   Gene Name | YARS2 |
+|   Description | tyrosyl-tRNA synthetase 2 [Source:HGNC Symbol%3BAcc:HGNC:24249] |
+|   Biotype | protein_coding |
+|   Start | 29142 |
+|   End | 39042 |
+|   Strand | - |
+|   -------------------------------- |   -------------------------------- |
+|   Scaffold | GeneScaffold_1006 |
+|   Gene ID | ENSCHOG00000006667 |
+|   Gene Name |  |
+|   Description |  |
+|   Biotype | protein_coding |
+|   Start | 3853 |
+|   End | 23753 |
+|   Strand | - |
+|   -------------------------------- |   -------------------------------- |
+|   Scaffold | GeneScaffold_1007 |
+|   Gene ID | ENSCHOG00000008709 |
+|   Gene Name |  |
+|   Description |  |
+|   Biotype | protein_coding |
+|   Start | 111 |
+|   End | 20580 |
+|   Strand | + |
 | ###### -------------------------------- | ###### -------------------------------- |
 | ###### Scaffold | GeneScaffold_1008 |
 | ###### Gene ID | ENSCHOG00000002994 |
