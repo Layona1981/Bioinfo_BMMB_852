@@ -1,5 +1,5 @@
 
-~~~ ##### **Category:** CC~~~
+#### **Category:** CC
 
 **GO Term:** nucleus (GO:0005634)
 
