@@ -1,5 +1,4 @@
 
-# GO Term Fetcher
 
 
 ```python
