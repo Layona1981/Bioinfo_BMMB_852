@@ -1,7 +1,6 @@
 
 # GO Term Fetcher
 
-This script fetches GO term information from the QuickGO API.
 
 ```python
 import requests
