@@ -1,9 +1,9 @@
 
-##### **Category:** CC
+~~~ ##### **Category:** CC~~~
 
 **GO Term:** nucleus (GO:0005634)
 
-``` **Definition:** A membrane-bounded organelle of eukaryotic cells in which chromosomes are housed and replicated. In most cells, the nucleus contains all of the cell's chromosomes except the organellar chromosomes, and is the site of RNA synthesis and processing. In some species, or in specialized cell types, RNA metabolism or DNA replication may be absent.```
+ **Definition:** A membrane-bounded organelle of eukaryotic cells in which chromosomes are housed and replicated. In most cells, the nucleus contains all of the cell's chromosomes except the organellar chromosomes, and is the site of RNA synthesis and processing. In some species, or in specialized cell types, RNA metabolism or DNA replication may be absent.
 
 #### **Parent Terms:** intracellular membrane-bounded organelle
 
