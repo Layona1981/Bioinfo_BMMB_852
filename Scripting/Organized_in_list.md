@@ -9,6 +9,7 @@
 ###### End: 2242 ````
 
 ###### --------------------------------
+````
 ###### Scaffold: GeneScaffold_10
 ###### Gene ID: ENSCHOG00000006326
 ###### Gene Name: CFTR
@@ -16,7 +17,8 @@
 ###### Biotype: protein_coding
 ###### Start: 90
 ###### End: 140795
-###### Strand: +
+###### Strand: + 
+```` 
 ###### --------------------------------
 ###### Scaffold: GeneScaffold_100
 ###### Gene ID: ENSCHOG00000007557
