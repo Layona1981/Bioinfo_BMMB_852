@@ -18,6 +18,26 @@
 
 ```` 301420 CDS ````
 
+```` 309995 exon ````
+
+```` 301420 CDS ````
+
+```` 133065 biological_region ```` 
+
+```` 44975 region ````
+
+```` 27007 mRNA ````
+
+```` 18324 five_prime_UTR ```` 
+
+```` 17271 gene ```` 
+
+```` 14159 three_prime_UTR ````
+
+```` 754 ncRNA_gene ````
+
+```` 433 lnc_RNA ````
+
 
 
 
