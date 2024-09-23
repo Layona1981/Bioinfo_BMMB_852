@@ -1,15 +1,19 @@
 ## Commands Used
 
 **To  download the file**  
+ ```bash
+  curl -O https://ftp.ensembl.org/pub/current_gff3/accipiter_nisus/Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3.gz
+  ```
 
-   ```bash
-   curl -O https://ftp.ensembl.org/pub/current_gff3/accipiter_nisus/Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3.gz```` 
  
  **To extract the GFF file** 
 
-  ```` gunzip Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3.gz ````
+  ````bash
+  gunzip Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3.gz ````
 
-  ```` grep -v '^#' Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3 | wc -l ````
+```bash
+grep -v '^#' Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3 | wc -l
+```
  
 
  ```` grep -v '^#' Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3 | cut -f1 | sort | uniq | wc -l ````
