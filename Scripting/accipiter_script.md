@@ -1,13 +1,7 @@
 
 # Accipiter Script
 
-This document provides information about the `accipiter_script.sh` script, which is used to download and extract genomic data for *Accipiter nisus*.
 
-## Purpose
-
-The script automates the process of downloading a GFF3 file from the Ensembl FTP server, extracting relevant features, and providing basic statistics about the data.
-
-## Usage
 
 1. **Make the Script Executable**:
    ```bash
@@ -36,9 +30,4 @@ The script will generate the following files:
 - `accipiter_nisus_mRNA.gff`
 - `accipiter_nisus_exons.gff`
 
-Each file contains the respective feature extracted from the downloaded GFF3 file.
 
-## Notes
-
-- Ensure you have the necessary permissions to execute the script.
-- The script assumes all required tools are installed on your system.
