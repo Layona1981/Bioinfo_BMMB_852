@@ -1,7 +1,7 @@
 
 ## Commands Used
 
-**To  download the file**  
+To  download the file
 
  ```bash
   curl -O https://ftp.ensembl.org/pub/current_gff3/accipiter_nisus/Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3.gz
@@ -37,7 +37,7 @@ grep -v '^#' Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3 | cut -f3 | sort | 
 ```
 
 
-**The most annotated feature types**
+The most annotated feature types
 
 ```` 45991 genes ````
 
