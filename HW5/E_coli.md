@@ -1,18 +1,18 @@
 
 ## Part one
 
-***Size of the File*** 
+# E. coli Genome Analysis
 
-4.5M
+## Genome Information
 
-***Total size of genom***
+| Attribute                          | Value                          |
+|------------------------------------|--------------------------------|
+| **Size of the File**               | 4.5M                           |
+| **Total size of the genome**       | 4699673                        |
+| **Number of chromosomes in the genome** | 1                          |
+| **ID name and length of chromosome** | NC_000913.3 Escherichia coli s 4641652 |
 
-4699673
 
-***Number of chromosomes in the genome***
-1
-
-***ID name and length of chromosome*** 
 ````
 NC_000913.3 Escherichia coli s 4641652 
 
@@ -32,27 +32,22 @@ gunzip Ecoli.fna.gz
 
 ## Part two
 
+## Sequencing Information
+
+| Attribute                          | Value                          |
+|------------------------------------|--------------------------------|
+| **Number of reads**                | 154656                         |
+| **Average read length**            | 150bp                          |
+| **FASTQ files size**               | 52M                            |
+| **After compression**              | 9.8M                           |
+| **Saved**                          | 42.2M                          |
+
+
 #### To generate FASTA file output:
 
 ```sh
 art_illumina -ss HS25 -i Ecoli.fna -p -l 100 -f 10 -m 200 -s 10 -o Ecoli_simulated
 ```
-
-***Number of reads:***
-
-154656
-
-***Average read length:***
-
-150bp
-
-***FASTQ files size:*** 
-
-52M 
-
-After compression: 9.8 M
-
-Saved:42.2 M
 
 #### To chek FASTA file size:
 
@@ -99,13 +94,4 @@ https://github.com/Layona1981/Bioinfo_BMMB_852/blob/main/HW5/Ecoli.sh
 
 ````
 
-# E. coli Genome Analysis
 
-## Genome Information
-
-| Attribute                          | Value                          |
-|------------------------------------|--------------------------------|
-| **Size of the File                 | 4.5M                           |
-| **Total size of the genome**       | 4699673                        |
-| **Number of chromosomes in the genome** | 1                          |
-| **ID name and length of chromosome** | NC_000913.3 Escherichia coli s 4641652 |
