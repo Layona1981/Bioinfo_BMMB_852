@@ -90,3 +90,12 @@ As long as the number of bases sequenced (i.e., read length times the number of 
 | Drosophila  | 180 Mb      | 5.4 Gb       | 36 million               | 2700 MB             |
 | Human       | 3.2 Gb      | 96 Gb        | 640 million              | 48000 MB            |
 
+
+***Script link***
+
+```` 
+
+https://github.com/Layona1981/Bioinfo_BMMB_852/blob/main/HW5/Ecoli.sh
+
+````
+
