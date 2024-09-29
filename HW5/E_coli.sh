@@ -15,9 +15,6 @@ echo "Size of the FASTA file:"
 du -h Ecoli.fna
 
 ### Step 4: Calculate the Total Size of the Genome and Number of Chromosomes
-
-
-
 def calculate_genome_stats(fasta_file):
     total_genome_size = 0
     num_chromosomes = 0
@@ -46,18 +43,12 @@ def calculate_genome_stats(fasta_file):
     print("Chromosome lengths:")
     for chrom_id, length in chromosome_lengths.items():
         print(f"{chrom_id}: {length} base pairs")
-
-
 ```
 
 Run the script with:
-
 ```sh
 python calculate_genome_stats.py Ecoli.fna
 ```
-
-
-
 # Step 5: Generate simulated FASTQ output using ART with 10x coverage
 art_illumina -ss HS25 -i Ecoli.fna -p -l 100 -f 10 -m 200 -s 10 -o Ecoli_simulated
 
