@@ -1,4 +1,6 @@
 
+**Part one**
+
 ***Report the Size of the FASTA File*** 
 
 4.5M
@@ -8,7 +10,6 @@
 4699673
 
 ***The number of chromosomes in the genome***
-
 1
 
 ***ID name and length of chromosome*** 
@@ -16,6 +17,7 @@
 NC_000913.3 Escherichia coli s 4641652 
 
 ````
+
 E. coli Genome FASTA File
 
 ```sh
@@ -26,7 +28,9 @@ wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM5
 
 ```sh
 gunzip Ecoli.fna.gz
-```***Number of reads:***
+```
+
+***Number of reads:***
 
 154656
 
@@ -40,14 +44,17 @@ gunzip Ecoli.fna.gz
 After compression: 9.8 M. 
 Saved:42.2 M
 
-***FASTA file output:***
-```sh
-art_illumina -ss HS25 -i Ecoli.fna -p -l 100 -f 10 -m 200 -s 10 -o Ecoli_simulated
-```
+***To chek FASTA file size:***
 
 ```sh
 du -h Ecoli.fna
 ```
+***To generate FASTA file output:***
+
+```sh
+art_illumina -ss HS25 -i Ecoli.fna -p -l 100 -f 10 -m 200 -s 10 -o Ecoli_simulated
+```
+
 
 ***Discuss whether you could get the same coverage with different parameter settings (read length vs. read number)***
 
@@ -72,7 +79,6 @@ If we assume 150 bp reads, the number of reads required would be:
 
 Number of reads = 96,000,000,000 / 150 bp = 640 million reads
 
-
 ***Estimated file size***
 
 Yeast: 180MB
@@ -81,6 +87,10 @@ Drosophila: 2700 MB
 
 Human: 48000 MB
 
+Genome	Genome Size	30x Coverage	Number of Reads (150 bp)	Estimated File Size
+Yeast	12 Mb	360 Mb	2.4 million	180 MB
+Drosophila	180 Mb	5.4 Gb	36 million	2700 MB
+Human	3.2 Gb	96 Gb	640 million	48000 MB
 
 
 
