@@ -1,11 +1,6 @@
 
 **Part one**
 
-###Number of Reads Generated and Average Read Length
-
-4.5M
-
-
 ***Report the Size of the FASTA File*** 
 
 4.5M
@@ -49,34 +44,37 @@ gunzip Ecoli.fna.gz
 After compression: 9.8 M. 
 Saved:42.2 M
 
-***Size of the FASTQ Files***
+***Size of FASTQ Files***
 
 ```sh
 du -h Ecoli_simulated1.fq
 du -h Ecoli_simulated2.fq
 ```
 
-### To Compress the FASTQ Files
+#### To Compress FASTQ Files
 
 
 ```sh
 gzip Ecoli_simulated1.fq
 gzip Ecoli_simulated2.fq
 ```
-***Compressed file sizes:***
+#### Compressed file size:***
+
 
 ```sh
 du -h Ecoli_simulated1.fq.gz
 du -h Ecoli_simulated2.fq.gz
 ```
 
-***To chek FASTA file size:***
+#### To chek FASTA file size:***
+
 
 ```sh
 du -h Ecoli.fna
 ```
 
-***To generate FASTA file output:***
+#### To generate FASTA file output:***
+
 
 ```sh
 art_illumina -ss HS25 -i Ecoli.fna -p -l 100 -f 10 -m 200 -s 10 -o Ecoli_simulated
@@ -85,7 +83,6 @@ art_illumina -ss HS25 -i Ecoli.fna -p -l 100 -f 10 -m 200 -s 10 -o Ecoli_simulat
 ****Discuss whether you could get the same coverage with different parameter settings (read length vs. read number)****
 
 As long as the number of bases sequenced (i.e., read length times the number of reads) remains constant, I can achieve the same coverage using various combinations of read length and count.
-
 
 
 ## Estimate Coverage for Other Genomes
