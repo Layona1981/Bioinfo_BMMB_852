@@ -1,5 +1,5 @@
 
-# Simulating FASTQ files
+## Simulating FASTQ files
 
 ***Size of the file***
 
@@ -73,5 +73,3 @@ Yeast: 180MB
 Drosophila: 2700 MB
 
 Human: 48000 MB
-
-**Script Link**
