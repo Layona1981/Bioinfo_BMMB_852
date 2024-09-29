@@ -99,3 +99,13 @@ https://github.com/Layona1981/Bioinfo_BMMB_852/blob/main/HW5/Ecoli.sh
 
 ````
 
+# E. coli Genome Analysis
+
+## Genome Information
+
+| Attribute                          | Value                          |
+|------------------------------------|--------------------------------|
+| **Size of the File                 | 4.5M                           |
+| **Total size of the genome**       | 4699673                        |
+| **Number of chromosomes in the genome** | 1                          |
+| **ID name and length of chromosome** | NC_000913.3 Escherichia coli s 4641652 |
