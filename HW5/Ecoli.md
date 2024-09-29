@@ -75,4 +75,4 @@ Drosophila: 2700 MB
 Human: 48000 MB
 
 ***Script link***
-[((https://github.com/Layona1981/Bioinfo_BMMB_852/blob/main/HW5/Ecoli.sh))]
+```` (https://github.com/Layona1981/Bioinfo_BMMB_852/blob/main/HW5/Ecoli.sh) ````
