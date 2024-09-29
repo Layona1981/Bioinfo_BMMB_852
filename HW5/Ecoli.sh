@@ -5,65 +5,40 @@ set -uex
 
 # ----- DEFINITIONS -----
 
-# URL for downloading the Escherichia coli genome
-GENOME_URL="ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2/GCF_000005845.2_ASM584v2_genomic.fna.gz"
+# Step 1: Download the E. coli genome FASTA file
+wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2/GCF_000005845.2_ASM584v2_genomic.fna.gz -O Ecoli.fna.gz
 
-# Genome file name after download
-GENOME_FILE="GCF_000005845.2_ASM584v2_genomic.fna.gz"
+# Step 2: Unzip the FASTA file
+gunzip Ecoli.fna.gz
 
-# Unzipped genome file name
-UNZIPPED_GENOME_FILE="GCF_000005845.2_ASM584v2_genomic.fna"
+# Step 3: Report the size of the FASTA file
+echo "Size of the FASTA file:"
+du -h Ecoli.fna
 
-# Simulated FASTQ file names
-SIM_READS_1="simulated_reads_1.fastq"
-SIM_READS_2="simulated_reads_2.fastq"
-SIM_READS_1_GZ="${SIM_READS_1}.gz"
-SIM_READS_2_GZ="${SIM_READS_2}.gz"
+# Step 4: Calculate the total size of the genome and number of chromosomes
+python calculate_genome_stats.py Ecoli.fna
 
-# Number of reads and read lengths for wgsim
-NUM_READS=154656  # Adjusted for 10x coverage
-READ_LENGTH_1=150
-READ_LENGTH_2=150
+# Step 5: Generate simulated FASTQ output using ART with 10x coverage
+art_illumina -ss HS25 -i Ecoli.fna -p -l 100 -f 10 -m 200 -s 10 -o Ecoli_simulated
 
-# ----- ACTIONS -----
+# Step 6: Report the number of reads generated and average read length
+genome_size=4600000
+coverage=10
+read_length=100
+num_reads=$((genome_size * coverage / read_length))
+echo "Number of reads generated: $num_reads"
+echo "Average read length: $read_length base pairs"
 
-# Step 1: Download Escherichia coli genome
-wget ${GENOME_URL}
+# Step 7: Report the size of the FASTQ files
+echo "Size of the FASTQ file 1:"
+du -h Ecoli_simulated1.fq
+echo "Size of the FASTQ file 2:"
+du -h Ecoli_simulated2.fq
 
-# Step 2: Unzip the genome file
-gunzip ${GENOME_FILE}
-
-# Step 3: Check the size of the unzipped genome file
-du -sh ${UNZIPPED_GENOME_FILE}
-
-# Step 4: Get the total genome size in base pairs (excluding headers)
-grep -v ">" ${UNZIPPED_GENOME_FILE} | wc -c
-
-# Step 5: Count the number of chromosomes (or sequences)
-grep ">" ${UNZIPPED_GENOME_FILE} | wc -l
-
-# Step 6: Extract the names (IDs) and lengths of each chromosome
-awk '/^>/{if (seqlen){print seqlen}; printf substr($0, 2, 30) " "; seqlen=0; next}{seqlen += length($0)}END{print seqlen}' ${UNZIPPED_GENOME_FILE}
-
-# Step 7: Generate simulated FASTQ reads using wgsim
-wgsim -N ${NUM_READS} -1 ${READ_LENGTH_1} -2 ${READ_LENGTH_2} ${UNZIPPED_GENOME_FILE} ${SIM_READS_1} ${SIM_READS_2}
-
-# Step 8: Count the number of reads in the FASTQ files
-grep -c "^@" ${SIM_READS_1}
-grep -c "^@" ${SIM_READS_2}
-
-# Step 9: Calculate the average read length for the first FASTQ file
-awk 'NR%4==2 {sum+=length($0); count++} END {print "Average read length for simulated_reads_1.fastq: " sum/count " bp"}' ${SIM_READS_1}
-
-# Step 9: Calculate the average read length for the second FASTQ file
-awk 'NR%4==2 {sum+=length($0); count++} END {print "Average read length for simulated_reads_2.fastq: " sum/count " bp"}' ${SIM_READS_2}
-
-# Step 10: Check the size of the generated FASTQ files
-du -sh ${SIM_READS_1} ${SIM_READS_2}
-
-# Step 11: Compress the FASTQ files
-gzip ${SIM_READS_1} ${SIM_READS_2}
-
-# Step 12: Check the size of the compressed FASTQ files
-du -sh ${SIM_READS_1_GZ} ${SIM_READS_2_GZ}
-
+# Step 8: Compress the FASTQ files and report the compressed sizes
+gzip Ecoli_simulated1.fq
+gzip Ecoli_simulated2.fq
+echo "Compressed size of the FASTQ file 1:"
+du -h Ecoli_simulated1.fq.gz
+echo "Compressed size of the FASTQ file 2:"
+du -h Ecoli_simulated2.fq.gz
