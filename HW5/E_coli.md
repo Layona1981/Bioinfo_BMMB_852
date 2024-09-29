@@ -13,10 +13,7 @@
 | **ID name and length of chromosome** | NC_000913.3 Escherichia coli s 4641652 |
 
 
-````
-NC_000913.3 Escherichia coli s 4641652 
 
-````
 E. coli Genome FASTA File
 
 ```sh
