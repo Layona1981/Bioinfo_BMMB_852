@@ -33,7 +33,8 @@ NC_000913.3 Escherichia coli s 4641652
 
 ***After Compression***
 
-9.8 M
+9.8 M. 
+Saved:42.2 M
 
 ***Discuss whether you could get the same coverage with different parameter settings (read length vs. read number)***
 
