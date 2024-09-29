@@ -1,6 +1,8 @@
 
 
-## Simulating FASTQ files
+## Part 1
+
+**Simulating FASTQ files
 
 ***Size of the file***
 
