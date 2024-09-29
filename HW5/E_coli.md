@@ -1,7 +1,7 @@
 
-**Part one**
+## Part one
 
-***Report the Size of the FASTA File*** 
+***Size of the File*** 
 
 4.5M
 
@@ -17,7 +17,6 @@
 NC_000913.3 Escherichia coli s 4641652 
 
 ````
-
 E. coli Genome FASTA File
 
 ```sh
@@ -28,6 +27,15 @@ wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM5
 
 ```sh
 gunzip Ecoli.fna.gz
+```
+
+
+## Part two
+
+#### To generate FASTA file output:
+
+```sh
+art_illumina -ss HS25 -i Ecoli.fna -p -l 100 -f 10 -m 200 -s 10 -o Ecoli_simulated
 ```
 
 ***Number of reads:***
@@ -41,48 +49,37 @@ gunzip Ecoli.fna.gz
 ***FASTQ files size:*** 
 
 52M 
-After compression: 9.8 M. 
+
+After compression: 9.8 M
+
 Saved:42.2 M
 
-***Size of FASTQ Files***
+#### To chek FASTA file size:
 
 ```sh
 du -h Ecoli_simulated1.fq
 du -h Ecoli_simulated2.fq
 ```
 
-#### To Compress FASTQ Files
-
+#### To Compress FASTQ Files:
 
 ```sh
 gzip Ecoli_simulated1.fq
 gzip Ecoli_simulated2.fq
 ```
-#### Compressed file size:***
-
+#### Compressed file size:
 
 ```sh
 du -h Ecoli_simulated1.fq.gz
 du -h Ecoli_simulated2.fq.gz
 ```
 
-#### To chek FASTA file size:***
-
-
-```sh
-du -h Ecoli.fna
-```
-
-#### To generate FASTA file output:***
-
-
-```sh
-art_illumina -ss HS25 -i Ecoli.fna -p -l 100 -f 10 -m 200 -s 10 -o Ecoli_simulated
-```
-
 ****Discuss whether you could get the same coverage with different parameter settings (read length vs. read number)****
 
 As long as the number of bases sequenced (i.e., read length times the number of reads) remains constant, I can achieve the same coverage using various combinations of read length and count.
+
+
+## Part three
 
 
 ## Estimate Coverage for Other Genomes
@@ -92,9 +89,4 @@ As long as the number of bases sequenced (i.e., read length times the number of 
 | Yeast       | 12 Mb       | 360 Mb       | 2.4 million              | 180 MB              |
 | Drosophila  | 180 Mb      | 5.4 Gb       | 36 million               | 2700 MB             |
 | Human       | 3.2 Gb      | 96 Gb        | 640 million              | 48000 MB            |
-
-
-
-
-
 
