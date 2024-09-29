@@ -48,24 +48,27 @@ If I generate longer reads, I'll need fewer reads to cover the same genome size
 ***Estimate Coverage for Other Genomes***
 
 
-***Yeast (12 Mb genome)***
+****Yeast (12 Mb genome)****
 
 30x coverage = 12 Mb × 30 = 360 Mb total bases.
 
 If we assume 150 bp reads, the number of reads required would be:
 360,000,000 bp / 150 bp = 2.4 million reads
 
-***Drosophila (180 Mb genome)***
+
+****Drosophila (180 Mb genome)****
 
 30x coverage = 180 Mb × 30 = 5.4 Gb total bases.
 
 Number of reads = 5,400,000,000 / 150 bp = 36 million reads.
 
-***Human (3.2 Gb genome)***
+
+****Human (3.2 Gb genome)****
 
 30x coverage = 3.2 Gb × 30 = 96 Gb total bases.
 
 Number of reads = 96,000,000,000 / 150 bp = 640 million reads
+
 
 ***Estimated file Size Uncompressed***
 
@@ -74,6 +77,7 @@ Yeast: 180MB
 Drosophila: 2700 MB
 
 Human: 48000 MB
+
 
 ***Script link***
 
