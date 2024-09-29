@@ -1,4 +1,5 @@
 
+
 ## Simulating FASTQ files
 
 ***Size of the file***
@@ -38,12 +39,7 @@ Saved:42.2 M
 
 ***Discuss whether you could get the same coverage with different parameter settings (read length vs. read number)***
 
-Yes, I can achieve the same coverage with different combinations of read length and number of reads as long as the total number of bases sequenced (i.e., read length multiplied by number of reads) remains the same.
-
-Example:
-If I generate shorter reads, I'll need more reads to cover the same genome size.
-
-If I generate longer reads, I'll need fewer reads to cover the same genome size
+Yes, I can achieve the same coverage using various combinations of read length and count, as long as the number of bases sequenced (i.e., read length times the number of reads) remains constant. For example, if I produce shorter reads, I'll need more of them to cover the same genome size. Conversely, fewer reads will be required to cover the same genome size if I produce longer reads.
 
 ***Estimate Coverage for Other Genomes***
 
