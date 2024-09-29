@@ -46,8 +46,10 @@ def calculate_genome_stats(fasta_file):
 ```
 
 Run the script with:
+
 ```sh
-python calculate_genome_stats.py Ecoli.fna ```
+python calculate_genome_stats.py Ecoli.fna 
+```
 
 # Step 5: Generate simulated FASTQ output using ART with 10x coverage
 art_illumina -ss HS25 -i Ecoli.fna -p -l 100 -f 10 -m 200 -s 10 -o Ecoli_simulated
