@@ -7,7 +7,6 @@
 ``` URL_GFF="zhttps://ftp.ensembl.org/pub/current_gff3/accipiter_nisus/Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3.gz " ```
 
 
-
 ### Name of the files 
 
 
@@ -15,7 +14,9 @@
 
   ```
   gunzip Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3.gz
-```` 
+````
+
+```` cat ENSCHOT00000014379.1_genomic.gff | awk '$3 == "gene"' > Choloepus_hoffmanni_genes.gff cat ENSCHOT00000014379.1_genomic.gff | awk '$3 == "CDS"' > Choloepus_hoffmanni_CDS.gff ````
 
 #### Output files for extracted features
 ``` 
@@ -72,6 +73,41 @@ EXONS_FILE="accipiter_nisus_exons.gff"
   ```bash
   grep -v '^#' Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3 | cut -f3 | sort | uniq -c | sort -nr | head -n 10
   ```
+## Conclusion
+
+This report provides the foundation for further analysis of the gene intervals and their biological significance.
+
+````
+mkdir Choloepus_hoffmanni
+```` 
+
+````
+cd Choloepus_hoffmanni
+````
+
+````
+curl-l https://useast.ensembl.org/Choloepus_hoffmanni/Transcript/Summary?db=core;g=ENSCHOG00000015578;r=scaffold_95728:2238-2320;t=ENSCHOT00000014379
+```` 
+
+````
+gunzip ENSCHOT00000014379.1_genomic.fna.gz
+````
+
+````
+gunzip ENSCHOT00000014379.1_genomic.gff
+````
+## Command used for getting gene.gff and cds.gff
+
+````
+cat ENSCHOT00000014379.1_genomic.gff | awk '$3 == "gene"' > Choloepus_hoffmanni_genes.gff cat ENSCHOT00000014379.1_genomic.gff | awk '$3 == "CDS"' > Choloepus_hoffmanni_CDS.gff
+````
+
+````
+head Choloepus_hoffmanni_genes.gff
+````
+````
+head Choloepus_hoffmanni_CDC.gff
+````
 
 ***Script to run Mhib's data (someone else's data)*** 
 
