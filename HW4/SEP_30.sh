@@ -89,45 +89,5 @@ head ${EXONS_FILE}
 | lnc_RNA               | 433     |
 
 
-## Commands Used
 
 
-1. To download the file I used:
-   ```bash
-   curl -O https://ftp.ensembl.org/pub/current_gff3/accipiter_nisus/Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3.gz 
-
-## 
-   - 309,995 exon
-   - 301,420 CDS
-   - 133,065 biological_region
-   - 44,975 region
-   - 27,007 mRNA
-   - 18,324 five_prime_UTR
-   - 17,271 gene
-   - 14,159 three_prime_UTR
-   - 754 ncRNA_gene
-   - 433 lnc_RNA
-
-
-
-- 
-  ```bash
-  gunzip Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3.gz
-  ```
-
--
-  ```bash
-  grep -v '^#' Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3 | wc -l
-  ``` 
- 
-  ```bash
-  grep -v '^#' Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3 | cut -f1 | sort | uniq | wc -l
-  ```
-
-  ```bash
-  grep -v '^#' Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3 | grep -c 'gene'
-  ```
-
-  ```bash
-  grep -v '^#' Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3 | cut -f3 | sort | uniq -c | sort -nr | head -n 10
-  ```
