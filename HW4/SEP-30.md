@@ -15,14 +15,11 @@ set -uex
 ### Name of the files 
 
 
-   ````bash
-curl -O https://ftp.ensembl.org/pub/current_gff3/accipiter_nisus/Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3.gz
-````  
+   ```` curl -O https://ftp.ensembl.org/pub/current_gff3/accipiter_nisus/Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3.gz````  
 
-  ```bash
+  ```
   gunzip Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3.gz
 ```` 
-
 
 #### Output files for extracted features
 ``` 
