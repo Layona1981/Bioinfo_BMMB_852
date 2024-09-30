@@ -1,4 +1,4 @@
-Mahib's modefied script 
+Mahib's modified script 
 
 #!/bin/bash
 
