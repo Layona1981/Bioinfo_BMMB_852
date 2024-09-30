@@ -5,7 +5,6 @@
 ### Set the error handling and trace
 set -uex
 
-#### Define all variables at the top
 
 
 ``` URL_FNA="zhttps://ftp.ensembl.org/pub/current_gff3/accipiter_nisus/Accipiter_nisus.Accipiter_nisus_ver1.0.112.fna.gz " ```
@@ -14,12 +13,24 @@ set -uex
 
 
 #### Output files for extracted features
-``` GENES_FILE="accipiter_nisus_genes.gff"``` 
-``` CDS_FILE="accipiter_nisus_CDS.gff"``` 
-``` MRNA_FILE="accipiter_nisus_mRNA.gff"``` 
-``` EXONS_FILE="accipiter_nisus_exons.gff"``` 
+``` 
+GENES_FILE="accipiter_nisus_genes.gff"
+```
 
- ### The top-ten feature types 
+```
+CDS_FILE="accipiter_nisus_CDS.gff"
+``` 
+
+``` 
+MRNA_FILE="accipiter_nisus_mRNA.gff"
+
+``` 
+``` 
+EXONS_FILE="accipiter_nisus_exons.gff"
+```
+
+
+### The top-ten feature types 
 | Feature Type          | Count   |
 |-----------------------|---------|
 | exon                  | 309995  |
@@ -40,7 +51,7 @@ set -uex
    ```bash
    curl -O https://ftp.ensembl.org/pub/current_gff3/accipiter_nisus/Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3.gz 
 
-- 
+
   ```bash
   gunzip Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3.gz
   ```
@@ -61,3 +72,24 @@ set -uex
   ```bash
   grep -v '^#' Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3 | cut -f3 | sort | uniq -c | sort -nr | head -n 10
   ```
+
+***Script to run Mhib's data (someone else's data) ** 
+
+**Script Link**
+
+https://github.com/rmahib/Mahib852/blob/main/Assignment_4/Script.sh 
+
+I've found the following features after running the script
+
+````
+1. Genes: 559
+2. Number of CDS: 10
+1. mRNA: 0
+2. Exons: 42
+````
+
+**Link for the modified script**
+
+
+
+
