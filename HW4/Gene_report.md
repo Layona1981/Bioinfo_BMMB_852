@@ -9,14 +9,9 @@
 
 ### Name of the files 
 
-
    ```` curl -O https://ftp.ensembl.org/pub/current_gff3/accipiter_nisus/Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3.gz````  
 
-  ```
-  gunzip Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3.gz
-````
-
-```` cat ENSCHOT00000014379.1_genomic.gff | awk '$3 == "gene"' > Choloepus_hoffmanni_genes.gff cat ENSCHOT00000014379.1_genomic.gff | awk '$3 == "CDS"' > Choloepus_hoffmanni_CDS.gff ````
+  ```` gunzip Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3.gz ````
 
 #### Output files for extracted features
 ``` 
@@ -57,7 +52,6 @@ EXONS_FILE="accipiter_nisus_exons.gff"
   gunzip Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3.gz
   ```
 
-
   ```bash
   grep -v '^#' Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3 | wc -l
   ``` 
@@ -95,18 +89,6 @@ gunzip ENSCHOT00000014379.1_genomic.fna.gz
 
 ````
 gunzip ENSCHOT00000014379.1_genomic.gff
-````
-## Command used for getting gene.gff and cds.gff
-
-````
-cat ENSCHOT00000014379.1_genomic.gff | awk '$3 == "gene"' > Choloepus_hoffmanni_genes.gff cat ENSCHOT00000014379.1_genomic.gff | awk '$3 == "CDS"' > Choloepus_hoffmanni_CDS.gff
-````
-
-````
-head Choloepus_hoffmanni_genes.gff
-````
-````
-head Choloepus_hoffmanni_CDC.gff
 ````
 
 ***Script to run Mhib's data (someone else's data)*** 
