@@ -73,9 +73,9 @@ EXONS_FILE="accipiter_nisus_exons.gff"
   grep -v '^#' Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3 | cut -f3 | sort | uniq -c | sort -nr | head -n 10
   ```
 
-***Script to run Mhib's data (someone else's data) ** 
+***Script to run Mhib's data (someone else's data)*** 
 
-**Script Link**
+****Script Link****
 
 https://github.com/rmahib/Mahib852/blob/main/Assignment_4/Script.sh 
 
@@ -88,10 +88,8 @@ I've found the following features after running the script
 2. Exons: 42
 ````
 
-**Link to original script file**
-[
-](https://github.com/Layona1981/Bioinfo_BMMB_852/blob/main/HW4/SEP_30.sh)
+****Link to original script file****
+[(https://github.com/Layona1981/Bioinfo_BMMB_852/blob/main/HW4/SEP_30.sh)] 
 
 **Link to the modified script**
-[
-](https://github.com/Layona1981/Bioinfo_BMMB_852/blob/main/HW4/Mahib's%20modefied%20script.sh)
+[(https://github.com/Layona1981/Bioinfo_BMMB_852/blob/main/HW4/Mahib's%20modefied%20script.sh]
