@@ -1,14 +1,27 @@
-
 #!/bin/bash
 
 # Set the error handling and trace
 set -uex
 
-### downloaded links
+
+### URLs for downloaded files
 
 ``` URL_FNA="zhttps://ftp.ensembl.org/pub/current_gff3/accipiter_nisus/Accipiter_nisus.Accipiter_nisus_ver1.0.112.fna.gz " ```
 
 ``` URL_GFF="zhttps://ftp.ensembl.org/pub/current_gff3/accipiter_nisus/Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3.gz " ```
+
+
+
+### Name of the files 
+
+
+   ````bash
+curl -O https://ftp.ensembl.org/pub/current_gff3/accipiter_nisus/Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3.gz
+````  
+
+  ```bash
+  gunzip Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3.gz
+```` 
 
 
 #### Output files for extracted features
@@ -46,7 +59,6 @@ EXONS_FILE="accipiter_nisus_exons.gff"
    ```bash
    curl -O https://ftp.ensembl.org/pub/current_gff3/accipiter_nisus/Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3.gz 
 
-
   ```bash
   gunzip Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3.gz
   ```
@@ -74,7 +86,7 @@ EXONS_FILE="accipiter_nisus_exons.gff"
 
 https://github.com/rmahib/Mahib852/blob/main/Assignment_4/Script.sh 
 
-I've found the following features after running the script
+I've found the following features after running the script 
 
 ````
 1. Genes: 559
@@ -82,10 +94,11 @@ I've found the following features after running the script
 1. mRNA: 0
 2. Exons: 42
 ````
+
 **Link to original script file**
 [
 ](https://github.com/Layona1981/Bioinfo_BMMB_852/blob/main/HW4/SEP_30.sh)
 
-**Link for the modified script**
+**Link to the modified script**
 [
 ](https://github.com/Layona1981/Bioinfo_BMMB_852/blob/main/HW4/Mahib's%20modefied%20script.sh)
