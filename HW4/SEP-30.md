@@ -82,9 +82,10 @@ I've found the following features after running the script
 1. mRNA: 0
 2. Exons: 42
 ````
+**Link to original script file**
+[
+](https://github.com/Layona1981/Bioinfo_BMMB_852/blob/main/HW4/SEP_30.sh)
 
 **Link for the modified script**
-
-
 [
 ](https://github.com/Layona1981/Bioinfo_BMMB_852/blob/main/HW4/Mahib's%20modefied%20script.sh)
