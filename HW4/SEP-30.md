@@ -1,8 +1,6 @@
 
 
 
-
-### Set the error handling and trace
 set -uex
 
 
