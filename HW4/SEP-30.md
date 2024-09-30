@@ -1,7 +1,3 @@
-#!/bin/bash
-
-# Set the error handling and trace
-set -uex
 
 
 ### URLs for downloaded files
