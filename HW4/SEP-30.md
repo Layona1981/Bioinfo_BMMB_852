@@ -14,14 +14,11 @@ set -uex
 ``` 
 GENES_FILE="accipiter_nisus_genes.gff"
 ```
-
 ```
 CDS_FILE="accipiter_nisus_CDS.gff"
 ``` 
-
 ``` 
 MRNA_FILE="accipiter_nisus_mRNA.gff"
-
 ``` 
 ``` 
 EXONS_FILE="accipiter_nisus_exons.gff"
@@ -54,7 +51,7 @@ EXONS_FILE="accipiter_nisus_exons.gff"
   gunzip Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3.gz
   ```
 
--
+
   ```bash
   grep -v '^#' Accipiter_nisus.Accipiter_nisus_ver1.0.112.gff3 | wc -l
   ``` 
@@ -88,6 +85,6 @@ I've found the following features after running the script
 
 **Link for the modified script**
 
+
 [
 ](https://github.com/Layona1981/Bioinfo_BMMB_852/blob/main/HW4/Mahib's%20modefied%20script.sh)
-
