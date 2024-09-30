@@ -1,9 +1,10 @@
 
+#!/bin/bash
 
-
+# Set the error handling and trace
 set -uex
 
-
+### downloaded links
 
 ``` URL_FNA="zhttps://ftp.ensembl.org/pub/current_gff3/accipiter_nisus/Accipiter_nisus.Accipiter_nisus_ver1.0.112.fna.gz " ```
 
@@ -23,7 +24,6 @@ MRNA_FILE="accipiter_nisus_mRNA.gff"
 ``` 
 EXONS_FILE="accipiter_nisus_exons.gff"
 ```
-
 
 ### The top-ten feature types 
 | Feature Type          | Count   |
