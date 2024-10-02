@@ -35,7 +35,18 @@ Layout: PAIREDThe publication associated with this dataset is "Toolik Lake Alask
 |-------------|------------|------------|-------|-------------|
 | SRR12345678 | 23,655     | 7.1M       | 3.9Mb | 2020-07-29  |
 
-## Methods
+
+### Results
+
+***Initial Quality Control***
+The initial quality control report indicated several issues with the sequencing data, including low-quality scores and adapter contamination.
+
+***Quality Improvement***
+After trimming, the quality of the reads improved significantly, as evidenced by higher quality scores and the removal of adapter sequences.
+
+***Post-Improvement Quality Control***
+The post-improvement quality control report showed that the quality of the reads was much better, with fewer low-quality bases and no adapter contamination. The quality control analysis demonstrated that the initial sequencing data had several quality issues, effectively addressed by trimming the reads. The final dataset is of high quality and suitable for downstream analysis.
+
 ### Downloading Data
 The data was downloaded using the SRA Toolkit with the following command:
 ```bash
