@@ -20,12 +20,12 @@ fastq-dump --outdir ./sra_data --gzip --skip-technical --readids --dumpbase --sp
 
 # Initial quality control
 echo "Performing initial quality control..."
-fastqc -o $./sra_data ${FASTQ_FILE}_1.fastq.gz ${FASTQ_FILE}_2.fastq.gz
+fastqc -o $./sra_data ${./sra_data}/${SRR12345678}_1.fastq.gz ${./sra_data}/${SRR12345678}_2.fastq.gz
 
 # Improve quality of reads using Trimmomatic
 echo "Improving quality of reads..."
 trimmomatic PE -phred33 \
-  ${FASTQ_FILE}_1.fastq.gz ${FASTQ_FILE}_2.fastq.gz \
+  ${./sra_data}/${SRR12345678}_1.fastq.gz ${./sra_data}/${SRR12345678}_2.fastq.gz \
   ${./sra_data}/${SRR12345678}_1_paired.fastq.gz ${./sra_data}/${SRR12345678}_1_unpaired.fastq.gz \
   ${./sra_data}/${SRR12345678}_2_paired.fastq.gz ${./sra_data}/${SRR12345678}_2_unpaired.fastq.gz \
   ILLUMINACLIP:TruSeq3-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
