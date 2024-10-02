@@ -35,6 +35,24 @@ Layout: PAIREDThe publication associated with this dataset is "Toolik Lake Alask
 |-------------|------------|------------|-------|-------------|
 | SRR12345678 | 23,655     | 7.1M       | 3.9Mb | 2020-07-29  |
 
+### Replacing my SRA with SRR925811
+
+#### Data and Publication from the replaced file:
+
+```bash
+SRX317818: GSM1173000: T47D Exome-Seq; Homo sapiens; OTHER
+1 ILLUMINA (Illumina Genome Analyzer IIx) run: 53.3M spots, 10.7G bases, 5.1Gb downloads
+Submitted by: Gene Expression Omnibus (GEO)
+Study: Exome sequencing of a panel of breast cancer cell lines to identify mutations
+Sample: T47D Exome-Seq
+Organism: Homo sapiens
+```
+1 run, 53.3M spots, 10.7G bases, 5.1Gb
+
+| Run         | # of Spots | # of Bases | Size  | Published   |
+|-------------|------------|------------|-------|-------------|
+| SRR925811   | 53,265,409 | 10.7G      | 5.1Gb | 2013-08-28  |
+			
 
 ### Results
 
