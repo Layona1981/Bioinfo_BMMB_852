@@ -29,15 +29,14 @@ Layout: PAIREDThe publication associated with this dataset is "Toolik Lake Alask
 ## Sequencing Data Summary
 
 ### Runs
-1 run, 23,655 spots, 7.1M bases, 3.9Mb
 
 | Run         | # of Spots | # of Bases | Size  | Published   |
 |-------------|------------|------------|-------|-------------|
 | SRR12345678 | 23,655     | 7.1M       | 3.9Mb | 2020-07-29  |
 
-### Replacing my SRA with SRR925811
+			
 
-#### Data and Publication from the replaced file:
+#### Data and Publication from the replaced data SRR925811
 
 ```bash
 SRX317818: GSM1173000: T47D Exome-Seq; Homo sapiens; OTHER
@@ -47,12 +46,10 @@ Study: Exome sequencing of a panel of breast cancer cell lines to identify mutat
 Sample: T47D Exome-Seq
 Organism: Homo sapiens
 ```
-1 run, 53.3M spots, 10.7G bases, 5.1Gb
 
 | Run         | # of Spots | # of Bases | Size  | Published   |
 |-------------|------------|------------|-------|-------------|
 | SRR925811   | 53,265,409 | 10.7G      | 5.1Gb | 2013-08-28  |
-			
 
 ### Results
 
@@ -87,4 +84,7 @@ trimmomatic PE -phred33 \
 ### Post-improvement quality control was performed using FastQC:
 ```bash
 fastqc -o ./sra_data ./sra_data/SRR12345678_1_paired.fastq.gz ./sra_data/SRR12345678_2_paired.fastq.gz
-``` 
+```
+
+
+
