@@ -34,4 +34,4 @@ trimmomatic PE -phred33 \
 echo "Performing quality control after trimming..."
 fastqc -o $OUTPUT_DIR ${OUTPUT_DIR}/${SRA_ID}_1_paired.fastq.gz ${OUTPUT_DIR}/${SRA_ID}_2_paired.fastq.gz
 
-echo "Analysis complete. Check the $OUTPUT_DIR directory for results."
+echo "Analysis complete. 
