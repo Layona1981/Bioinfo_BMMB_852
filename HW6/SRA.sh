@@ -34,4 +34,10 @@ trimmomatic PE -phred33 \
 echo "Performing quality control after trimming..."
 fastqc -o $./sra_data ${./sra_data}/${SRR12345678}_1_paired.fastq.gz ${./sra_data}/${SRR12345678}_2_paired.fastq.gz
 
-echo "Analysis complete. 
+# To replace SRR dat, we will change the following variable and run the same steps as mentioned above:
+
+# New variables
+SRA_ID="SRR925811" 
+OUTPUT_DIR="./r_sra_data"echo
+
+"Analysis complete. 
