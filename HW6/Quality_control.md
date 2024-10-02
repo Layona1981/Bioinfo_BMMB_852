@@ -51,7 +51,6 @@ Organism: Homo sapiens
 |-------------|------------|------------|-------|-------------|
 | SRR925811   | 53,265,409 | 10.7G      | 5.1Gb | 2013-08-28  |
 
-![Sequencing Data Quality](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR925811&display=metadata)
 
 
 [View NCBI SRA Run Browser](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR925811&display=metadata)
