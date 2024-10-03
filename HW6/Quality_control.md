@@ -2,29 +2,13 @@
 #### Quality Control Analysis of SRA Data
 
 
-
 ### Introduction
 This report documents the quality control analysis of sequencing data downloaded from the SRA database. The target organism for this analysis is the genome selected for the read simulation assignment.
 
 ### Data and Publication
-The data corresponds to the sequencing run with SRR number `SRR12345678`: 
+The data corresponds to the sequencing run with SRR number`SRR12345678`: 
 Send to:
 
-```
-SRX8845474: Toolik Lake Alaska soil qSIP
-1 ILLUMINA (Illumina MiSeq) run: 23,655 spots, 7.1M bases, 3.9Mb downloads
-Design: two-step amplification with primers 515F (Parada) and 806R (Apprill), dual indexed (8bp)
-Submitted by: Northern Arizona University
-Study: Toolik Lake Alaska soil qSIP Raw sequence reads
-Sample: AK-d5-5C-204f11
-Organism: soil metagenome
-Name: 204f11
-Instrument: Illumina MiSeq
-Strategy: AMPLICON
-Source: METAGENOMIC
-Selection: PCR
-Layout: PAIREDThe publication associated with this dataset is "Toolik Lake Alaska soil qSIP Raw sequence reads".
-``` 
 
 ## Sequencing Data Summary
 
@@ -33,27 +17,31 @@ Layout: PAIREDThe publication associated with this dataset is "Toolik Lake Alask
 | Run         | # of Spots | # of Bases | Size  | Published   |
 |-------------|------------|------------|-------|-------------|
 | SRR12345678 | 23,655     | 7.1M       | 3.9Mb | 2020-07-29  |
+***Study title:***
+Toolik Lake Alaska soil qSIP Raw sequence reads
 
 [View NCBI SRA Run Browser_SRR12345678](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR12345678&display=metadata)		
 
-#### Data and Publication from the replaced data SRR925811
+### Data and Publication from the replaced data`SRR925811`: 
 
-```bash
-SRX317818: GSM1173000: T47D Exome-Seq; Homo sapiens; OTHER
-1 ILLUMINA (Illumina Genome Analyzer IIx) run: 53.3M spots, 10.7G bases, 5.1Gb downloads
-Submitted by: Gene Expression Omnibus (GEO)
-Study: Exome sequencing of a panel of breast cancer cell lines to identify mutations
-Sample: T47D Exome-Seq
-Organism: Homo sapiens
-```
 
 | Run         | # of Spots | # of Bases | Size  | Published   |
 |-------------|------------|------------|-------|-------------|
 | SRR925811   | 53,265,409 | 10.7G      | 5.1Gb | 2013-08-28  |
+***Study title:***
+Exome sequencing of a panel of breast cancer cell lines to identify mutations
 
 [View NCBI SRA Run Browser_SRR925811](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR925811&display=metadata)
 
-
+### Quality Metrics Comparison
+| **Metric**       | **SRR925811 (Before Trimming)** | **SRR925811 (After Trimming)** | **SRR12345678 (Before Trimming)** | **SRR12345678 (After Trimming)** |
+|------------------|---------------------------------|--------------------------------|-----------------------------------|----------------------------------|
+| **Total Reads**  | 53.3M spots                     | Reduced                        | 23.7k                             | Reduced                          |
+| **Bases**        | 10.7G                           | Reduced                        | 7.1M                              | Reduced                          |
+| **Size**         | 5.1Gb                           | Reduced                        | 3.9MB                             | Reduced                          |
+| **GC Content**   | 47%                             | Slightly adjusted              | 53%                               | Slightly adjusted                |
+| **Read Length**  | 100bp                           | Slightly reduced               | 151bp                             | Slightly reduced                 |
+| **Quality Score**| High overall quality            | Improved                       | High overall quality              | Improved                         |
 ### Results
 
 ***Initial Quality Control***
@@ -63,7 +51,7 @@ The initial quality control report indicated several issues with the sequencing 
 After trimming, the quality of the reads improved significantly, as evidenced by higher quality scores and the removal of adapter sequences.
 
 ***Post-Improvement Quality Control***
-The post-improvement quality control report showed that the quality of the reads was much better, with fewer low-quality bases and no adapter contamination. The quality control analysis demonstrated that the initial sequencing data had several quality issues, effectively addressed by trimming the reads. The final dataset is of high quality and suitable for downstream analysis.
+The post-improvement quality control report showed that the quality of the reads was much better, with fewer low-quality bases and no adapter contamination. 
 
 ### Downloading Data
 The data was downloaded using the SRA Toolkit with the following command:
@@ -88,22 +76,8 @@ trimmomatic PE -phred33 \
 ```bash
 fastqc -o ./sra_data ./sra_data/SRR12345678_1_paired.fastq.gz ./sra_data/SRR12345678_2_paired.fastq.gz
 ```
-### Quality Metrics Comparison
 
-| **Metric**       | **SRR925811 (Before Trimming)** | **SRR925811 (After Trimming)** | **SRR12345678 (Before Trimming)** | **SRR12345678 (After Trimming)** |
-|------------------|---------------------------------|--------------------------------|-----------------------------------|----------------------------------|
-| **Total Reads**  | 53.3M spots                     | Reduced                        | 23.7k                             | Reduced                          |
-| **Bases**        | 10.7G                           | Reduced                        | 7.1M                              | Reduced                          |
-| **Size**         | 5.1Gb                           | Reduced                        | 3.9MB                             | Reduced                          |
-| **GC Content**   | Not specified                   | Not specified                  | 53%                               | Slightly adjusted                |
-| **Read Length**  | Not specified                   | Not specified                  | 151bp                             | Slightly reduced                 |
-| **Quality Score**| High overall quality            | Improved                       | High overall quality              | Improved                         |
 
-### FASTQC Reports
-You can view the detailed FASTQC reports for both datasets using the following links:
-
-- **SRR925811**: FASTQC Report for SRR925811
-- **SRR12345678**: FASTQC Report for SRR12345678
 
 
 
