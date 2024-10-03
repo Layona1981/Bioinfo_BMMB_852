@@ -53,13 +53,6 @@ The post-improvement quality control report showed that the quality of the reads
 
 ### Downloading Data
 
-# For SRR925811
-fastq-dump SRR925811
-# For SRR12345678
-fastq-dump SRR12345678
-
-
-
 
 ```bash
 fastq-dump --outdir ./sra_data --gzip --skip-technical --readids --dumpbase --split-files --clip SRR12345678
@@ -68,7 +61,6 @@ fastq-dump --outdir ./sra_data --gzip --skip-technical --readids --dumpbase --sp
 ```bash
 fastqc -o ./sra_data ./sra_data/SRR12345678_1.fastq.gz ./sra_data/SSRR12345678_2.fastq.gz
 ```
-
 
 ### Reads were trimmed using Trimmomatic:
 ```bash
