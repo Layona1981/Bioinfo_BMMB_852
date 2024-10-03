@@ -88,6 +88,22 @@ trimmomatic PE -phred33 \
 ```bash
 fastqc -o ./sra_data ./sra_data/SRR12345678_1_paired.fastq.gz ./sra_data/SRR12345678_2_paired.fastq.gz
 ```
+### Quality Metrics Comparison
+
+| **Metric**       | **SRR925811 (Before Trimming)** | **SRR925811 (After Trimming)** | **SRR12345678 (Before Trimming)** | **SRR12345678 (After Trimming)** |
+|------------------|---------------------------------|--------------------------------|-----------------------------------|----------------------------------|
+| **Total Reads**  | 53.3M spots                     | Reduced                        | 23.7k                             | Reduced                          |
+| **Bases**        | 10.7G                           | Reduced                        | 7.1M                              | Reduced                          |
+| **Size**         | 5.1Gb                           | Reduced                        | 3.9MB                             | Reduced                          |
+| **GC Content**   | Not specified                   | Not specified                  | 53%                               | Slightly adjusted                |
+| **Read Length**  | Not specified                   | Not specified                  | 151bp                             | Slightly reduced                 |
+| **Quality Score**| High overall quality            | Improved                       | High overall quality              | Improved                         |
+
+### FASTQC Reports
+You can view the detailed FASTQC reports for both datasets using the following links:
+
+- **SRR925811**: FASTQC Report for SRR925811
+- **SRR12345678**: FASTQC Report for SRR12345678
 
 
 
