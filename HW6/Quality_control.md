@@ -1,10 +1,6 @@
 
 #### Quality Control Analysis of SRA Data
 
-
-### Introduction
-This report documents the quality control analysis of sequencing data downloaded from the SRA database. The target organism for this analysis is the genome selected for the read simulation assignment.
-
 ### Data and Publication
 The data corresponds to the sequencing run with SRR number`SRR12345678`: 
 Send to:
@@ -17,6 +13,7 @@ Send to:
 | Run         | # of Spots | # of Bases | Size  | Published   |
 |-------------|------------|------------|-------|-------------|
 | SRR12345678 | 23,655     | 7.1M       | 3.9Mb | 2020-07-29  |
+
 ***Study title:***
 Toolik Lake Alaska soil qSIP Raw sequence reads
 
@@ -28,6 +25,7 @@ Toolik Lake Alaska soil qSIP Raw sequence reads
 | Run         | # of Spots | # of Bases | Size  | Published   |
 |-------------|------------|------------|-------|-------------|
 | SRR925811   | 53,265,409 | 10.7G      | 5.1Gb | 2013-08-28  |
+
 ***Study title:***
 Exome sequencing of a panel of breast cancer cell lines to identify mutations
 
