@@ -3,7 +3,6 @@
 
 ### Data and Publication
 The data corresponds to the sequencing run with SRR number`SRR12345678`: 
-Send to:
 
 
 ## Sequencing Data Summary
@@ -19,7 +18,8 @@ Toolik Lake Alaska soil qSIP Raw sequence reads
 
 [View NCBI SRA Run Browser_SRR12345678](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR12345678&display=metadata)		
 
-### Data and Publication from the replaced data`SRR925811`: 
+### Data from the replaced data`SRR925811`: 
+The data corresponds to the sequencing run with SRR number`SRR925811`: 
 
 
 | Run         | # of Spots | # of Bases | Size  | Published   |
