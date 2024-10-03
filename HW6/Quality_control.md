@@ -52,7 +52,15 @@ After trimming, the quality of the reads improved significantly, as evidenced by
 The post-improvement quality control report showed that the quality of the reads was much better, with fewer low-quality bases and no adapter contamination. 
 
 ### Downloading Data
-The data was downloaded using the SRA Toolkit with the following command:
+
+# For SRR925811
+fastq-dump SRR925811
+# For SRR12345678
+fastq-dump SRR12345678
+
+
+
+
 ```bash
 fastq-dump --outdir ./sra_data --gzip --skip-technical --readids --dumpbase --split-files --clip SRR12345678
 ```  
