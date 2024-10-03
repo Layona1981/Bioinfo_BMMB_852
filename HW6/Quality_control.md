@@ -34,7 +34,7 @@ Layout: PAIREDThe publication associated with this dataset is "Toolik Lake Alask
 |-------------|------------|------------|-------|-------------|
 | SRR12345678 | 23,655     | 7.1M       | 3.9Mb | 2020-07-29  |
 
-			
+[View NCBI SRA Run Browser_SRR12345678](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR12345678&display=metadata)		
 
 #### Data and Publication from the replaced data SRR925811
 
@@ -51,9 +51,9 @@ Organism: Homo sapiens
 |-------------|------------|------------|-------|-------------|
 | SRR925811   | 53,265,409 | 10.7G      | 5.1Gb | 2013-08-28  |
 
+[View NCBI SRA Run Browser_SRR925811](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR925811&display=metadata)
 
 
-[View NCBI SRA Run Browser](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR925811&display=metadata)
 ### Results
 
 ***Initial Quality Control***
