@@ -1,43 +1,55 @@
 
 #!/bin/bash
 
-# Install necessary tools
-brew install sratoolkit
-brew install fastqc
-brew install trimmomatic
+# Set error handling and trace
+set -uex
 
-# Define variables
-SRA_ID="SRR12345678"  
-OUTPUT_DIR="./sra_data"
-FASTQ_FILE="${./sra_data}/${SRR12345678}.fastq"
 
-# Output directory
-mkdir -p ./sra_data
+# SRA accession number
+SRA_ID="SRR12345678"
 
-# Download SRA data
-echo "Downloading SRA data..."
-fastq-dump --outdir ./sra_data --gzip --skip-technical --readids --dumpbase --split-files --clip $SRR12345678
+# Directories
+SRA_DIR=~/sra_data/${SRA_ID}
+QC_DIR=~/qcreports
+TRIM_DIR=${SRA_DIR}/trimmed
 
-# Initial quality control
-echo "Performing initial quality control..."
-fastqc -o $./sra_data ${./sra_data}/${SRR12345678}_1.fastq.gz ${./sra_data}/${SRR12345678}_2.fastq.gz
+# Files
+SRA_FILE_1=${SRA_DIR}/${SRA_ID}_1.fastq
+TRIMMED_FILE=${SRA_DIR}/${SRA_ID}_trimmed.fastq
+IMPROVED_TRIMMED_FILE=${SRA_DIR}/${SRA_ID}_trimmed_improved.fastq
 
-# Improve quality of reads using Trimmomatic
-echo "Improving quality of reads..."
-trimmomatic PE -phred33 \
-  ${./sra_data}/${SRR12345678}_1.fastq.gz ${./sra_data}/${SRR12345678}_2.fastq.gz \
-  ${./sra_data}/${SRR12345678}_1_paired.fastq.gz ${./sra_data}/${SRR12345678}_1_unpaired.fastq.gz \
-  ${./sra_data}/${SRR12345678}_2_paired.fastq.gz ${./sra_data}/${SRR12345678}_2_unpaired.fastq.gz \
-  ILLUMINACLIP:TruSeq3-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+# Trimmomatic jar location and adapter file
+TRIMMOMATIC_JAR=${SRA_DIR}/Trimmomatic-0.39/trimmomatic-0.39.jar
+ADAPTER_FILE=${SRA_DIR}/Trimmomatic-0.39/adapters/TruSeq3-SE.fa
 
-# Quality control after trimming
-echo "Performing quality control after trimming..."
-fastqc -o $./sra_data ${./sra_data}/${SRR12345678}_1_paired.fastq.gz ${./sra_data}/${SRR12345678}_2_paired.fastq.gz
+# FastQC command
+FASTQC_CMD="fastqc"
 
-# To replace SRR data, I have replaced my SRR with the following variable and run the same steps above:
+# - ALL DEFINITIONS ARE ABOVE - ALL ACTIONS ARE BELOW -
 
-# New variables
-SRA_ID="SRR925811" 
-OUTPUT_DIR="./r_sra_data"ec
+# Create necessary directories
+mkdir -p ${SRA_DIR} ${QC_DIR} ${TRIM_DIR}
 
-"Analysis complete. 
+# Step 1: Download the SRA data
+fastq-dump --split-files --outdir ${SRA_DIR} ${SRA_ID}
+
+# Step 2: Run initial FastQC analysis on untrimmed data
+${FASTQC_CMD} ${SRA_FILE_1} -o ${QC_DIR}
+
+# Step 3: Run Trimmomatic for the first round of trimming
+java -jar ${TRIMMOMATIC_JAR} SE -threads 4 \
+  ${SRA_FILE_1} ${TRIMMED_FILE} \
+  ILLUMINACLIP:${ADAPTER_FILE}:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+
+# Step 4: Run FastQC on the first trimmed output
+${FASTQC_CMD} ${TRIMMED_FILE} -o ${QC_DIR}
+
+# Step 5: Run Trimmomatic again with more stringent parameters
+java -jar ${TRIMMOMATIC_JAR} SE -threads 4 \
+  ${SRA_FILE_1} ${IMPROVED_TRIMMED_FILE} \
+  ILLUMINACLIP:${ADAPTER_FILE}:2:30:10 LEADING:5 TRAILING:5 SLIDINGWINDOW:4:20 MINLEN:50
+
+# Step 6: Run FastQC on the more aggressively trimmed output
+${FASTQC_CMD} ${IMPROVED_TRIMMED_FILE} -o ${QC_DIR}
+
+
