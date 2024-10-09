@@ -51,31 +51,6 @@ After trimming, the quality of the reads improved significantly, as evidenced by
 ***Post-Improvement Quality Control***
 The post-improvement quality control report showed that the quality of the reads was much better, with fewer low-quality bases and no adapter contamination. 
 
-### Downloading Data
-
-
-```bash
-fastq-dump --outdir ./sra_data --gzip --skip-technical --readids --dumpbase --split-files --clip SRR12345678
-```  
-### Initial quality control 
-```bash
-fastqc -o ./sra_data ./sra_data/SRR12345678_1.fastq.gz ./sra_data/SSRR12345678_2.fastq.gz
-```
-
-### Reads were trimmed using Trimmomatic:
-```bash
-trimmomatic PE -phred33 \
-  ./sra_data/SRR12345678_1.fastq.gz ./sra_data/SRR12345678_2.fastq.gz \
-  ./sra_data/SRR12345678_1_paired.fastq.gz ./sra_data/SRR12345678_1_unpaired.fastq.gz \
-  ./sra_data/SRR12345678_2_paired.fastq.gz ./sra_data/SRR12345678_2_unpaired.fastq.gz \  ILLUMINACLIP:TruSeq3-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
-```
-
-### Post-improvement quality control was performed using FastQC:
-```bash
-fastqc -o ./sra_data ./sra_data/SRR12345678_1_paired.fastq.gz ./sra_data/SRR12345678_2_paired.fastq.gz
-```
-
-
 
 
 
