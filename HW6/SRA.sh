@@ -50,3 +50,4 @@ java -jar ${TRIMMOMATIC_JAR} SE -threads 4 \
 ${FASTQC_CMD} ${IMPROVED_TRIMMED_FILE} -o ${QC_DIR}
 
 
+echo "done"
