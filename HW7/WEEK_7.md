@@ -61,6 +61,4 @@ To execute the tasks defined in the Makefile, use the following commands:
   make clean
   ```
 
-## Conclusion
 
-This Makefile provides a streamlined and automated approach to managing genomic data workflows. By using variables and modular targets, it is easy to adapt and extend for different datasets and analysis requirements.
