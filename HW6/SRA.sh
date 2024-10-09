@@ -4,7 +4,6 @@
 # Set error handling and trace
 set -uex
 
-
 # SRA accession number
 SRA_ID="SRR12345678"
 
@@ -24,8 +23,6 @@ ADAPTER_FILE=${SRA_DIR}/Trimmomatic-0.39/adapters/TruSeq3-SE.fa
 
 # FastQC command
 FASTQC_CMD="fastqc"
-
-
 
 # Create necessary directories
 mkdir -p ${SRA_DIR} ${QC_DIR} ${TRIM_DIR}
