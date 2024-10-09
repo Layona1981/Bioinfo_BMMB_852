@@ -1,7 +1,9 @@
 !/bin/bash
 
-# Lina Sallam
-# FASTQ Quality Control
+# Set error handling and trace
+set -uex
+# FASTQ Quality Control# SRA accession number
+SRA_ID="SRR12345678"
 
 # Activate your bioinfo environment
 source ~/.bashrc
