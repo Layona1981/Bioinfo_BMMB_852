@@ -16,7 +16,6 @@ The data corresponds to the sequencing run with SRR number`SRR12345678`:
 ***Study title:***
 Toolik Lake Alaska soil qSIP Raw sequence reads
 
-[View NCBI SRA Run Browser_SRR12345678](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR12345678&display=metadata)		
 
 ### Data from the replaced data`SRR925811`: 
 The data corresponds to the sequencing run with SRR number`SRR925811`: 
@@ -29,7 +28,6 @@ The data corresponds to the sequencing run with SRR number`SRR925811`:
 ***Study title:***
 Exome sequencing of a panel of breast cancer cell lines to identify mutations
 
-[View NCBI SRA Run Browser_SRR925811](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR925811&display=metadata)
 
 ### Quality Metrics Comparison
 | **Metric**       | **SRR925811 (Before Trimming)** | **SRR925811 (After Trimming)** | **SRR12345678 (Before Trimming)** | **SRR12345678 (After Trimming)** |
