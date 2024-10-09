@@ -25,7 +25,7 @@ ADAPTER_FILE=${SRA_DIR}/Trimmomatic-0.39/adapters/TruSeq3-SE.fa
 # FastQC command
 FASTQC_CMD="fastqc"
 
-# - ALL DEFINITIONS ARE ABOVE - ALL ACTIONS ARE BELOW -
+
 
 # Create necessary directories
 mkdir -p ${SRA_DIR} ${QC_DIR} ${TRIM_DIR}
