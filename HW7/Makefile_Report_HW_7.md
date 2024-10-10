@@ -1,7 +1,7 @@
 
-# Makefile Report
+## Makefile Report
 
-## Introduction
+### Introduction
 
 This report explains the Makefile designed to automate the process of downloading, simulating, trimming, and generating FastQC reports for genomic data. The Makefile integrates previous scripts into a single automated workflow.
 
