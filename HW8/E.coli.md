@@ -42,6 +42,7 @@ align: index trim
 	$(SAMTOOLS) sort alignments/$(SRR)_aligned.bam -o alignments/$(SRR)_aligned_sorted.bam
 	$(SAMTOOLS) index alignments/$(SRR)_aligned_sorted.bam
 
+
 # Download the reference genome
 wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2/GCF_000005845.2_ASM584v2_genomic.fna.gz
 gunzip GCF_000005845.2_ASM584v2_genomic.fna.gz
