@@ -42,13 +42,15 @@ align: index trim
 	$(SAMTOOLS) sort alignments/$(SRR)_aligned.bam -o alignments/$(SRR)_aligned_sorted.bam
 	$(SAMTOOLS) index alignments/$(SRR)_aligned_sorted.bam
 
-
 # Download the reference genome
+```bash
 wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2/GCF_000005845.2_ASM584v2_genomic.fna.gz
 gunzip GCF_000005845.2_ASM584v2_genomic.fna.gz
 
+
 # Simulate reads
 wgsim -N 1000000 -1 150 -2 150 Ecoli.fna Ecoli_simulated1.fq.gz Ecoli_simulated2.fq.gz
+
 
 # Download SRA data
 fastq-dump --split-files --outdir sra_data SRR12345678
