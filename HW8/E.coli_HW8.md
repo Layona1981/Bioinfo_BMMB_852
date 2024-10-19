@@ -29,6 +29,7 @@ SRA Reads: Only a portion of the SRA reads are mapped to the reference genome. T
 Here is the core section of the Makefile that includes the `index` and `align` targets:
 
 ```makefile
+```makefile
 # Index the reference genome
 index: genome
 	@echo "Indexing the reference genome with BWA..."
@@ -42,12 +43,13 @@ align: index trim
 	$(SAMTOOLS) sort alignments/$(SRR)_aligned.bam -o alignments/$(SRR)_aligned_sorted.bam
 	$(SAMTOOLS) index alignments/$(SRR)_aligned_sorted.bam
 
-
 ```markdown
 # Download the reference genome
 
 wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2/GCF_000005845.2_ASM584v2_genomic.fna.gz
 gunzip GCF_000005845.2_ASM584v2_genomic.fna.gz
+
+
 ```
 
 ### Simulate reads
