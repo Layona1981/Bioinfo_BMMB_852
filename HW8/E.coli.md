@@ -42,29 +42,6 @@ align: index trim
 	$(SAMTOOLS) sort alignments/$(SRR)_aligned.bam -o alignments/$(SRR)_aligned_sorted.bam
 	$(SAMTOOLS) index alignments/$(SRR)_aligned_sorted.bam
 
-# Download the reference genome
-```bash
-wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2/GCF_000005845.2_ASM584v2_genomic.fna.gz
-gunzip GCF_000005845.2_ASM584v2_genomic.fna.gz
-
-
-# Simulate reads
-wgsim -N 1000000 -1 150 -2 150 Ecoli.fna Ecoli_simulated1.fq.gz Ecoli_simulated2.fq.gz
-
-
-# Download SRA data
-fastq-dump --split-files --outdir sra_data SRR12345678
-
-# Trim SRA reads
-java -jar /path/to/Trimmomatic-0.39/trimmomatic-0.39.jar SE -threads 4 sra_data/SRR12345678_1.fastq sra_trimmed.fastq \
-  ILLUMINACLIP:/path/to/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
-
-
-# Generate alignment statistics
-samtools flagstat simulated_reads_sorted.bam > simulated_reads_stats.txt
-samtools flagstat sra_reads_sorted.bam > sra_reads_stats.txt
-
-Sure, here is the entire content formatted with each step in a separate code block. You can copy and paste it all at once:
 
 ```markdown
 # Download the reference genome
@@ -73,37 +50,37 @@ wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM5
 gunzip GCF_000005845.2_ASM584v2_genomic.fna.gz
 ```
 
-# Simulate reads
+### Simulate reads
 ```bash
 wgsim -N 1000000 -1 150 -2 150 Ecoli.fna Ecoli_simulated1.fq.gz Ecoli_simulated2.fq.gz
 ```
 
-# Download SRA data
+### Download SRA data
 ```bash
 fastq-dump --split-files --outdir sra_data SRR12345678
 ```
 
-# Trim SRA reads
+### Trim SRA reads
 ```bash
 java -jar /path/to/Trimmomatic-0.39/trimmomatic-0.39.jar SE -threads 4 sra_data/SRR12345678_1.fastq sra_trimmed.fastq \
   ILLUMINACLIP:/path/to/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
 ```
 
-# Align simulated reads
+### Align simulated reads
 ```bash
 bwa mem Ecoli.fna Ecoli_simulated1.fq.gz Ecoli_simulated2.fq.gz | samtools view -Sb - > simulated_reads.bam
 samtools sort simulated_reads.bam -o simulated_reads_sorted.bam
 samtools index simulated_reads_sorted.bam
 ```
 
-# Align SRA reads
+### Align SRA reads
 ```bash
 bwa mem Ecoli.fna sra_trimmed.fastq | samtools view -Sb - > sra_reads.bam
 samtools sort sra_reads.bam -o sra_reads_sorted.bam
 samtools index sra_reads_sorted.bam
 ```
 
-# Generate alignment statistics
+### Generate alignment statistics
 ```bash
 samtools flagstat simulated_reads_sorted.bam > simulated_reads_stats.txt
 samtools flagstat sra_reads_sorted.bam > sra_reads_stats.txt
