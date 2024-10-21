@@ -49,7 +49,8 @@ align: index trim
 markdown
 # Download the reference genome
 
-```bash
+```
+bash
 wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2/GCF_000005845.2_ASM584v2_genomic.fna.gz
 gunzip GCF_000005845.2_ASM584v2_genomic.fna.gz
 ```
