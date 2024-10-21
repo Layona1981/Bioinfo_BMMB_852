@@ -49,20 +49,20 @@ align: index trim
 markdown
 # Download the reference genome
 
-```
+```bash
 wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2/GCF_000005845.2_ASM584v2_genomic.fna.gz
 gunzip GCF_000005845.2_ASM584v2_genomic.fna.gz
 ```
 
 ### Simulate reads
 
-```
+```bash
 wgsim -N 1000000 -1 150 -2 150 Ecoli.fna Ecoli_simulated1.fq.gz Ecoli_simulated2.fq.gz
 ```
 
 ### Download SRA data
 
-```
+```bash
 fastq-dump --split-files --outdir sra_data SRR12345678
 ```
 
@@ -74,24 +74,24 @@ java -jar /path/to/Trimmomatic-0.39/trimmomatic-0.39.jar SE -threads 4 sra_data/
 ```
 
 ### Align simulated reads
-```
-bash
+
+```bash
 bwa mem Ecoli.fna Ecoli_simulated1.fq.gz Ecoli_simulated2.fq.gz | samtools view -Sb - > simulated_reads.bam
 samtools sort simulated_reads.bam -o simulated_reads_sorted.bam
 samtools index simulated_reads_sorted.bam
 ```
 
 ### Align SRA reads
-```
-bash
+
+```bash
 bwa mem Ecoli.fna sra_trimmed.fastq | samtools view -Sb - > sra_reads.bam
 samtools sort sra_reads.bam -o sra_reads_sorted.bam
 samtools index sra_reads_sorted.bam
 ```
 
 ### Generate alignment statistics
-```
-bash
+
+```bash
 samtools flagstat simulated_reads_sorted.bam > simulated_reads_stats.txt
 samtools flagstat sra_reads_sorted.bam > sra_reads_stats.txt
 ```
