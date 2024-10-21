@@ -30,19 +30,18 @@ Two key targets, `index` and `align`, were added to the Makefile to handle the i
 **SRA Reads:** Only a portion of the SRA reads are mapped to the reference genome. This low mapping rate suggests that the SRA reads may come from a different Escherichia coli strain or could be of lower quality compared to the simulated reads.
 
 
-wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2/GCF_000005845.2_ASM584v2_genomic.fna.gz
-gunzip GCF_000005845.2_ASM584v2_genomic.fna.gz
+```wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2/GCF_000005845.2_ASM584v2_genomic.fna.gz 
+gunzip GCF_000005845.2_ASM584v2_genomic.fna.gz```
 
 
 ## Simulate Reads
 
-* Command: `wgsim -N 1000000 -1 150 -2 150 Ecoli.fna Ecoli_simulated1.fq.gz Ecoli_simulated2.fq.gz`
+* Command:
+
+*   ```wgsim -N 1000000 -1 150 -2 150 Ecoli.fna Ecoli_simulated1.fq.gz Ecoli_simulated2.fq.gz```
 * Description: Simulate reads
 * Code:
-  ```bash
-wgsim -N 1000000 -1 150 -2 150 Ecoli.fna Ecoli_simulated1.fq.gz Ecoli_simulated2.fq.gz
 
----- 
 ```
 bash
 wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2/GCF_000005845.2_ASM584v2_genomic.fna.gz
