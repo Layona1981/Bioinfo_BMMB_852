@@ -1,6 +1,6 @@
-# Variables
 
-## Genome variables
+
+# Genome variables
 
 GENOME_URL := ftp://ftp.ensembl.org/pub/release-105/fasta/saccharomyces_cerevisiae/dna/Saccharomyces_cerevisiae.R64-1-1.dna.toplevel.fa.gz
 GENOME_FILE_GZ := Saccharomyces_cerevisiae.R64-1-1.dna.toplevel.fa.gz
