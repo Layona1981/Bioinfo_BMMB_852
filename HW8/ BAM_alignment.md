@@ -29,29 +29,7 @@ Two key targets, `index` and `align`, were added to the Makefile to handle the i
 
 **SRA Reads:** Only a portion of the SRA reads are mapped to the reference genome. This low mapping rate suggests that the SRA reads may come from a different Escherichia coli strain or could be of lower quality compared to the simulated reads.
 
-### Makefile Code
-Here is the core section of the Makefile that includes the `index` and `align` targets:
-----
-Genome Commands
-Index the Reference Genome
-Command: make index
-Description: Index the reference genome with BWA
-Code:
-$(BWA) index genome_data/$(GENOME)
 
-## Align Reads to Reference Genome
-
-* Command: `make align`
-* Description: Align reads to the reference genome and sort the BAM files
-* Code:
-  ```bash
-$(BWA) mem genome_data/$(GENOME) $(TRIM_DIR)/$(SRR)_trimmed.fastq | $(SAMTOOLS) view -Sb - > alignments/$(SRR)_aligned.bam
-$(SAMTOOLS) sort alignments/$(SRR)_aligned.bam -o alignments/$(SRR)_aligned_sorted.bam
-$(SAMTOOLS) index alignments/$(SRR)_aligned_sorted.bam
-Download Reference Genome
-Command: wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2/GCF_000005845.2_ASM584v2_genomic.fna.gz
-Description: Download the reference genome
-Code:
 wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2/GCF_000005845.2_ASM584v2_genomic.fna.gz
 gunzip GCF_000005845.2_ASM584v2_genomic.fna.gz
 
