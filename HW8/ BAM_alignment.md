@@ -13,7 +13,7 @@ Two key targets, `index` and `align`, were added to the Makefile to handle the i
 
 
 
-### Results from BAM files visualized in IGV:
+### Results from BAM files:
 
 **Simulated Reads:** The alignments were perfect, with 100% of the reads mapping to the reference genome. The coverage was uniform across the entire genome, as expected from simulated data.
 
