@@ -1,15 +1,12 @@
 # BAM File Analysis Report
 
+
 ## Commands and Answers
 
 ### 1. How many reads did not align with the reference genome?
 ```bash
+make count_unaligned
 
-
-Output:
-```bash
-X reads did not align with the reference genome.
-```
 
 ### 2. How many primary, secondary, and supplementary alignments are in the BAM file?
 ```bash
