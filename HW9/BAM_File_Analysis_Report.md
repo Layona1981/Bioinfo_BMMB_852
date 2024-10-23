@@ -4,18 +4,8 @@
 
 ### 1. How many reads did not align with the reference genome?
 ```bash
-make count_unaligned
-Sure, here is the complete markdown report with the commands and their expected outputs:
 
-```markdown
-# BAM File Analysis Report
 
-## Commands and Answers
-
-### 1. How many reads did not align with the reference genome?
-```bash
-make count_unaligned
-```
 Output:
 ```bash
 X reads did not align with the reference genome.
