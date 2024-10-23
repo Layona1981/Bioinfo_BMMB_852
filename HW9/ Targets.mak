@@ -1,6 +1,6 @@
 # Existing variables and targets...
 
-# New targets for the assignment
+# New targets for this assignment
 .PHONY: count_unaligned count_alignments count_properly_paired filter_bam compare_flagstats
 
 # Count unaligned reads
