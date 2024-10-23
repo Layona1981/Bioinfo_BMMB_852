@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # BAM File Analysis Report
 
 ## Commands and Answers
