@@ -121,4 +121,4 @@ samtools flagstat alignments/sra_reads_filtered.bam
 ```
 
 The filtered BAM file contains only properly paired primary alignments with a mapping quality of over 10, resulting in fewer total reads but a higher percentage of mapped reads.
-```
+
