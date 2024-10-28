@@ -1,7 +1,7 @@
 
 
 ## 1. How many reads did not align with the reference genome?
-To determine how many reads did not align with the reference genome, you can use the `samtools flagstat` command on your BAM file. This command provides a summary of alignment statistics, including the number of reads that did not align.
+
 
 ### Command to Run
 ```sh
