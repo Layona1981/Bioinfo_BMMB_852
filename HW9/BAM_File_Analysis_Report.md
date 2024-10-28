@@ -9,6 +9,7 @@
 ```bash
 make count_unaligned
 ```
+
 12345 + 0 in total (QC-passed reads + QC-failed reads)
 6789 + 0 secondary
 0 + 0 supplementary
