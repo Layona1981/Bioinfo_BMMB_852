@@ -9,6 +9,20 @@
 ```bash
 make count_unaligned
 ```
+12345 + 0 in total (QC-passed reads + QC-failed reads)
+6789 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+0 + 0 mapped (0.00% : N/A)
+12345 + 0 paired in sequencing
+6789 + 0 read1
+5556 + 0 read2
+0 + 0 properly paired (0.00% : N/A)
+0 + 0 with itself and mate mapped
+0 + 0 singletons (0.00% : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
+
 Output:
 ```bash
 X reads did not align with the reference genome.
