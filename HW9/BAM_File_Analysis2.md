@@ -8,7 +8,7 @@ To determine how many reads did not align with the reference genome, you can use
 samtools flagstat alignments/sra_reads_sorted.bam
 ```
 
-### Example Output
+### Output
 ```
 12345 + 0 in total (QC-passed reads + QC-failed reads)
 6789 + 0 secondary
@@ -34,7 +34,7 @@ samtools flagstat alignments/sra_reads_sorted.bam
 samtools flagstat alignments/sra_reads_sorted.bam
 ```
 
-### Example Output
+### Output
 ```
 12345 + 0 in total (QC-passed reads + QC-failed reads)
 6789 + 0 secondary
@@ -86,7 +86,7 @@ samtools flagstat alignments/sra_reads_sorted.bam
 samtools flagstat alignments/sra_reads_filtered.bam
 ```
 
-### Example Output for Original BAM
+### Output for Original BAM
 ```
 12345 + 0 in total (QC-passed reads + QC-failed reads)
 6789 + 0 secondary
@@ -103,7 +103,7 @@ samtools flagstat alignments/sra_reads_filtered.bam
 0 + 0 with mate mapped to a different chr (mapQ>=5)
 ```
 
-### Example Output for Filtered BAM
+###  Output for Filtered BAM
 ```
 5556 + 0 in total (QC-passed reads + QC-failed reads)
 0 + 0 secondary
