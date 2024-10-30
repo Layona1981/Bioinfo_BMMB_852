@@ -1,3 +1,4 @@
+
 # Questions and Answers
 
 ## Question 1: How many reads did not align with the reference genome?
@@ -36,4 +37,3 @@ The flagstats for the filtered BAM file are:
 
 The filtered BAM file has fewer alignments than the original BAM file, but all of the alignments in the filtered BAM file are properly paired primary alignments with a mapping quality of over 10.
 ```
-* Some commands and data have been generated using AI tools.
