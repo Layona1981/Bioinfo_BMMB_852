@@ -1,4 +1,82 @@
+# Variables
+GENOME_URL = ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2/GCF_000005845.2_ASM584v2_genomic.fna.gz
+GFF_URL = 
+SRA_ID = 
+GENOME_FILE = genome_data/Ecoli.fna
+GFF_FILE = 
+BAM_SRA = alignments/Ecoli.sorted.bam
+FILTERED_BAM = alignments/Ecoli.filtered.bam
 
+# Tools
+BWA = bwa
+SAMTOOLS = samtools
+FASTQ_DUMP = fastq-dump
+
+# Targets
+.PHONY: usage genome sra_data index align stats filter compare clean unaligned primary_secondary_supplementary properly_paired_reverse filter_bam compare_flagstats
+
+# Help
+usage:
+	@echo "Makefile targets:"
+	@echo "  genome    - Download and unzip the genome and GFF annotation file"
+	@echo "  sra_data  - Download SRA data for analysis"
+	@echo "  index     - Index the reference genome with BWA"
+	@echo "  align     - Align SRA reads to the reference genome"
+	@echo "  stats     - Generate flagstats for the original BAM file"
+	@echo "  filter    - Filter the BAM file"
+	@echo "  compare   - Compare stats for original and filtered BAM files"
+	@echo "  clean     - Remove all generated files to start fresh"
+	@echo "  unaligned - Count reads that did not align with the reference genome"
+	@echo "  primary_secondary_supplementary - Count primary, secondary, and supplementary alignments"
+	@echo "  properly_paired_reverse - Count properly-paired alignments on the reverse strand for the first pair"
+	@echo "  filter_bam - Create a new BAM file with properly paired primary alignments with mapping_quality >10"
+	@echo "  compare_flagstats - Compare flagstats for original and filtered BAM files"
+
+# Download and prepare the genome and annotation files
+genome:
+	mkdir -p genome_data
+	wget $(GENOME_URL) -O genome_data/Ecoli.fna.gz
+	gunzip genome_data/Ecoli.fna.gz
+
+# Index the reference genome with BWA
+index:
+	$(BWA) index $(GENOME_FILE)
+
+# Align the SRA reads to the reference genome and sort the BAM files
+align:
+	$(BWA) mem $(GENOME_FILE) Ecoli_simulated1.fq.gz | $(SAMTOOLS) view -Sb - | $(SAMTOOLS) sort -o $(BAM_SRA)
+	$(SAMTOOLS) index $(BAM_SRA)
+
+# Generate flagstat report for the original BAM file
+stats:
+	$(SAMTOOLS) flagstat $(BAM_SRA)
+
+# Filter BAM file to retain properly paired primary alignments with a mapping_quality >10
+filter:
+	$(SAMTOOLS) view -h -f 2 -q 10 -b $(BAM_SRA) > $(FILTERED_BAM)
+	$(SAMTOOLS) index $(FILTERED_BAM)
+
+# Compare flagstats for original and filtered BAM files
+compare:
+	$(SAMTOOLS) flagstat $(BAM_SRA)
+	$(SAMTOOLS) flagstat $(FILTERED_BAM)
+
+# Run all the above targets
+all: genome index align stats filter compare
+
+# Clean up generated files
+clean:
+	rm -rf genome_data alignments
+
+# Print usage message
+usage:
+	@echo "Usage: make <target>"
+
+# Phony targets
+.PHONY: all clean usage
+```
+
+-----
 # Variables
 GENOME_URL := ftp://ftp.ensembl.org/pub/release-105/fasta/saccharomyces_cerevisiae/dna/Saccharomyces_cerevisiae.R64-1-1.dna.toplevel.fa.gz
 GFF_URL := ftp://ftp.ensembl.org/pub/release-105/gff3/saccharomyces_cerevisiae/Saccharomyces_cerevisiae.R64-1-1.105.gff3.gz
