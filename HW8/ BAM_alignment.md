@@ -3,15 +3,6 @@
 ## Makefile Overview
 Two key targets, `index` and `align`, were added to the Makefile to handle the indexing of the reference genome and the alignment of both simulated and real reads.
 
-### Key Targets in the Makefile
-
-- **genome**: Downloads and extracts the reference genome.
-- **download**: Downloads the real sequencing data from SRA.
-- **trim**: Trims the SRA reads using Trimmomatic.
-- **index**: Indexes the reference genome using BWA.
-- **align**: Aligns both simulated and SRA reads to the indexed reference genome and produces sorted BAM files.
-
-
 ### Results from BAM files:
 # Alignment Results
 ## Genome Assembly
