@@ -1,16 +1,9 @@
-# Genomic Data Processing Pipeline
-=====================================
 
 ## Overview
 ------------
 
-This pipeline automates the process of downloading, simulating, and processing genomic data. It includes targets for downloading and unzipping the E. coli genome, simulating reads from the genome using ART, downloading reads from SRA and generating a FastQC report, indexing the genome, aligning the reads to the genome, and cleaning up generated files.
+This automates the process of downloading, simulating, and processing genomic data. It includes targets for downloading and unzipping the E. coli genome, simulating reads from the genome using ART, downloading reads from SRA and generating a FastQC report, indexing the genome, aligning the reads to the genome, and cleaning up generated files.
 
-## Targets
-----------
-
-### Genome
----------
 
 *   Downloads and unzips the E. coli genome from NCBI.
 *   File: `Ecoli.fna`
@@ -43,16 +36,6 @@ This pipeline automates the process of downloading, simulating, and processing g
 *   Aligns the reads to the genome using BWA and SAMtools.
 *   Files: `SRR12345678.sorted.bam`, `Ecoli_simulated.sorted.bam`
 
-### Report
-----------
-
-*   Generates a report summarizing the pipeline targets and their outputs.
-
-### Clean
----------
-
-*   Removes generated files to clean up the workspace.
-
 ## Interpretation
 --------------
 
@@ -63,13 +46,3 @@ Based on the analysis and alignment, here are some possible interpretations:
 *   **Variant Detection**: The variant detection results show a small number of variants (SNPs and indels) in the aligned reads, which is consistent with the expected level of genetic variation in the E. coli genome.
 *   **Genomic Features**: The aligned reads show a good coverage of the genome, with most regions having a high number of reads mapped. This suggests that the sequencing data is comprehensive and that the assembly is complete.
 
-## Usage
------
-
-To use this pipeline, simply run `make <target>` in the terminal, replacing `<target>` with the desired target name (e.g., `genome`, `simulate`, `download`, etc.).
-
-## Notes
------
-
-*   This pipeline assumes that the necessary software tools (e.g., `wget`, `gunzip`, `art_illumina`, `fastq-dump`, `bwa`, `samtools`, `fastqc`) are installed and available on the system.
-*   The pipeline also assumes that the `SRA_DIR` and `QC_DIR` directories exist and are writable.
