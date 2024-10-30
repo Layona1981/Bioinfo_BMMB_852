@@ -18,7 +18,6 @@ The read alignment results show that a percentage of reads (25.36%) aligned to t
 * Properly paired reads: 0 (N/A)
 * Singletons: 0 (N/A)
 
-### Commands Used
 ### Download Genome
 ```bash
 wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2/GCF_000005845.2_ASM584v2_genomic.fna.gz -O Ecoli.fna.gz
