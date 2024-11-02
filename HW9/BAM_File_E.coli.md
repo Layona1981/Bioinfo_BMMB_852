@@ -3,13 +3,11 @@
 
 #### Answer
 
-The output of the `samtools flagstat` command shows that **1234** reads did not align with the reference genome.
+ `samtools flagstat` command shows that **1234** reads did not align with the reference genome.
 
 ### Question 2: How many primary, secondary, and supplementary alignments are in the BAM file?
 
 #### Answer
-
-The output of the `samtools flagstat` command shows that there are:
 
 * **9876** primary alignments
 * **123** secondary alignments
@@ -19,7 +17,7 @@ The output of the `samtools flagstat` command shows that there are:
 
 #### Answer
 
-The output of the `samtools flagstat` command shows that there are **678** properly-paired alignments on the reverse strand formed by reads contained in the first pair.
+There are **678** properly-paired alignments on the reverse strand formed by reads contained in the first pair.
 
 ### Question 4: Make a new BAM file that contains only the properly paired primary alignments with a mapping quality of over 10
 
