@@ -1,6 +1,6 @@
 ## Variant Caller Results 
 
-### E. coli Variants
+## E. coli Variants
 
 I have included information about different E. coli strains, including the top 5 variants for each.
 
@@ -97,6 +97,4 @@ I have included information about different E. coli strains, including the top 5
 | 456789 | C | G | 100 |
 | 567890 | T | A | 100 |
 
-### Interpretation
 
-Overall, the results suggest that different E. coli strains have distinct genetic characteristics, and that the variants identified in this study may be useful for understanding the evolution and pathogenesis of E. coli.
