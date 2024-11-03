@@ -1,9 +1,5 @@
 
 
-## E. coli Variants
-
-I have included information about different E. coli strains, including the top 5 variants for each.
-
 ### E. coli K-12 MG1655
 
 * Number of variants: 100
