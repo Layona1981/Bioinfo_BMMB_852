@@ -1,6 +1,6 @@
 # Makefile for E. coli variant calling analysis
 
-# Define the input and output files
+
 INPUT_FASTQ = Ecoli.fastq
 OUTPUT_VCF = Ecoli_variants.vcf
 REPORT_MD = report.md
@@ -35,15 +35,6 @@ $(REPORT_MD): $(OUTPUT_VCF)
 clean:
 	rm -f $(OUTPUT_VCF) $(REPORT_MD)
 ```
-And here's the Markdown report:
-````markdown
-# E. coli Variant Calling Analysis
-
-## Introduction
-
-This report outlines the steps and results of the E. coli variant calling analysis.
-
-## Methods
 
 The following steps were performed:
 
@@ -61,16 +52,4 @@ The filtered variants are listed in the table below:
 | Chromosome | Position | Reference | Alternate | Quality Score | Depth of Coverage |
 | --- | --- | --- | --- | --- | --- |
 ```
-To generate the report, run the following command:
-```bash
-make
-```
-This will create the `report.md` file with the contents of the Markdown report.
 
-To view the report, run the following command:
-```bash
-cat report.md
-```
-This will display the contents of the report in the terminal.
-
-Let me know when you're ready to proceed with the analysis!
