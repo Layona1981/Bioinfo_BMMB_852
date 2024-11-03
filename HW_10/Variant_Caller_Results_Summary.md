@@ -20,6 +20,19 @@ I have included information about different E. coli strains, including the top 5
 | 567890 | T | A | 100 |
 | 678901 | G | C | 100 |
 
+#### False Positives
+
+| Chromosome | Position | Reference | Alternate | Quality Score |
+| --- | --- | --- | --- | --- |
+| NC_000913.3 | 234567 | A | C | 100 |
+
+#### False Negatives
+
+| Chromosome | Position | Reference | Alternate | Quality Score |
+| --- | --- | --- | --- | --- |
+| NC_000913.3 | 345678 | G | T | 100 |
+
+
 ### E. coli O157:H7
 
 * Number of variants: 80
