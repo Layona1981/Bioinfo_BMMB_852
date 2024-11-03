@@ -1,10 +1,12 @@
-#  E. coli variant calling analysis
+
+
+## E. coli variant calling analysis
 
 INPUT_FASTQ = Ecoli.fastq
 OUTPUT_VCF = Ecoli_variants.vcf
 REPORT_MD = report.md
 
-# Define the steps for the analysis
+# Steps for the analysis
 all: $(OUTPUT_VCF) $(REPORT_MD)
 
 $(OUTPUT_VCF):
@@ -27,7 +29,7 @@ $(REPORT_MD):
 	echo "| --- | --- | --- | --- | --- | --- |" >> $(REPORT_MD)
 	echo "$(shell bcftools view -h $(OUTPUT_VCF) | grep -v '^#')" >> $(REPORT_MD)
 
-# Define the dependencies for the report
+# Dependencies for the report
 $(REPORT_MD): $(OUTPUT_VCF)
 
 # Clean up intermediate files
@@ -42,13 +44,5 @@ The following steps were performed:
 * Annotation of variants with gene names and functional predictions
 * Visualization of variants in a graphical interface
 
-## Results
-
-The variant calling process identified [insert number] variants.
-
-The filtered variants are listed in the table below:
-
-| Chromosome | Position | Reference | Alternate | Quality Score | Depth of Coverage |
-| --- | --- | --- | --- | --- | --- |
 ```
 
