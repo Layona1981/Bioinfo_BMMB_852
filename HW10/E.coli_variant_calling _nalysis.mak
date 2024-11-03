@@ -1,6 +1,6 @@
 
 
-## E. coli variant calling analysis
+# E. coli variant calling analysis
 
 INPUT_FASTQ = Ecoli.fastq
 OUTPUT_VCF = Ecoli_variants.vcf
@@ -32,7 +32,7 @@ $(REPORT_MD):
 # Dependencies for the report
 $(REPORT_MD): $(OUTPUT_VCF)
 
-# Clean up intermediate files
+# To clean up intermediate files
 clean:
 	rm -f $(OUTPUT_VCF) $(REPORT_MD)
 ```
