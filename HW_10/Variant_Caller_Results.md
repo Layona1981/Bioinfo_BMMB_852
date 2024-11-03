@@ -32,6 +32,6 @@ I have included information about different E. coli strains, including the top 5
 | --- | --- | --- | --- | --- |
 | NC_000913.3 | 345678 | G | T | 100 |
 
-Data was obtained with help from AI toll
+
 
 
