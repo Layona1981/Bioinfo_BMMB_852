@@ -1,12 +1,12 @@
-# Variant Calling Results
+### Variant Calling Results
 
-### Summary
+#### Summary
 
 * Number of variants: 100
 * Number of SNPs: 50
 * Number of indels: 20
 
-### Variant Caller Results
+#### Variant Caller Results
 
 | Chromosome | Position | Reference | Alternate | Quality Score |
 | --- | --- | --- | --- | --- |
@@ -14,13 +14,13 @@
 | NC_000913.3 | 345678 | G | T | 100 |
 |... |... |... |... |... |
 
-### False Positives
+#### False Positives
 
 | Chromosome | Position | Reference | Alternate | Quality Score |
 | --- | --- | --- | --- | --- |
 | NC_000913.3 | 234567 | A | C | 100 |
 
-### False Negatives
+#### False Negatives
 
 | Chromosome | Position | Reference | Alternate | Quality Score |
 | --- | --- | --- | --- | --- |
