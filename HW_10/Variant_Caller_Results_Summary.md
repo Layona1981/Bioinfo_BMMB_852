@@ -1,10 +1,10 @@
-# Variant Caller Results Summary
+## Variant Caller Results Summary
 
 * **Number of Variants:** 100
 * **Number of SNPs:** 50
 * **Number of Indels:** 20
 
-### Top 5 Chromosomes with Most Variants
+#### Top 5 Chromosomes with Most Variants
 
 | Chromosome | Number of Variants |
 | --- | --- |
@@ -14,7 +14,7 @@
 | NC_000913.6 | 5 |
 | NC_000913.7 | 5 |
 
-### Top 5 Types of Variants
+#### Top 5 Types of Variants
 
 | Type of Variant | Percentage |
 | --- | --- |
@@ -24,7 +24,7 @@
 | Deletions | 5% |
 | Complex Variants | 5% |
 
-### False Positives Summary
+#### False Positives Summary
 
 * **Number of False Positives:** 10
 * **Top 5 Chromosomes with Most False Positives:**
@@ -37,7 +37,7 @@
 | NC_000913.6 | 1 |
 | NC_000913.7 | 1 |
 
-### False Negatives Summary
+#### False Negatives Summary
 
 * **Number of False Negatives:** 5
 * **Top 5 Chromosomes with Most False Negatives:**
