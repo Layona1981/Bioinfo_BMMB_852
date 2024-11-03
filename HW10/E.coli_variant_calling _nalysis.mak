@@ -1,5 +1,4 @@
-# Makefile for E. coli variant calling analysis
-
+#  E. coli variant calling analysis
 
 INPUT_FASTQ = Ecoli.fastq
 OUTPUT_VCF = Ecoli_variants.vcf
