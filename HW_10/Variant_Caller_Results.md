@@ -18,8 +18,7 @@
 
 
 #### Discussion
-The variant caller's results were verified by looking at a few example alignments in the BAM file. Some examples where the variant caller did not work as expected (false positives, false negatives, etc.) are discussed below.
-
+The variant caller's results were verified by looking at a few example alignments in the BAM file. Some examples where the variant caller did not work as expected (false positives & false negatives) are discussed below:
 
 #### False Positives
 
