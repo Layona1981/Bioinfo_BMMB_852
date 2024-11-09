@@ -16,6 +16,11 @@
 | 567890 | T | A | 100 |
 | 678901 | G | C | 100 |
 
+
+#### Discussion
+The variant caller's results were verified by looking at a few example alignments in the BAM file. Some examples where the variant caller did not work as expected (false positives, false negatives, etc.) are discussed below.
+
+
 #### False Positives
 
 | Chromosome | Position | Reference | Alternate | Quality Score |
@@ -54,5 +59,10 @@ samtools view -L NC_000913.3:234567-234567 Ecoli.bam
 ```bash
 samtools view -r NC_000913.3 Ecoli.bam | grep 345678
 ```
+
+
+
+
+
 
 
