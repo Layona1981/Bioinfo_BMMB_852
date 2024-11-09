@@ -1,5 +1,26 @@
+# E. coli K-12 MG1655 Variant Data
 
+# VARIABLES
+BAM_FILE = E.coli_K-12_MG1655.bam
+REFERENCE_FILE = NC_000913.3
+OUTPUT_FILE = variant_data.vcf
 
+.PHONY: all
+all: variant_data
+
+variant_data:
+  samtools mpileup -uf $(REFERENCE_FILE) $(BAM_FILE) | bcftools call -c | vcfutils.pl varFilter -D 100 > $(OUTPUT_FILE)
+
+alignment_example_1:
+  samtools view -L $(REFERENCE_FILE):234567-234567 $(BAM_FILE) > alignment_example_1.sam
+
+alignment_example_2:
+  samtools view -r $(REFERENCE_FILE) $(BAM_FILE) | grep 345678 > alignment_example_2.sam
+```
+
+# Define the target for generating alignment example 2
+alignment_example_2.sam: $(BAM_FILE) $(REFERENCE_FILE)
+  samtools view -T $(REFERENCE_FILE) $(BAM_FILE) | grep 345678 > alignment_example_2.sam
 # E. coli variant calling analysis
 
 INPUT_FASTQ = Ecoli.fastq
