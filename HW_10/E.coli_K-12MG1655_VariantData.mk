@@ -36,7 +36,7 @@ $(REPORT_MD):
 	echo "* Annotation of variants with gene names and functional predictions" >> $(REPORT_MD)
 	echo "* Visualization of variants in a graphical interface" >> $(REPORT_MD)
 	echo "## Results" >> $(REPORT_MD)
-	echo "The variant calling process identified [insert number] variants." >> $(REPORT_MD)
+	echo "The variant calling process identified $(shell grep -v '^#' $(OUTPUT_VCF) | wc -l) variants." >> $(REPORT_MD)
 	echo "The filtered variants are listed in the table below:" >> $(REPORT_MD)
 	echo "| Chromosome | Position | Reference | Alternate | Quality Score | Depth of Coverage |" >> $(REPORT_MD)
 	echo "| --- | --- | --- | --- | --- | --- |" >> $(REPORT_MD)
@@ -48,4 +48,3 @@ $(REPORT_MD): $(OUTPUT_VCF)
 # To clean up intermediate files
 clean:
 	rm -f $(OUTPUT_FILE) $(REPORT_MD) $(OUTPUT_VCF)
-
