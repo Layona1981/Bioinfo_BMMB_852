@@ -35,13 +35,4 @@ $(REPORT_MD): $(OUTPUT_VCF)
 # To clean up intermediate files
 clean:
 	rm -f $(OUTPUT_VCF) $(REPORT_MD)
-```
 
-The following steps were performed:
-
-* Variant calling using bcftools
-* Filtering of variants based on quality score and depth of coverage
-* Annotation of variants with gene names and functional predictions
-* Visualization of variants in a graphical interface
-
-```
