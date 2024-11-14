@@ -1,3 +1,4 @@
+
 # Makefile for E. coli variant calling pipeline
 
 # Variables
@@ -27,7 +28,7 @@ index_bam: sort_bam
 	samtools index $(SORTED_BAM)
 
 call_variants: index_bam
-	bcftools mpileup -Ou -f $(REF) $(SORTED_BAM) | bcftools call -mv -Oz -o $(VCF)
+	bcftools mpileup -Ou -f $(REF) -d 500 $(SORTED_BAM) | bcftools call -mv -Oz -o $(VCF)
 
 index_vcf: call_variants
 	bcftools index $(VCF)
