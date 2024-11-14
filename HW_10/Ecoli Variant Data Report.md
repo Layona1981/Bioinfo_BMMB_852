@@ -60,6 +60,3 @@ NC_000913.3  1000    .       A       G       99      PASS    .
 NC_000913.3  1500    .       T       C       99      PASS    .
 ```
 
-## Conclusion
-The variant calling pipeline successfully identified variants in the E. coli genome. Further analysis can be performed on the VCF file to interpret the biological significance of the variants.
-```
