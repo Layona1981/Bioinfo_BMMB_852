@@ -27,7 +27,7 @@
 
 6. **Call Variants**
    ```bash
-   bcftools mpileup -Ou -f Ecoli_reference.fasta aligned_sorted.bam | bcftools call -mv -Oz -o variants.vcf.gz
+   bcftools mpileup -Ou -f Ecoli_reference.fasta -d 500 aligned_sorted.bam | bcftools call -mv -Oz -o variants.vcf.gz
    ```
 
 7. **Index the VCF File**
