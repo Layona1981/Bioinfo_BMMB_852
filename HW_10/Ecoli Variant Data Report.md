@@ -87,7 +87,7 @@ The first few lines of the VCF file are shown below:
 7. **Additional Information (INFO):**
    - The `INFO` field is empty (`.`) for both variants, indicating no additional annotations or flags are associated with these variants.
 
-### Summary:
+### Conclusion:
 - The data shows two high-confidence single nucleotide polymorphisms (SNPs) in the E. coli genome.
 - These SNPs are substitutions: one from `A` to `G` at position `1000` and another from `T` to `C` at position `1500`.
 - Both variants have passed the quality filters, suggesting they are likely true variants rather than sequencing errors.
