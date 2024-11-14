@@ -6,7 +6,6 @@
    ```bash
    bwa index Ecoli_reference.fasta
    ```
--------
 Align the Reads
 bwa mem Ecoli_reference.fasta E.COLI.fastq > aligned.sam
 
