@@ -114,7 +114,7 @@ These are the variants that were correctly identified in the VCF file. They incl
 | NC_000913.3 | 1975016  | .  | G   | A     | 3.62418  | .      | DP=11;VDB=0.02;SG           | True Positive  |
 | NC_000913.3 | 1975652  | .  | C   | T     | 5.87296  | .      | DP=10;VDB=0.02;SG           | True Positive  |
 | NC_000913.3 | 1976092  | .  | A   | T     | 8.13869  | .      | DP=1;SGB=-0.37988           | True Positive  |
-
+| NC_000913.3 |  4296380 | .  | AC  | ACGC  | 228.395  | .      | INDEL;IDV=163;IMF           |True Positive   | 
 
 ### False Positives
 This variant was identified as a false positive because it was not present in the provided VCF data.
