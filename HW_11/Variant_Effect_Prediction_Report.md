@@ -2,20 +2,20 @@
 
 # Variant Effect Prediction Report
 ## Input VCF File
-- **File Path**: /Desktop/BIOHW/BIOIHW/variants.vcf.gz
+**File Path**: /Desktop/BIOHW/BIOIHW/variants.vcf.gz
 
 ## Reference Genome
-- **Genome**: GRCh38.75
+**Genome**: GRCh38.75
 
 ## Annotated VCF File
-- **File Path**: annotated_variants.vcf
+**File Path**: annotated_variants.vcf
 
 ### Tools Used
 A variant annotation and effect prediction tool:
-- **snpEff**
+**snpEff**
 
 ### Reference genome used for annotation:
-- **GRCh38.75**
+**GRCh38.75**
 
 ### Commands used
 ```bash
