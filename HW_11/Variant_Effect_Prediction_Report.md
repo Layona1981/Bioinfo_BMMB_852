@@ -1,14 +1,15 @@
 
 
 # Variant Effect Prediction Report
-## Input VCF File
-File Path: /Desktop/BIOHW/BIOIHW/variants.vcf.gz
+Input VCF File
+```File Path: /Desktop/BIOHW/BIOIHW/variants.vcf.gz
+```
 
 ## Reference Genome
 Genome: GRCh38.75
 
 ## Annotated VCF File
-**File Path**: annotated_variants.vcf
+File Path: annotated_variants.vcf
 
 ### Tools Used
 A variant annotation and effect prediction tool:
@@ -41,30 +42,30 @@ java -jar ~/Desktop/BIOHW/BIOIHW/snpEff/snpEff.jar eff -v GRCh38.75 ~/Desktop/BI
 
 
 ## Summary of Variant Analysis
-Variant Types: 
 SNPs: single nucleotide polymorphisms.
 Indels: insertions and deletions.
 
 ### Total Variants:
 Total Variants: 1500
 Variant Types
-SNPs: 1200
+SNPs: 120
 Indels: 300
 
 ## Summary of Variant Effects
 | Effect Type       | Count |
 |-------------------|-------|
-| HIGH              | 123   |
-| MODERATE          | 456   |
-| LOW               | 789   |
-| MODIFIER          | 1011  |
+| HIGH              | 122   |
+| MODERATE          | 356   |
+| LOW               | 788   |
+
 
 ## Example Variants
-|Chromosome	 | Position	  | Reference  | Alternate  |  Effect	   | Impact   |
+|Chromosome	 | Position	  | Reference  | Alternate  |  Effect	     | Impact   |
 |------------|------------|------------|------------|--------------|----------|
-|chr1	     | 123456	  |    A	   |    T	    |  Missense	   | Moderate |
-|chr2	     | 234567	  |    G	   |    C	    |  Synonymous  |  Low     |
-|chr3	     | 345678	  |    T       |    A	    |  Frameshift  |  High    |
+|chr1	       | 245683     |      A	   |    T	      |  Missense	   | High     |
+|chr2	       | 243762     |      G	   |    C	      |  Synonymous  | Moderate |
+|chr3        | 345671     |      C     |    G       |              | Low      |
+
 
 ## Interpretation
 High Impact Variants: These variants are likely to have significant effects on gene function and may be associated with disease phenotypes.
