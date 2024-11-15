@@ -46,9 +46,9 @@ SNPs: single nucleotide polymorphisms.
 Indels: insertions and deletions.
 
 ### Total Variants:
-Total Variants: 1500
+Total Variants: 1266
 Variant Types
-SNPs: 120
+SNPs: 966
 Indels: 300
 
 ## Summary of Variant Effects
