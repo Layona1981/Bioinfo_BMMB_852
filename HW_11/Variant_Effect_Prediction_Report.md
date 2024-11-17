@@ -64,7 +64,7 @@ Indels: 300
 |------------|------------|------------|------------|--------------|----------|
 |chr1	       | 245683     |      A	   |    T	      |  Missense	   | High     |
 |chr2	       | 243762     |      G	   |    C	      |  Synonymous  | Moderate |
-|chr3        | 345671     |      C     |    G       |              | Low      |
+|chr3        | 345671     |      C     |    G       |   Nonsens    | Low      |
 
 
 ## Interpretation
