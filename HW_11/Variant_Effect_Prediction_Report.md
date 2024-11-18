@@ -42,7 +42,7 @@ java -jar ~/Desktop/BIOHW/BIOIHW/snpEff/snpEff.jar eff -v GRCh38.75 ~/Desktop/BI
 
 
 ## Summary of Variant Analysis
-SNPs: single nucleotide polymorphisms.
+SNPs: single nucleotide polymorphisms. 
 Indels: insertions and deletions.
 
 ### Total Variants:
