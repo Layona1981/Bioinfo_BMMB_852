@@ -2,23 +2,18 @@
 
 ## Variant Effect Prediction Report
 
-### Reference Genome
-Genome: GRCh38.75
 
 ### Annotated VCF File
 File Path: annotated_variants.vcf
 
 ### Tools Used
 A variant annotation and effect prediction tool:
-**snpEff**
+ **snpEff**
 
 ### Reference genome used for annotation:
 **GRCh38.75**
 
-
 ## Summary of Variant Analysis
-SNPs: single nucleotide polymorphisms. 
-Indels: insertions and deletions.
 
 ### Total Variants:
 Total Variants: 1266
