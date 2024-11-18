@@ -4,8 +4,7 @@ SNPEFF_JAR = /path/to/snpEff.jar
 GENOME = GRCh38.86
 ANNOTATED_VCF = annotated_variants.vcf
 
-# Phony targets
-.PHONY: all download_db annotate_variants
+
 
 # Rule to download snpEff database
 download_db:
