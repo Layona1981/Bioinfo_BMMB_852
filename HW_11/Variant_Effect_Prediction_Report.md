@@ -2,7 +2,8 @@
 
 # Variant Effect Prediction Report
 Input VCF File
-```File Path: /Desktop/BIOHW/BIOIHW/variants.vcf.gz
+
+``` File Path: /Desktop/BIOHW/BIOIHW/variants.vcf.gz
 ```
 
 ## Reference Genome
