@@ -1,11 +1,11 @@
 
 
 # Variant Effect Prediction Report
-Input VCF File
 
- File Path: /Desktop/BIOHW/BIOIHW/variants.vcf.gz
+``` Input VCF File
+File Path: /Desktop/BIOHW/BIOIHW/variants.vcf.gz ``` 
 
-
+```
 ## Reference Genome
 Genome: GRCh38.75
 
