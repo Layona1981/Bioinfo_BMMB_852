@@ -18,28 +18,6 @@ A variant annotation and effect prediction tool:
 ### Reference genome used for annotation:
 **GRCh38.75**
 
-### Commands used
-```bash
-# Download and unzip snpEff
-wget http://sourceforge.net/projects/snpeff/files/snpEff_latest_core.zip
-unzip snpeff_latest_core.zip
-
-# Navigate to snpEff directory
-cd ~/Desktop/BIOHW/BIOIHW/snpEff
-
-# Ensure the GRCh38.75 directory is correct
-ls ~/Desktop/BIOHW/BIOIHW/snpEff/data/GRCh38.75
-
-# Edit the snpEff configuration file
-echo "GRCh38.75.genome : GRCh38.75" >> snpEff.config
-
-# Run snpEff
-java -jar ~/Desktop/BIOHW/BIOIHW/snpEff/snpEff.jar eff -v GRCh38.75 ~/Desktop/BIOHW/BIOIHW/variants.vcf.gz > ~/Desktop/BIOHW/BIOIHW/variants_annotated.snpeff.vcf
-``` 
-
-
-
-
 
 ## Summary of Variant Analysis
 SNPs: single nucleotide polymorphisms. 
