@@ -7,7 +7,7 @@
 File Path: annotated_variants.vcf
 
 ### Tools Used
-A variant annotation and effect prediction tool:
+### A variant annotation and effect prediction tool:
  **snpEff**
 
 ### Reference genome used for annotation:
