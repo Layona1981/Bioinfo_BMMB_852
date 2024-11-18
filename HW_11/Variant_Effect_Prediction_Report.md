@@ -1,14 +1,11 @@
 
 
-# Variant Effect Prediction Report
+## Variant Effect Prediction Report
 
-``` Input VCF File
-File Path: /Desktop/BIOHW/BIOIHW/variants.vcf.gz
- ``` 
-## Reference Genome
+### Reference Genome
 Genome: GRCh38.75
 
-## Annotated VCF File
+### Annotated VCF File
 File Path: annotated_variants.vcf
 
 ### Tools Used
