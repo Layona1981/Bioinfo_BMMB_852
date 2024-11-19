@@ -1,14 +1,6 @@
 # Variant Effect Prediction Report
 
 
-### Tools Used
-**Variant Annotation and Effect Prediction Tool**: 
-- **VEP (Variant Effect Predictor)**
-
-### Reference Genome Used for Annotation:
-- **GRCh37**
-
-## Summary of Variant Analysis
 
 ### Total Variants:
 - **Total Variants**: 1266
