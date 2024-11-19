@@ -1,7 +1,5 @@
 # Variant Effect Prediction Report
 
-### Annotated File
-**File Path**: `output/annotated_variants.txt`
 
 ### Tools Used
 **Variant Annotation and Effect Prediction Tool**: 
