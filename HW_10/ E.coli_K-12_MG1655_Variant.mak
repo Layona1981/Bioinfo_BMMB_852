@@ -1,53 +1,73 @@
-# Makefile for E. coli variant calling pipeline
+# E. coli variant calling pipeline
 
 # Variables
-REF=Ecoli_reference.fasta
-READS=E.COLI.fastq
-SAM=aligned.sam
-BAM=aligned.bam
-SORTED_BAM=aligned_sorted.bam
-VCF=variants.vcf.gz
+GENOME = Ecoli.fna
+R1 = Ecoli_simulated1.fq.gz
+R2 = Ecoli_simulated2.fq.gz
+N = 1000000
+OUTPUT_DIR = ./output
+VCF_FILE = $(OUTPUT_DIR)/variants.vcf
+SORTED_BAM = $(OUTPUT_DIR)/aligned.sorted.bam
 
-# Phony targets
-.PHONY: all index_ref align_reads convert_sam_to_bam sort_bam index_bam call_variants index_vcf view_variants clean
+# Targets
+.PHONY: usage index align sort_bam index_bam call_variants filter_variants view_variants clean
 
-# Rules
-all: index_ref align_reads convert_sam_to_bam sort_bam index_bam call_variants index_vcf view_variants
+# Help
+usage:
+	@echo "Makefile targets:"
+	@echo "  index         - Index the reference genome with BWA"
+	@echo "  align         - Align simulated reads to the reference genome"
+	@echo "  sort_bam      - Sort the aligned BAM file"
+	@echo "  index_bam     - Index the sorted BAM file"
+	@echo "  call_variants - Call variants from the aligned BAM file"
+	@echo "  filter_variants - Filter variants based on quality"
+	@echo "  view_variants - View the first few lines of the VCF file"
+	@echo "  clean         - Remove all generated files to start fresh"
 
-index_ref:
-	@echo "Indexing the reference genome..."
-	bwa index $(REF)
+# Create output directory
+$(OUTPUT_DIR):
+	mkdir -p $(OUTPUT_DIR)
 
-align_reads: index_ref
-	@echo "Aligning the reads..."
-	bwa mem $(REF) $(READS) > $(SAM)
+# Index the reference genome with BWA
+index: $(OUTPUT_DIR)
+	bwa index $(GENOME)
+	@echo "Genome indexed."
 
-convert_sam_to_bam: align_reads
-	@echo "Converting SAM to BAM..."
-	samtools view -S -b $(SAM) > $(BAM)
-
-sort_bam: convert_sam_to_bam
-	@echo "Sorting the BAM file..."
-	samtools sort $(BAM) -o $(SORTED_BAM)
-
-index_bam: sort_bam
-	@echo "Indexing the sorted BAM file..."
+# Align simulated reads to the reference genome
+align: $(OUTPUT_DIR)
+	bwa mem -t 4 $(GENOME) $(R1) $(R2) | samtools sort -o $(SORTED_BAM)
 	samtools index $(SORTED_BAM)
+	@echo "Reads aligned and indexed."
 
+# Sort the aligned BAM file
+sort_bam: align
+	samtools sort $(SORTED_BAM) -o $(SORTED_BAM)
+	@echo "BAM file sorted."
+
+# Index the sorted BAM file
+index_bam: sort_bam
+	samtools index $(SORTED_BAM)
+	@echo "Sorted BAM file indexed."
+
+# Call variants from the aligned BAM file
 call_variants: index_bam
-	@echo "Calling variants..."
-	bcftools mpileup -Ou -f $(REF) -d 500 $(SORTED_BAM) | bcftools call -mv -Oz -o $(VCF)
+	bcftools mpileup -Ou -f $(GENOME) $(SORTED_BAM) | bcftools call -mv -Ov -o $(VCF_FILE)
+	@echo "Variants called."
 
-index_vcf: call_variants
-	@echo "Indexing the VCF file..."
-	bcftools index $(VCF)
+# Filter variants based on quality
+filter_variants: call_variants
+	bcftools filter -i 'QUAL>20' $(VCF_FILE) -o $(OUTPUT_DIR)/filtered_variants.vcf
+	@echo "Variants filtered by quality."
 
-view_variants: index_vcf
-	@echo "Viewing the first few variants..."
-	bcftools view $(VCF) | head
+# View the first few lines of the VCF file
+view_variants: filter_variants
+	head $(OUTPUT_DIR)/filtered_variants.vcf
+	@echo "Displayed first few lines of the filtered variants file."
 
+# Clean up generated files
 clean:
-	@echo "Cleaning up intermediate files..."
-	rm -f $(SAM) $(BAM) $(SORTED_BAM) $(VCF) $(VCF).csi
+	rm -rf $(OUTPUT_DIR)/*.bam $(OUTPUT_DIR)/*.vcf $(OUTPUT_DIR)/*.bai $(OUTPUT_DIR)
+	@echo "Cleaned up generated files."
+
 
 
