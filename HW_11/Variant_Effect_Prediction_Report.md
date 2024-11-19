@@ -1,25 +1,23 @@
+# Variant Effect Prediction Report
 
-
-## Variant Effect Prediction Report
-
-
-### Annotated VCF File
-File Path: annotated_variants.vcf
+### Annotated File
+**File Path**: `output/annotated_variants.txt`
 
 ### Tools Used
-### A variant annotation and effect prediction tool:
- **snpEff**
+**Variant Annotation and Effect Prediction Tool**: 
+- **VEP (Variant Effect Predictor)**
 
-### Reference genome used for annotation:
-**GRCh38.75**
+### Reference Genome Used for Annotation:
+- **GRCh37**
 
 ## Summary of Variant Analysis
 
 ### Total Variants:
-Total Variants: 1266
-Variant Types
-SNPs: 966
-Indels: 300
+- **Total Variants**: 1266
+
+### Variant Types:
+- **SNPs**: 966
+- **Indels**: 300
 
 ## Summary of Variant Effects
 | Effect Type       | Count |
@@ -28,20 +26,18 @@ Indels: 300
 | MODERATE          | 356   |
 | LOW               | 788   |
 
-
 ## Example Variants
-|Chromosome	 | Position	  | Reference  | Alternate  |  Effect	     | Impact   |
-|------------|------------|------------|------------|--------------|----------|
-|chr1	       | 245683     |      A	   |    T	      |  Missense	   | High     |
-|chr2	       | 243762     |      G	   |    C	      |  Synonymous  | Moderate |
-|chr3        | 345671     |      C     |    G       |   Nonsens    | Low      |
-
+| Chromosome | Position | Reference | Alternate | Effect     | Impact   |
+|------------|----------|-----------|-----------|------------|----------|
+| chr1       | 245683   | A         | T         | Missense   | HIGH     |
+| chr2       | 243762   | G         | C         | Synonymous | MODERATE |
+| chr3       | 345671   | C         | G         | Nonsense   | LOW      |
 
 ## Interpretation
-High Impact Variants: These variants are likely to have significant effects on gene function and may be associated with disease phenotypes.
-Moderate Impact Variants: These variants may have moderate effects on gene function and could contribute to phenotypic variation.
-Low Impact Variants: These variants are likely to have minimal effects on gene function but could still be of interest in certain contexts.
+- **High Impact Variants**: These variants are likely to have significant effects on gene function and may be associated with disease phenotypes.
+- **Moderate Impact Variants**: These variants may have moderate effects on gene function and could contribute to phenotypic variation.
+- **Low Impact Variants**: These variants are likely to have minimal effects on gene function but could still be of interest in certain contexts.
 
-
-
+## Conclusion
+The analysis highlights the distribution of variants and their potential impacts on gene function. Further investigation into high and moderate impact variants is recommended to explore their biological significance and potential association with traits or diseases.
 
