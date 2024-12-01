@@ -6,16 +6,15 @@ ACC = https://api.ncbi.nlm.nih.gov/datasets/v2/genome/accession/GCF_020099175.1/
 GENOME_FASTA = GCF_020099175.1_Klebsiella_genome.fna  
 GENOME_GFF = GCF_020099175.1_Klebsiella_annotations.gff 
 SRA_DATA_DIR = sra_data
+VCF_OUTPUT = merged_variants.vcf  # Output file for merged VCF
 
 # Targets
-.PHONY: all genome simulate download index align call_variants report clean help
+.PHONY: all genome simulate download index align call_variants report clean help merge_vcf
 
 # Default target
-all: genome download index align call_variants
+all: genome download index align call_variants merge_vcf
 
 # Target to download and prepare the genome
-genome:
-	# Target to download and prepare the genome
 genome:
 	@echo "Downloading genome..."
 	curl -L "$(ACC)" -o genome_data.zip
@@ -24,6 +23,12 @@ genome:
 	mv genome_data/ncbi_dataset/data/GCF_020099175.1/genomic.gff $(GENOME_GFF)
 	rm -rf genome_data genome_data.zip
 	@echo "Genome downloaded and files renamed to $(GENOME_FASTA) and $(GENOME_GFF)."
+
+# Target to merge VCF files
+merge_vcf: $(SRR1).vcf.gz $(SRR2).vcf.gz $(SRR3).vcf.gz
+	@echo "Merging VCF files..."
+	vcf-merge $(SRR1).vcf.gz $(SRR2).vcf.gz $(SRR3).vcf.gz > $(VCF_OUTPUT)
+	@echo "Merged VCF file created: $(VCF_OUTPUT)."
 
 
 # Target to simulate sequencing reads
