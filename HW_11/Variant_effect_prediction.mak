@@ -1,44 +1,65 @@
 
-Makefile for variant effect prediction using snpEff
-
 # Variables
-VCF_INPUT = /Desktop/BIOHW/BIOIHW/variants.vcf.gz
-SNPEFF_JAR = /path/to/snpEff.jar
-GENOME = GRCh38.86
-ANNOTATED_VCF = annotated_variants.vcf
-OUTPUT_DIR = ./output
+SRR1 = SRR31316866
+SRR2 = SRR31447817
+ACC = https://api.ncbi.nlm.nih.gov/datasets/v2/genome/accession/GCF_020099175.1/download?include_annotation_type=GENOME_FASTA&include_annotation_type=GENOME_GFF&include_annotation_type=RNA_FASTA&include_annotation_type=CDS_FASTA&include_annotation_type=PROT_FASTA&include_annotation_type=SEQUENCE_REPORT&hydrated=FULLY_HYDRATED
+GENOME_FASTA = GCF_020099175.1_Klebsiella_genome.fna  
+GENOME_GFF = GCF_020099175.1_Klebsiella_annotations.gff 
+SRA_DATA_DIR = sra_data
+VCF_OUTPUT = merged_variants.vcf  # Output file for merged VCF
 
 # Targets
-.PHONY: usage download_db annotate_variants view_annotations clean
+.PHONY: all genome download_sra align call_variants merge_vcf clean
 
-# Help
-usage:
-	@echo "Makefile targets:"
-	@echo "  download_db       - Download snpEff database"
-	@echo "  annotate_variants - Annotate variants using snpEff"
-	@echo "  view_annotations  - View the annotated variants"
-	@echo "  clean             - Remove all generated files to start fresh"
+# Default target
+all: genome download_sra align call_variants merge_vcf
 
-# Create output directory
-$(OUTPUT_DIR):
-	mkdir -p $(OUTPUT_DIR)
+# Target to download and prepare the genome
+genome:
+	@echo "Downloading genome..."
+	curl -L "$(ACC)" -o genome_data.zip
+	unzip genome_data.zip -d genome_data
+	mv genome_data/ncbi_dataset/data/GCF_020099175.1/GCF_020099175.1_ASM2009917v1_genomic.fna $(GENOME_FASTA)
+	mv genome_data/ncbi_dataset/data/GCF_020099175.1/genomic.gff $(GENOME_GFF)
+	rm -rf genome_data genome_data.zip
+	@echo "Genome downloaded and files renamed to $(GENOME_FASTA) and $(GENOME_GFF)."
 
-# Download snpEff database
-download_db: $(OUTPUT_DIR)
-	java -jar $(SNPEFF_JAR) download $(GENOME)
-	@echo "snpEff database downloaded."
+# Target to download SRA data
+download_sra:
+	@echo "Downloading SRA data..."
+	# Replace with actual SRA download commands
+	# Example using fasterq-dump from SRA Toolkit
+	fasterq-dump $(SRR1) --outdir $(SRA_DATA_DIR)
+	fasterq-dump $(SRR2) --outdir $(SRA_DATA_DIR)
+	@echo "SRA data downloaded to $(SRA_DATA_DIR)."
 
-# Annotate variants using snpEff
-annotate_variants: download_db
-	java -jar $(SNPEFF_JAR) $(GENOME) $(VCF_INPUT) > $(OUTPUT_DIR)/$(ANNOTATED_VCF)
-	@echo "Variants annotated."
+# Target to align reads
+align:
+	@echo "Aligning reads..."
+	# Replace with actual alignment command (e.g., BWA, HISAT2)
+	# Example using BWA
+	bwa index $(GENOME_FASTA)
+	bwa mem $(GENOME_FASTA) $(SRA_DATA_DIR)/$(SRR1).fastq $(SRA_DATA_DIR)/$(SRR2).fastq > aligned_reads.sam
+	@echo "Reads aligned to $(GENOME_FASTA)."
 
-# View the annotated variants
-view_annotations:
-	head $(OUTPUT_DIR)/$(ANNOTATED_VCF)
-	@echo "Displayed first few lines of the annotated variants file."
+# Target to call variants
+call_variants:
+	@echo "Calling variants..."
+	# Replace with actual variant calling command (e.g., GATK, FreeBayes)
+	# Example using bcftools
+	samtools view -bS aligned_reads.sam > aligned_reads.bam
+	samtools sort aligned_reads.bam -o sorted_reads.bam
+	samtools index sorted_reads.bam
+	bcftools mpileup -f $(GENOME_FASTA) sorted_reads.bam | bcftools call -mv -o $(SRR1)_variants.vcf
+	@echo "Variants called and saved to $(SRR1)_variants.vcf."
+
+# Target to merge VCF files
+merge_vcf: $(SRR1)_variants.vcf $(SRR2)_variants.vcf
+	@echo "Merging VCF files..."
+	vcf-merge $(SRR1)_variants.vcf $(SRR2)_variants.vcf > $(VCF_OUTPUT)
+	@echo "Merged VCF file created: $(VCF_OUTPUT)."
 
 # Clean up generated files
 clean:
-	rm -f $(OUTPUT_DIR)/$(ANNOTATED_VCF)
+	rm -rf $(SRA_DATA_DIR)/*.fastq aligned_reads.sam aligned_reads.bam sorted_reads.bam sorted_reads.bam.bai $(SRR1)_variants.vcf $(SRR2)_variants.vcf $(VCF_OUTPUT)
 	@echo "Cleaned up generated files."
