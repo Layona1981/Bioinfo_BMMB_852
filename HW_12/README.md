@@ -5,8 +5,6 @@ This project involves downloading the Klebsiella genome, simulating the sequenci
 
 ## Prerequisites
 
-Ensure you have the following tools installed:
-
 - **curl**: For downloading files from the internet.
 - **unzip**: To extract downloaded zip files.
 - **BWA**: For sequence alignment.
@@ -24,13 +22,6 @@ I have installed these tools using a package manager `brew`
 - `README.md`: This documentation file.
 - `design.csv`: A CSV file listing the samples to process.
 
-## Usage
-
-I run the entire workflow, and execute the following command in my terminal:
-
-```bash
-make all
-```
 
 ### Available Targets
 
