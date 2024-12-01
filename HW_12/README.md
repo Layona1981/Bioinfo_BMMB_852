@@ -17,9 +17,8 @@ Ensure you have the following tools installed:
 
 I have installed these tools using a package manager `brew`
 
-## File Structure
 
-The project directory should contain the following files:
+### The project directory contained the following files:
 
 - `Makefile`: The main file that defines the tasks.
 - `README.md`: This documentation file.
@@ -27,13 +26,11 @@ The project directory should contain the following files:
 
 ## Usage
 
-To run the entire workflow, simply execute the following command in your terminal:
+I run the entire workflow, and execute the following command in my terminal:
 
 ```bash
 make all
-Sure! Below is a complete Makefile along with a README.md file, a design.csv file, and a discussion of the resulting VCF file.
 ```
-
 
 ### Available Targets
 
@@ -46,18 +43,6 @@ Sure! Below is a complete Makefile along with a README.md file, a design.csv fil
 - `clean`: Cleans up generated files, removing all intermediate outputs.
 - `help`: Lists all available targets and their descriptions.
 
-## Example Workflow
-
-1. **Prepare the `design.csv` file**: Add the SRR samples you want to process.
-2. **Run the entire workflow**:
-   ```bash
-   make all
-   ```
-3. **Clean Up**:
-   ```bash
-   make clean
-   ```
-
 ## Notes
 
 - Ensure you have sufficient disk space for downloading and processing the genome data and reads.
@@ -66,7 +51,6 @@ Sure! Below is a complete Makefile along with a README.md file, a design.csv fil
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
 ### Discussion of the VCF File
 
