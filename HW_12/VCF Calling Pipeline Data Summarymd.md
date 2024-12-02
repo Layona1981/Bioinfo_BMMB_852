@@ -33,20 +33,7 @@ chr1    1500    .       T       C       60      PASS    DP=30   GT      0/0     
 chr2    2000    .       G       A       40      PASS    DP=25   GT      0/1         0/1         0/0
 ```
 
-**2. Summary CSV File (`results_summary.csv`)**
-```plaintext
-Sample,Variants Called
-SRR31316866,10
-SRR31447817,8
-SRR31486905,12
-```
 
-### Summary of Results
 
-- **Total Variants Identified**: 30 across all samples.
-- **Variant Distribution**:
-  - **SRR31316866**: 10 variants
-  - **SRR31447817**: 8 variants
-  - **SRR31486905**: 12 variants
 
 
