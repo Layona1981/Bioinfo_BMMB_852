@@ -5,7 +5,7 @@ SRR2 = SRR31447817
 ACC = https://api.ncbi.nlm.nih.gov/datasets/v2/genome/accession/GCF_020099175.1/download?include_annotation_type=GENOME_FASTA&include_annotation_type=GENOME_GFF&include_annotation_type=RNA_FASTA&include_annotation_type=CDS_FASTA&include_annotation_type=PROT_FASTA&include_annotation_type=SEQUENCE_REPORT&hydrated=FULLY_HYDRATED
 GENOME_FASTA = GCF_020099175.1_Klebsiella_genome.fna  
 GENOME_GFF = GCF_020099175.1_Klebsiella_annotations.gff 
-SRA_DATA_DIR = sra_data
+SRA_DATA_DIR = week11  
 VCF_OUTPUT = merged_variants.vcf  # Output file for merged VCF
 
 # Targets
@@ -27,8 +27,7 @@ genome:
 # Target to download SRA data
 download_sra:
 	@echo "Downloading SRA data..."
-	# Replace with actual SRA download commands
-	# Example using fasterq-dump from SRA Toolkit
+	mkdir -p $(SRA_DATA_DIR)  # Create the directory if it doesn't exist
 	fasterq-dump $(SRR1) --outdir $(SRA_DATA_DIR)
 	fasterq-dump $(SRR2) --outdir $(SRA_DATA_DIR)
 	@echo "SRA data downloaded to $(SRA_DATA_DIR)."
@@ -36,8 +35,6 @@ download_sra:
 # Target to align reads
 align:
 	@echo "Aligning reads..."
-	# Replace with actual alignment command (e.g., BWA, HISAT2)
-	# Example using BWA
 	bwa index $(GENOME_FASTA)
 	bwa mem $(GENOME_FASTA) $(SRA_DATA_DIR)/$(SRR1).fastq $(SRA_DATA_DIR)/$(SRR2).fastq > aligned_reads.sam
 	@echo "Reads aligned to $(GENOME_FASTA)."
@@ -45,13 +42,12 @@ align:
 # Target to call variants
 call_variants:
 	@echo "Calling variants..."
-	# Replace with actual variant calling command (e.g., GATK, FreeBayes)
-	# Example using bcftools
 	samtools view -bS aligned_reads.sam > aligned_reads.bam
 	samtools sort aligned_reads.bam -o sorted_reads.bam
 	samtools index sorted_reads.bam
 	bcftools mpileup -f $(GENOME_FASTA) sorted_reads.bam | bcftools call -mv -o $(SRR1)_variants.vcf
-	@echo "Variants called and saved to $(SRR1)_variants.vcf."
+	bcftools mpileup -f $(GENOME_FASTA) sorted_reads.bam | bcftools call -mv -o $(SRR2)_variants.vcf
+	@echo "Variants called and saved to $(SRR1)_variants.vcf and $(SRR2)_variants.vcf."
 
 # Target to merge VCF files
 merge_vcf: $(SRR1)_variants.vcf $(SRR2)_variants.vcf
