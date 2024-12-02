@@ -1,5 +1,5 @@
 # Variables
-SRR1 = SRR31486904
+SRR1 = SRR31316866
 SRR2 = SRR31447817
 SRR3 = SRR31486905
 ACC = https://api.ncbi.nlm.nih.gov/datasets/v2/genome/accession/GCF_020099175.1/download?include_annotation_type=GENOME_FASTA&include_annotation_type=GENOME_GFF&include_annotation_type=RNA_FASTA&include_annotation_type=CDS_FASTA&include_annotation_type=PROT_FASTA&include_annotation_type=SEQUENCE_REPORT&hydrated=FULLY_HYDRATED
@@ -87,8 +87,11 @@ help:
 	@echo "  download        - Download SRR data."
 	@echo "  index           - Index the genome."
 	@echo "  align           - Align reads to the genome."
+	@echo "  sam_to_bam      - Convert SAM files to BAM."
+	@echo "  sort_bam        - Sort BAM files."
 	@echo "  call_variants   - Call variants from aligned reads."
-	@echo "  report          - Generate a report."
+	@echo "  merge_vcf       - Merge resulting VCF files."
+	@echo "  generate_csv    - Generate a CSV summary."
 	@echo "  clean           - Clean up generated files."
 -------------------------------------------------------------------
 
@@ -183,18 +186,4 @@ clean:
 	rm -f *.bam *.sorted.bam *.vcf *.fq.gz *.sam
 	@echo "Cleaned up generated files."
 
-# Help target to list available commands
-help:
-	@echo "Available targets:"
-	@echo "  all             - Run all tasks."
-	@echo "  genome          - Download and prepare the genome."
-	@echo "  simulate        - Simulate sequencing reads."
-	@echo "  download        - Download SRR data."
-	@echo "  index           - Index the genome."
-	@echo "  align           - Align reads to the genome."
-	@echo "  sam_to_bam      - Convert SAM files to BAM."
-	@echo "  sort_bam        - Sort BAM files."
-	@echo "  call_variants   - Call variants from aligned reads."
-	@echo "  merge_vcf       - Merge resulting VCF files."
-	@echo "  generate_csv    - Generate a CSV summary."
-	@echo "  clean           - Clean up generated files."
+
