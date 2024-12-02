@@ -1,5 +1,5 @@
 # Variables
-SRR1 = SRR31316866
+SRR1 = SRR31486904
 SRR2 = SRR31447817
 SRR3 = SRR31486905
 ACC = https://api.ncbi.nlm.nih.gov/datasets/v2/genome/accession/GCF_020099175.1/download?include_annotation_type=GENOME_FASTA&include_annotation_type=GENOME_GFF&include_annotation_type=RNA_FASTA&include_annotation_type=CDS_FASTA&include_annotation_type=PROT_FASTA&include_annotation_type=SEQUENCE_REPORT&hydrated=FULLY_HYDRATED
