@@ -50,3 +50,5 @@ The resulting VCF file contains information about the variants detected in the a
 - `Quality`: Evaluate the variants' quality scores to determine their reliability. High-quality variants are more likely to be true positives.
 - `Comparative Analysis`: If you have multiple samples, compare the VCF files to identify common and unique variants across samples.
 
+### Note:
+- `Some codes were generated with the assistance of the 'Copilot' AI tool`
