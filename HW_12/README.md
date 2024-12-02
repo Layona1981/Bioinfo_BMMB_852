@@ -41,12 +41,12 @@ This project provides a Makefile for performing genome analysis, including downl
 
 
 ### Discussion of the VCF File
-
 The resulting VCF file contains information about the variants detected in the aligned sequencing data. Here are some points to consider:
 
-- `Content`: The VCF file includes various fields such as chromosome position, reference allele, alternate allele, quality scores, and genotype information for each sample.
+- `Content`: The VCF file includes various fields for each sample, such as chromosome position, reference allele, alternate allele, quality scores, and genotype information.
+  
 - `Variants`: Look for SNPs (single nucleotide polymorphisms) and indels (insertions/deletions). The number and type of variants can provide insights into genetic diversity, mutations, and potential associations with traits or diseases.
-- **Quality**: Evaluate the quality scores for the variants to determine their reliability. High-quality variants are more likely to be true positives.
-- **Comparative Analysis**: If you have multiple samples, compare the VCF files to identify common and unique variants across samples.
+  
+- `Quality`: Evaluate the variants' quality scores to determine their reliability. High-quality variants are more likely to be true positives.
+- `Comparative Analysis`: If you have multiple samples, compare the VCF files to identify common and unique variants across samples.
 
-This complete setup should allow you to successfully run your project from downloading the genome to processing the samples and analyzing the VCF output.
