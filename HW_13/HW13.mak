@@ -1,22 +1,17 @@
 
-# Makefile for Klebsiella RNA-Seq Analysis
-
-# SRR dataset identifiers
-SRR1 = SRR31486905
-SRR2 = SRR31447817
-SRR3 = SRR31316866 
+# Variables
+SRR_IDS = SRR31316866 SRR31447817 SRR31486905  # List of SRR datasets
 ACC = https://api.ncbi.nlm.nih.gov/datasets/v2/genome/accession/GCF_020099175.1/download?include_annotation_type=GENOME_FASTA&include_annotation_type=GENOME_GFF&include_annotation_type=RNA_FASTA&include_annotation_type=CDS_FASTA&include_annotation_type=PROT_FASTA&include_annotation_type=SEQUENCE_REPORT&hydrated=FULLY_HYDRATED
 GENOME_FASTA = GCF_020099175.1_Klebsiella_genome.fna  
 GENOME_GFF = GCF_020099175.1_Klebsiella_annotations.gff 
 SRA_DATA_DIR = sra_data
 VCF_OUTPUT = merged_variants.vcf  # Output file for merged VCF
-COUNT_MATRIX = count_matrix.tsv  # Output file for count matrix
 
 # Targets
-.PHONY: all genome download_sra align call_variants merge_vcf create_count_matrix clean
+.PHONY: all genome download index align call_variants merge_vcf clean help
 
 # Default target
-all: genome download_sra align call_variants merge_vcf create_count_matrix
+all: genome download index align call_variants merge_vcf
 
 # Target to download and prepare the genome
 genome:
@@ -28,47 +23,54 @@ genome:
 	rm -rf genome_data genome_data.zip
 	@echo "Genome downloaded and files renamed to $(GENOME_FASTA) and $(GENOME_GFF)."
 
-# Target to download SRA data
-download_sra:
-	@echo "Downloading SRA data..."
-	mkdir -p $(SRA_DATA_DIR)  # Ensure the directory exists
-	fasterq-dump $(SRR1) --outdir $(SRA_DATA_DIR)
-	fasterq-dump $(SRR2) --outdir $(SRA_DATA_DIR)
-	fasterq-dump $(SRR3) --outdir $(SRA_DATA_DIR)  # Download third dataset
-	@echo "SRA data downloaded to $(SRA_DATA_DIR)."
-
-# Target to align reads
-align:
-	@echo "Aligning reads..."
-	bwa index $(GENOME_FASTA)
-	bwa mem $(GENOME_FASTA) $(SRA_DATA_DIR)/$(SRR1).fastq $(SRA_DATA_DIR)/$(SRR2).fastq $(SRA_DATA_DIR)/$(SRR3).fastq > aligned_reads.sam
-	@echo "Reads aligned to $(GENOME_FASTA)."
-
-# Target to call variants
-call_variants:
-	@echo "Calling variants..."
-	samtools view -bS aligned_reads.sam > aligned_reads.bam
-	samtools sort aligned_reads.bam -o sorted_reads.bam
-	samtools index sorted_reads.bam
-	bcftools mpileup -f $(GENOME_FASTA) sorted_reads.bam | bcftools call -mv -o $(SRR1)_variants.vcf
-	bcftools mpileup -f $(GENOME_FASTA) sorted_reads.bam | bcftools call -mv -o $(SRR2)_variants.vcf
-	bcftools mpileup -f $(GENOME_FASTA) sorted_reads.bam | bcftools call -mv -o $(SRR3)_variants.vcf  # Call variants for third dataset
-	@echo "Variants called and saved to $(SRR1)_variants.vcf, $(SRR2)_variants.vcf, and $(SRR3)_variants.vcf."
-
 # Target to merge VCF files
-merge_vcf: $(SRR1)_variants.vcf $(SRR2)_variants.vcf $(SRR3)_variants.vcf
+merge_vcf:
 	@echo "Merging VCF files..."
-	vcf-merge $(SRR1)_variants.vcf $(SRR2)_variants.vcf $(SRR3)_variants.vcf > $(VCF_OUTPUT)
+	vcf-merge $(SRR_IDS:_variants.vcf) > $(VCF_OUTPUT)
 	@echo "Merged VCF file created: $(VCF_OUTPUT)."
 
-# Target to create count matrix
-create_count_matrix:
-	@echo "Creating count matrix..."
-	# Example using featureCounts from Subread package
-	featureCounts -a $(GENOME_GFF) -o $(COUNT_MATRIX) sorted_reads.bam
-	@echo "Count matrix created: $(COUNT_MATRIX)."
+# Target to download SRR data
+download:
+	mkdir -p $(SRA_DATA_DIR)
+	for SRR in $(SRR_IDS); do \
+		fastq-dump $$SRR -O $(SRA_DATA_DIR)/; \
+	done
+	@echo "SRR data downloaded."
 
-# Clean up generated files
+# Target to index the genome
+index:
+	bwa index $(GENOME_FASTA)
+	@echo "Genome indexed."
+
+# Target to align reads to the genome
+align:
+	for SRR in $(SRR_IDS); do \
+		bwa mem $(GENOME_FASTA) $(SRA_DATA_DIR)/$$SRR.fastq | samtools view -bS - > $$SRR.bam; \
+	done
+	@echo "Reads aligned."
+
+# Target to call variants from aligned reads
+call_variants:
+	for SRR in $(SRR_IDS); do \
+		samtools sort $$SRR.bam -o $$SRR.sorted.bam; \
+		bcftools mpileup -f $(GENOME_FASTA) $$SRR.sorted.bam | bcftools call -mv -o $$SRR_variants.vcf; \
+	done
+	@echo "Variants called."
+
+# Target to clean up generated files
 clean:
-	rm -rf $(SRA_DATA_DIR)/*.fastq aligned_reads.sam aligned_reads.bam sorted_reads.bam sorted_reads.bam.bai $(SRR1)_variants.vcf $(SRR2)_variants.vcf $(SRR3)_variants.vcf $(VCF_OUTPUT) $(COUNT_MATRIX)
+	rm -f *.bam *.sorted.bam *.vcf *.fq.gz
 	@echo "Cleaned up generated files."
+
+# Help target to list available commands
+help:
+	@echo "Available targets:"
+	@echo "  all             - Run all tasks."
+	@echo "  genome          - Download and prepare the genome."
+	@echo "  download        - Download SRR data."
+	@echo "  index           - Index the genome."
+	@echo "  align           - Align reads to the genome."
+	@echo "  call_variants   - Call variants from aligned reads."
+	@echo "  merge_vcf       - Merge VCF files."
+	@echo "  clean           - Clean up generated files."
+	@echo "  help            - Show this help message."
