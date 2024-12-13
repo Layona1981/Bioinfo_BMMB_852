@@ -1,0 +1,21 @@
+# Design Document for Klebsiella RNA-Seq Analysis Pipeline
+
+## Purpose
+The purpose of this pipeline is to analyze RNA-Seq data from Klebsiella to generate a count matrix that summarizes read counts across multiple datasets.
+
+## Workflow
+1. **Data Acquisition**: Download RNA-Seq data from SRA.
+2. **Preprocessing**: Align reads to the reference genome.
+3. **Quantification**: Count reads associated with genes.
+4. **Analysis**: Load and analyze the count matrix in R.
+
+## Data Flow
+- **Input**: Raw FASTQ files from SRA.
+- **Processing**:
+  - Alignment using HISAT2.
+  - Conversion to BAM format using SAMtools.
+  - Counting features using FeatureCounts.
+- **Output**: Count matrix summarizing gene expression levels.
+
+## Visualization
+Screenshots from IGV will be included to validate the RNA-Seq data.
