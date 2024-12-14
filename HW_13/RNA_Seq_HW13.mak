@@ -12,6 +12,9 @@ TRIMMED_FILES = output_1_trimmed.fastq output_2_trimmed.fastq
 ALIGNMENT_PREFIX = sample_
 COUNT_OUTPUT = counts.txt  # Output file for raw counts
 
+# Requirements
+REQUIRED_TOOLS = hisat2 samtools featureCounts R
+
 # Targets
 .PHONY: all genome download_sra align call_variants merge_vcf create_count_matrix clean rna_seq
 
