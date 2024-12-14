@@ -6,8 +6,8 @@ GENOME_FASTA = GCF_020099175.1_Klebsiella_genome.fna
 GENOME_GFF = GCF_020099175.1_Klebsiella_annotations.gff 
 SRA_DATA_DIR = sra_data
 VCF_OUTPUT = merged_variants.vcf  # Output file for merged VCF
+COUNT_MATRIX = count_matrix.tsv  # Output file for count matrix# Targets
 
-# Targets
 .PHONY: all genome download index align call_variants merge_vcf clean help
 
 # Default target
