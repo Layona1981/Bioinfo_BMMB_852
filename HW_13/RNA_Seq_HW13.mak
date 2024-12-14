@@ -1,11 +1,11 @@
 # Variables
-SRR_IDS = SRR31486905 SRR31447817 SRR31316866  # List of SRR datasets
+SRR_IDS = SRR31486905 SRR31447817 SRR31316866 SRR12345678 SRR12345679 SRR12345680 SRR12345681 SRR12345682  # List of SRR datasets
 ACC = https://api.ncbi.nlm.nih.gov/datasets/v2/genome/accession/GCF_020099175.1/download?include_annotation_type=GENOME_FASTA&include_annotation_type=GENOME_GFF&include_annotation_type=RNA_FASTA&include_annotation_type=CDS_FASTA&include_annotation_type=PROT_FASTA&include_annotation_type=SEQUENCE_REPORT&hydrated=FULLY_HYDRATED
 GENOME_FASTA = GCF_020099175.1_Klebsiella_genome.fna  
 GENOME_GFF = GCF_020099175.1_Klebsiella_annotations.gff 
 SRA_DATA_DIR = sra_data
 VCF_OUTPUT = merged_variants.vcf  # Output file for merged VCF
-COUNT_MATRIX = count_matrix.tsv  # Output file for count matrix
+COUNT_MATRIX = count_matrix.tsv  # Output file for count matrix# Targets
 
 # RNA-Seq Variables
 TRIMMED_FILES = output_1_trimmed.fastq output_2_trimmed.fastq
