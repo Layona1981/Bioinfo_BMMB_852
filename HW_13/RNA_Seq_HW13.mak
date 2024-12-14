@@ -34,7 +34,7 @@ genome:
 # Target to download SRA data
 download_sra:
 	@echo "Downloading SRA data..."
-	mkdir -p $(SRA_DATA_DIR)  # Ensure the directory exists
+	mkdir -p $(SRA_DATA_DIR)  
 	for SRR in $(SRR_IDS); do \
 		fasterq-dump $$SRR --outdir $(SRA_DATA_DIR); \
 	done
