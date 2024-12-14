@@ -1,5 +1,3 @@
-
-
 # Results for RNA-Seq Analysis of Klebsiella pneumonia
 
 This document summarizes the results of RNA-Seq analysis conducted on various **Klebsiella pneumoniae** samples. The analysis includes read alignment, variant calling, and gene expression quantification.
