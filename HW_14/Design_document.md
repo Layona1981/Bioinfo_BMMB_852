@@ -38,4 +38,5 @@ This document outlines the design and implementation details for conducting diff
 tematic approach to identifying key genes involved in biological processes influenced by treatment conditions.
 
 ##  References
-
+- [NCBI SRA Database](https://www.ncbi.nlm.nih.gov/sra)
+- [FeatureCounts Documentation](https://bioinf.wehi.edu.au/featureCounts/) 
