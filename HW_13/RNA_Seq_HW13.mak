@@ -7,11 +7,16 @@ SRA_DATA_DIR = sra_data
 VCF_OUTPUT = merged_variants.vcf  # Output file for merged VCF
 COUNT_MATRIX = count_matrix.tsv  # Output file for count matrix
 
+# RNA-Seq Variables
+TRIMMED_FILES = output_1_trimmed.fastq output_2_trimmed.fastq
+ALIGNMENT_PREFIX = sample_
+COUNT_OUTPUT = counts.txt  # Output file for raw counts
+
 # Targets
-.PHONY: all genome download_sra align call_variants merge_vcf create_count_matrix clean
+.PHONY: all genome download_sra align call_variants merge_vcf create_count_matrix clean rna_seq
 
 # Default target
-all: genome download_sra align call_variants merge_vcf create_count_matrix
+all: genome download_sra align call_variants merge_vcf create_count_matrix rna_seq
 
 # Target to download and prepare the genome
 genome:
@@ -62,7 +67,25 @@ create_count_matrix:
 	featureCounts -a $(GENOME_GFF) -o $(COUNT_MATRIX) sorted_reads.bam
 	@echo "Count matrix created: $(COUNT_MATRIX)."
 
+# RNA-Seq Analysis Steps
+rna_seq: trim align_counts
+
+# Target to trim low-quality reads (add your specific trimming command)
+trim:
+	@echo "Trimming low-quality reads..."
+	trimmomatic PE -phred33 $(SRA_DATA_DIR)/*.fastq $(TRIMMED_FILES) SLIDINGWINDOW:4:20 MINLEN:36
+	@echo "Trimming complete."
+
+# Target to align trimmed reads and create a count matrix
+align_counts: trim
+	@echo "Aligning trimmed reads..."
+	STAR --runThreadN 4 --genomeDir $(GENOME_FASTA) --readFilesIn $(TRIMMED_FILES) --outFileNamePrefix $(ALIGNMENT_PREFIX) --outSAMtype SAM
+	@echo "Counting reads..."
+	featureCounts -a $(GENOME_GFF) -o $(COUNT_OUTPUT) $(ALIGNMENT_PREFIX)Aligned.out.sam
+	@echo "Count matrix created: $(COUNT_OUTPUT)."
+
 # Clean up generated files
 clean:
-	rm -rf $(SRA_DATA_DIR)/*.fastq aligned_reads.sam aligned_reads.bam sorted_reads.bam sorted_reads.bam.bai $(patsubst %, %, $(SRR_IDS:_variants.vcf)) $(VCF_OUTPUT) $(COUNT_MATRIX)
+	rm -rf $(SRA_DATA_DIR)/*.fastq aligned_reads.sam aligned_reads.bam sorted_reads.bam sorted_reads.bam.bai $(patsubst %, %, $(SRR_IDS:_variants.vcf)) $(VCF_OUTPUT) $(COUNT_MATRIX) $(TRIMMED_FILES) $(COUNT_OUTPUT)
 	@echo "Cleaned up generated files."
+
