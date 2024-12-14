@@ -1,6 +1,6 @@
 
 # Variables
-SRR_IDS = SRR31316866 SRR31447817 SRR31486905  # List of SRR datasets
+SRR_IDS = SRR31486905 SRR31447817 SRR31316866 SRR12345678 SRR12345679 SRR12345680 SRR12345681 SRR12345682  # List of SRR datasets
 ACC = https://api.ncbi.nlm.nih.gov/datasets/v2/genome/accession/GCF_020099175.1/download?include_annotation_type=GENOME_FASTA&include_annotation_type=GENOME_GFF&include_annotation_type=RNA_FASTA&include_annotation_type=CDS_FASTA&include_annotation_type=PROT_FASTA&include_annotation_type=SEQUENCE_REPORT&hydrated=FULLY_HYDRATED
 GENOME_FASTA = GCF_020099175.1_Klebsiella_genome.fna  
 GENOME_GFF = GCF_020099175.1_Klebsiella_annotations.gff 
