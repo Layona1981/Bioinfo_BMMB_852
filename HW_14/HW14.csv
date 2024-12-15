@@ -1,0 +1,14 @@
+﻿Gene,Control,Treatment
+Gene A,300,800
+Gene B,350,750
+Gene C,600,150
+Gene D,550,120
+,,
+Principal Component ,Variance Explained,
+PC1,35%,
+PC2,32%,
+Total,67%,
+,,
+Metric,Expected Outcome,
+Adjusted p-values,Below 0.03,
+Borderline significance,p-values around 0.05-0.1,
