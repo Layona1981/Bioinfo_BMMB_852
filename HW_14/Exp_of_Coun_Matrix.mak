@@ -1,4 +1,3 @@
-# Differential Expression Analysis of Count Matrix
 
 # Variables
 PYTHON=python3
