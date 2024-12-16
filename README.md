@@ -25,6 +25,3 @@ This project performs RNA-Seq analysis using data obtained from the SRA database
 
 ## Results
 The resulting count matrix shows consistent gene expression levels for certain genes.
-
-## Discussion
-A few lines of the count matrix indicate genes with consistent expression across datasets.
